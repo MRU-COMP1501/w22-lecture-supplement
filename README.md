@@ -1,2 +1,2 @@
-# w22-lecture-supplement
-Supplemental materials for Winter 2022 lectures
+# COMP 1501 Lecture Supplement
+This repository contains supplemental materials created or displayed during COMP 1501 lectures. You can clone this to your local drive, or make a copy on GitHub by clicking the "Fork" button in the top right.
