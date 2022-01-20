@@ -1,0 +1,12 @@
+Problem: A restaurant tips out 2% of sales to the kitchen, divided evenly amongst 6 employees. If sales for a shift are $8000, how much does each employee take home in tips?
+
+Inputs: Total sales, Number of employees, Tip percentage
+Output: Tips per employee
+
+set total_sales to 8000
+set num_employees to 6
+set tip_percent to 0.02
+
+set total_tips to total_sales * tip_percent
+set tips_per_employee to total_tips / num_employees
+display tips_per_employee
