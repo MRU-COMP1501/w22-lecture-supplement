@@ -1,7 +1,3 @@
-# A bunch of stuff to allow imports from an adjacent directory
-from pathlib import Path
-import sys
-sys.path.append(str(Path(__file__).parents[1] / 'lecture14'))
 from word_list import VALID_WORDS
 
 import random
@@ -18,8 +14,25 @@ def green(txt):
 def yellow(txt):
     return YELLOW + txt + RESET
 
+# Write the solution here
+# Write a function that takes a guess word 
+# and a goal word then returns a new version of guess where:
+
+# Letters in the correct position are green
+# Letters that are in goal but in the incorrect position are yellow
+# All other letters are unchanged
 def check_word(guess, goal):
-    pass
+    result = ''
+    for i in range(len(goal)):
+        letter = guess[i]
+        if letter == goal[i]:
+            result += green(letter)
+        elif letter in goal:
+            result += yellow(letter)
+        else:
+            result += letter
+
+    return result
 
 def main():
     goal = random.choice(VALID_WORDS)
