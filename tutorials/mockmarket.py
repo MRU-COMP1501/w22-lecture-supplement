@@ -1,3 +1,22 @@
+
+def moving_average(data, win):
+    """
+    Computes the moving average of the data
+    for a given window size.
+
+    Args:
+        data (list): a list of floats
+        win (int): window size to average over
+    """
+
+    # result = ???
+    # for ???
+        # update result, optionally rounding the values to 2 decimal places
+
+    # duplicate the first value so the lists are the same length
+    return [result[0]] * win + result
+
+
 class MockMarket:
     """
     Class to provide a mock stock market for Tutorial 09
@@ -10,6 +29,18 @@ class MockMarket:
 
         self.init_gme()
         self.today = 0
+    
+    def has_data(self, win):
+        """
+        Boolean function to check if there is enough data for the given window.
+
+        Args:
+            win (int): Window size
+        
+        Returns:
+            bool: True if the market has enough data, otherwise False
+        """
+        return self.today >= win and self.today < len(self.gme) - win
 
     def advance_day(self):
         """
@@ -23,7 +54,7 @@ class MockMarket:
         Returns the "current" price of GME
         """
 
-        if self.today < 0 or self.today >= len(self.gme):
+        if not self.has_data(0):
             return None
 
         return self.gme[self.today]
@@ -39,7 +70,7 @@ class MockMarket:
             float: the closing price of GME for the given day
         """
 
-        if self.today < num or self.today >= len(self.gme) - num:
+        if not self.has_data(num):
             return None
 
         return self.gme[self.today - num : self.today]
@@ -66,19 +97,6 @@ class MockMarket:
                 print(f"    {val:.2f},")
             print("]")
 
-    def moving_average(self, window):
-        """
-        Computes the moving average of GME closing stock prices
-        for a given window size.
-        """
-
-        # result = ???
-        # for ???
-            # update result
-
-        # duplicate the first value so the lists are the same length
-        return [result[0]] * window + result
-
     def plot_data(self):
         """
         Function to plot data and zoom in on an interesting region.
@@ -88,8 +106,8 @@ class MockMarket:
         import matplotlib.pyplot as plt
 
         plt.plot(self.gme)
-        plt.plot(self.moving_average(5), linestyle="--")
-        plt.plot(self.moving_average(10), linestyle="-.")
+        plt.plot(moving_average(self.gme, 5), linestyle="--")
+        plt.plot(moving_average(self.gme, 10), linestyle="-.")
         plt.xlim([200, 260])
         plt.xlabel("Day")
         plt.ylabel("Price ($)")
@@ -612,10 +630,19 @@ class MockMarket:
         ]
 
 
+def test_moving_average():
+    market = MockMarket()
+
+    # grab just the first 10 values of the data to test
+    data = market.gme[:10]
+    print(data)
+    win = 3
+    print(moving_average(data, win))
+
 def main():
     market = MockMarket()
     market.plot_data()
 
 
 if __name__ == "__main__":
-    main()
+    test_moving_average()
