@@ -1,4 +1,3 @@
-
 def moving_average(data, win):
     """
     Computes the moving average of the data
@@ -8,10 +7,9 @@ def moving_average(data, win):
         data (list): a list of floats
         win (int): window size to average over
     """
-
     result = []
     for i in range(win, len(data) + 1):
-        val = sum(data[i - win:i]) / win
+        val = sum(data[i - win : i]) / win
         result.append(round(val, 2))
 
     # duplicate the first value so the lists are the same length
@@ -30,14 +28,14 @@ class MockMarket:
 
         self.init_gme()
         self.today = 0
-    
+
     def has_data(self, win):
         """
         Boolean function to check if there is enough data for the given window.
 
         Args:
             win (int): Window size
-        
+
         Returns:
             bool: True if the market has enough data, otherwise False
         """
@@ -639,6 +637,7 @@ def test_moving_average():
     print(data)
     win = 3
     print(moving_average(data, win))
+
 
 def main():
     market = MockMarket()

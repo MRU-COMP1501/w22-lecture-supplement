@@ -73,7 +73,7 @@ def buy_sell_shares(short_win, long_win):
         
         # update the loop variable by advancing the day in the market
         market.advance_day()
-    
+
     return total_per_share
 
 def main():
