@@ -1,6 +1,6 @@
 def elements(symbols, nums):
     index = 0
-    while nums[index] > 0 and index < len(nums):
+    while index < len(nums) and nums[index] > 0:
         print(symbols[index], nums[index], index)
         index += 1
     
