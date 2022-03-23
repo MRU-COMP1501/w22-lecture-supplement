@@ -1,0 +1,3761 @@
+REF_DATE,GEO,Products_and_product_groups,VALUE,Percent_Change
+Jul-06,Alberta,All-items,113.4,
+Jul-06,Alberta,Food,108.3,
+Jul-06,Alberta,Shelter,126.1,
+Jul-06,Alberta,"Household operations, furnishings and equipment",102.6,
+Jul-06,Alberta,Clothing and footwear,96.2,
+Jul-06,Alberta,Transportation,120.8,
+Jul-06,Alberta,Health and personal care,105.9,
+Jul-06,Alberta,"Recreation, education and reading",104,
+Jul-06,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",115.9,
+Jul-06,Alberta,Energy,154.3,
+Aug-06,Alberta,All-items,113.9,
+Aug-06,Alberta,Food,108.5,
+Aug-06,Alberta,Shelter,126.3,
+Aug-06,Alberta,"Household operations, furnishings and equipment",103,
+Aug-06,Alberta,Clothing and footwear,98.6,
+Aug-06,Alberta,Transportation,121.6,
+Aug-06,Alberta,Health and personal care,106.5,
+Aug-06,Alberta,"Recreation, education and reading",103.7,
+Aug-06,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",116.3,
+Aug-06,Alberta,Energy,154.1,
+Sep-06,Alberta,All-items,114.1,
+Sep-06,Alberta,Food,109,
+Sep-06,Alberta,Shelter,131.2,
+Sep-06,Alberta,"Household operations, furnishings and equipment",103.7,
+Sep-06,Alberta,Clothing and footwear,101.9,
+Sep-06,Alberta,Transportation,115.3,
+Sep-06,Alberta,Health and personal care,107,
+Sep-06,Alberta,"Recreation, education and reading",102.8,
+Sep-06,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",116.5,
+Sep-06,Alberta,Energy,145.6,
+Oct-06,Alberta,All-items,113,
+Oct-06,Alberta,Food,109.2,
+Oct-06,Alberta,Shelter,129.7,
+Oct-06,Alberta,"Household operations, furnishings and equipment",102.9,
+Oct-06,Alberta,Clothing and footwear,100.9,
+Oct-06,Alberta,Transportation,113.3,
+Oct-06,Alberta,Health and personal care,106.8,
+Oct-06,Alberta,"Recreation, education and reading",101.4,
+Oct-06,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",116.8,
+Oct-06,Alberta,Energy,131,
+Nov-06,Alberta,All-items,113.7,
+Nov-06,Alberta,Food,109.8,
+Nov-06,Alberta,Shelter,131.8,
+Nov-06,Alberta,"Household operations, furnishings and equipment",103,
+Nov-06,Alberta,Clothing and footwear,100.9,
+Nov-06,Alberta,Transportation,113.8,
+Nov-06,Alberta,Health and personal care,107.5,
+Nov-06,Alberta,"Recreation, education and reading",101,
+Nov-06,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",117.5,
+Nov-06,Alberta,Energy,135.2,
+Dec-06,Alberta,All-items,114.2,
+Dec-06,Alberta,Food,110.1,
+Dec-06,Alberta,Shelter,133.6,
+Dec-06,Alberta,"Household operations, furnishings and equipment",102.9,
+Dec-06,Alberta,Clothing and footwear,97,
+Dec-06,Alberta,Transportation,114.7,
+Dec-06,Alberta,Health and personal care,107,
+Dec-06,Alberta,"Recreation, education and reading",101,
+Dec-06,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",118.7,
+Dec-06,Alberta,Energy,139.3,
+Jan-07,Alberta,All-items,114.7,
+Jan-07,Alberta,Food,110.7,
+Jan-07,Alberta,Shelter,134.3,
+Jan-07,Alberta,"Household operations, furnishings and equipment",103.2,
+Jan-07,Alberta,Clothing and footwear,98.1,
+Jan-07,Alberta,Transportation,114.9,
+Jan-07,Alberta,Health and personal care,107.2,
+Jan-07,Alberta,"Recreation, education and reading",101.2,
+Jan-07,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",119.6,
+Jan-07,Alberta,Energy,141.1,
+Feb-07,Alberta,All-items,115,
+Feb-07,Alberta,Food,111.6,
+Feb-07,Alberta,Shelter,133.8,
+Feb-07,Alberta,"Household operations, furnishings and equipment",104,
+Feb-07,Alberta,Clothing and footwear,99.6,
+Feb-07,Alberta,Transportation,115.2,
+Feb-07,Alberta,Health and personal care,107.8,
+Feb-07,Alberta,"Recreation, education and reading",101.9,
+Feb-07,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",119.5,
+Feb-07,Alberta,Energy,137.4,
+Mar-07,Alberta,All-items,116.4,
+Mar-07,Alberta,Food,111.4,
+Mar-07,Alberta,Shelter,135.8,
+Mar-07,Alberta,"Household operations, furnishings and equipment",103.7,
+Mar-07,Alberta,Clothing and footwear,101.8,
+Mar-07,Alberta,Transportation,119,
+Mar-07,Alberta,Health and personal care,107.2,
+Mar-07,Alberta,"Recreation, education and reading",102.2,
+Mar-07,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",119.7,
+Mar-07,Alberta,Energy,149.8,
+Apr-07,Alberta,All-items,117.5,
+Apr-07,Alberta,Food,112,
+Apr-07,Alberta,Shelter,138,
+Apr-07,Alberta,"Household operations, furnishings and equipment",104.1,
+Apr-07,Alberta,Clothing and footwear,102,
+Apr-07,Alberta,Transportation,120.5,
+Apr-07,Alberta,Health and personal care,108.3,
+Apr-07,Alberta,"Recreation, education and reading",102.4,
+Apr-07,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",121.1,
+Apr-07,Alberta,Energy,157.2,
+May-07,Alberta,All-items,117.8,
+May-07,Alberta,Food,111.9,
+May-07,Alberta,Shelter,135.9,
+May-07,Alberta,"Household operations, furnishings and equipment",103.9,
+May-07,Alberta,Clothing and footwear,99.7,
+May-07,Alberta,Transportation,123.6,
+May-07,Alberta,Health and personal care,108.6,
+May-07,Alberta,"Recreation, education and reading",104.3,
+May-07,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",124.7,
+May-07,Alberta,Energy,152.8,
+Jun-07,Alberta,All-items,118.8,
+Jun-07,Alberta,Food,112.3,
+Jun-07,Alberta,Shelter,140,
+Jun-07,Alberta,"Household operations, furnishings and equipment",104.5,
+Jun-07,Alberta,Clothing and footwear,99.2,
+Jun-07,Alberta,Transportation,122.7,
+Jun-07,Alberta,Health and personal care,108.6,
+Jun-07,Alberta,"Recreation, education and reading",104.7,
+Jun-07,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",125.8,
+Jun-07,Alberta,Energy,159.2,
+Jul-07,Alberta,All-items,119.1,5
+Jul-07,Alberta,Food,112.4,3.8
+Jul-07,Alberta,Shelter,140.6,11.5
+Jul-07,Alberta,"Household operations, furnishings and equipment",104.7,2
+Jul-07,Alberta,Clothing and footwear,99.2,3.1
+Jul-07,Alberta,Transportation,122.4,1.3
+Jul-07,Alberta,Health and personal care,108.4,2.4
+Jul-07,Alberta,"Recreation, education and reading",105.9,1.8
+Jul-07,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",125.7,8.5
+Jul-07,Alberta,Energy,160.8,4.2
+Aug-07,Alberta,All-items,119.3,4.7
+Aug-07,Alberta,Food,112,3.2
+Aug-07,Alberta,Shelter,143.8,13.9
+Aug-07,Alberta,"Household operations, furnishings and equipment",104.9,1.8
+Aug-07,Alberta,Clothing and footwear,99,0.4
+Aug-07,Alberta,Transportation,119.8,-1.5
+Aug-07,Alberta,Health and personal care,108.9,2.3
+Aug-07,Alberta,"Recreation, education and reading",105.9,2.1
+Aug-07,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",125.1,7.6
+Aug-07,Alberta,Energy,161.7,4.9
+Sep-07,Alberta,All-items,119.4,4.6
+Sep-07,Alberta,Food,111.2,2
+Sep-07,Alberta,Shelter,143.1,9.1
+Sep-07,Alberta,"Household operations, furnishings and equipment",104.8,1.1
+Sep-07,Alberta,Clothing and footwear,101.3,-0.6
+Sep-07,Alberta,Transportation,121,4.9
+Sep-07,Alberta,Health and personal care,109.6,2.4
+Sep-07,Alberta,"Recreation, education and reading",105.9,3
+Sep-07,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",125.7,7.9
+Sep-07,Alberta,Energy,158.3,8.7
+Oct-07,Alberta,All-items,118.6,5
+Oct-07,Alberta,Food,110.6,1.3
+Oct-07,Alberta,Shelter,144.5,11.4
+Oct-07,Alberta,"Household operations, furnishings and equipment",104.4,1.5
+Oct-07,Alberta,Clothing and footwear,99.4,-1.5
+Oct-07,Alberta,Transportation,117.3,3.5
+Oct-07,Alberta,Health and personal care,109.2,2.2
+Oct-07,Alberta,"Recreation, education and reading",104.9,3.5
+Oct-07,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",125.6,7.5
+Oct-07,Alberta,Energy,150.8,15.1
+Nov-07,Alberta,All-items,119.1,4.7
+Nov-07,Alberta,Food,110.5,0.6
+Nov-07,Alberta,Shelter,145.3,10.2
+Nov-07,Alberta,"Household operations, furnishings and equipment",104.4,1.4
+Nov-07,Alberta,Clothing and footwear,100,-0.9
+Nov-07,Alberta,Transportation,118.9,4.5
+Nov-07,Alberta,Health and personal care,109.6,2
+Nov-07,Alberta,"Recreation, education and reading",104.3,3.3
+Nov-07,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",126.1,7.3
+Nov-07,Alberta,Energy,154.1,14
+Dec-07,Alberta,All-items,118.9,4.1
+Dec-07,Alberta,Food,110.4,0.3
+Dec-07,Alberta,Shelter,145.4,8.8
+Dec-07,Alberta,"Household operations, furnishings and equipment",104.9,1.9
+Dec-07,Alberta,Clothing and footwear,96.9,-0.1
+Dec-07,Alberta,Transportation,119.2,3.9
+Dec-07,Alberta,Health and personal care,109.6,2.4
+Dec-07,Alberta,"Recreation, education and reading",103.6,2.6
+Dec-07,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",126,6.1
+Dec-07,Alberta,Energy,153,9.8
+Jan-08,Alberta,All-items,118.8,3.6
+Jan-08,Alberta,Food,111.1,0.4
+Jan-08,Alberta,Shelter,146,8.7
+Jan-08,Alberta,"Household operations, furnishings and equipment",104.2,1
+Jan-08,Alberta,Clothing and footwear,96.5,-1.6
+Jan-08,Alberta,Transportation,119.3,3.8
+Jan-08,Alberta,Health and personal care,109.4,2.1
+Jan-08,Alberta,"Recreation, education and reading",101.8,0.6
+Jan-08,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",126.1,5.4
+Jan-08,Alberta,Energy,155.3,10.1
+Feb-08,Alberta,All-items,119,3.5
+Feb-08,Alberta,Food,111.6,0
+Feb-08,Alberta,Shelter,146.4,9.4
+Feb-08,Alberta,"Household operations, furnishings and equipment",103.9,-0.1
+Feb-08,Alberta,Clothing and footwear,96.3,-3.3
+Feb-08,Alberta,Transportation,118.6,3
+Feb-08,Alberta,Health and personal care,109.5,1.6
+Feb-08,Alberta,"Recreation, education and reading",102.7,0.8
+Feb-08,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",127.1,6.4
+Feb-08,Alberta,Energy,155.2,13
+Mar-08,Alberta,All-items,119.8,2.9
+Mar-08,Alberta,Food,111.6,0.2
+Mar-08,Alberta,Shelter,147.9,8.9
+Mar-08,Alberta,"Household operations, furnishings and equipment",104.2,0.5
+Mar-08,Alberta,Clothing and footwear,99.4,-2.4
+Mar-08,Alberta,Transportation,119.6,0.5
+Mar-08,Alberta,Health and personal care,109.2,1.9
+Mar-08,Alberta,"Recreation, education and reading",103.4,1.2
+Mar-08,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",126.9,6
+Mar-08,Alberta,Energy,162.6,8.5
+Apr-08,Alberta,All-items,121.3,3.2
+Apr-08,Alberta,Food,112.8,0.7
+Apr-08,Alberta,Shelter,150.9,9.3
+Apr-08,Alberta,"Household operations, furnishings and equipment",104.7,0.6
+Apr-08,Alberta,Clothing and footwear,97,-4.9
+Apr-08,Alberta,Transportation,122.4,1.6
+Apr-08,Alberta,Health and personal care,110.4,1.9
+Apr-08,Alberta,"Recreation, education and reading",104,1.6
+Apr-08,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",126.9,4.8
+Apr-08,Alberta,Energy,176.7,12.4
+May-08,Alberta,All-items,122.2,3.7
+May-08,Alberta,Food,113.8,1.7
+May-08,Alberta,Shelter,151.6,11.6
+May-08,Alberta,"Household operations, furnishings and equipment",104.2,0.3
+May-08,Alberta,Clothing and footwear,96.2,-3.5
+May-08,Alberta,Transportation,125.2,1.3
+May-08,Alberta,Health and personal care,110.4,1.7
+May-08,Alberta,"Recreation, education and reading",105.1,0.8
+May-08,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",127,1.8
+May-08,Alberta,Energy,184.6,20.8
+Jun-08,Alberta,All-items,124,4.4
+Jun-08,Alberta,Food,114.8,2.2
+Jun-08,Alberta,Shelter,156,11.4
+Jun-08,Alberta,"Household operations, furnishings and equipment",104.4,-0.1
+Jun-08,Alberta,Clothing and footwear,96.1,-3.1
+Jun-08,Alberta,Transportation,127.4,3.8
+Jun-08,Alberta,Health and personal care,111.2,2.4
+Jun-08,Alberta,"Recreation, education and reading",105.4,0.7
+Jun-08,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",127.7,1.5
+Jun-08,Alberta,Energy,204.6,28.5
+Jul-08,Alberta,All-items,123.3,3.5
+Jul-08,Alberta,Food,115.4,2.7
+Jul-08,Alberta,Shelter,152.8,8.7
+Jul-08,Alberta,"Household operations, furnishings and equipment",104.5,-0.2
+Jul-08,Alberta,Clothing and footwear,97.3,-1.9
+Jul-08,Alberta,Transportation,126.9,3.7
+Jul-08,Alberta,Health and personal care,111.2,2.6
+Jul-08,Alberta,"Recreation, education and reading",105.6,-0.3
+Jul-08,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",127.5,1.4
+Jul-08,Alberta,Energy,194.5,21
+Aug-08,Alberta,All-items,124.1,4
+Aug-08,Alberta,Food,116.6,4.1
+Aug-08,Alberta,Shelter,156.9,9.1
+Aug-08,Alberta,"Household operations, furnishings and equipment",104.5,-0.4
+Aug-08,Alberta,Clothing and footwear,98.1,-0.9
+Aug-08,Alberta,Transportation,125,4.3
+Aug-08,Alberta,Health and personal care,111.2,2.1
+Aug-08,Alberta,"Recreation, education and reading",105.4,-0.5
+Aug-08,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",127.9,2.2
+Aug-08,Alberta,Energy,201.6,24.7
+Sep-08,Alberta,All-items,122.8,2.8
+Sep-08,Alberta,Food,116.8,5
+Sep-08,Alberta,Shelter,150,4.8
+Sep-08,Alberta,"Household operations, furnishings and equipment",106.4,1.5
+Sep-08,Alberta,Clothing and footwear,98.6,-2.7
+Sep-08,Alberta,Transportation,124.4,2.8
+Sep-08,Alberta,Health and personal care,111.8,2
+Sep-08,Alberta,"Recreation, education and reading",105.8,-0.1
+Sep-08,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",128.2,2
+Sep-08,Alberta,Energy,179.7,13.5
+Oct-08,Alberta,All-items,121.5,2.4
+Oct-08,Alberta,Food,116.7,5.5
+Oct-08,Alberta,Shelter,149.7,3.6
+Oct-08,Alberta,"Household operations, furnishings and equipment",105.6,1.1
+Oct-08,Alberta,Clothing and footwear,97.5,-1.9
+Oct-08,Alberta,Transportation,119.5,1.9
+Oct-08,Alberta,Health and personal care,112,2.6
+Oct-08,Alberta,"Recreation, education and reading",104.7,-0.2
+Oct-08,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",128.8,2.5
+Oct-08,Alberta,Energy,161.3,7
+Nov-08,Alberta,All-items,121.6,2.1
+Nov-08,Alberta,Food,118.6,7.3
+Nov-08,Alberta,Shelter,151.6,4.3
+Nov-08,Alberta,"Household operations, furnishings and equipment",106,1.5
+Nov-08,Alberta,Clothing and footwear,96.9,-3.1
+Nov-08,Alberta,Transportation,116.8,-1.8
+Nov-08,Alberta,Health and personal care,112.2,2.4
+Nov-08,Alberta,"Recreation, education and reading",103.6,-0.7
+Nov-08,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",129.1,2.4
+Nov-08,Alberta,Energy,148.7,-3.5
+Dec-08,Alberta,All-items,121.2,1.9
+Dec-08,Alberta,Food,119.6,8.3
+Dec-08,Alberta,Shelter,153,5.2
+Dec-08,Alberta,"Household operations, furnishings and equipment",105.4,0.5
+Dec-08,Alberta,Clothing and footwear,95.2,-1.8
+Dec-08,Alberta,Transportation,113.5,-4.8
+Dec-08,Alberta,Health and personal care,111.9,2.1
+Dec-08,Alberta,"Recreation, education and reading",103.1,-0.5
+Dec-08,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",128.9,2.3
+Dec-08,Alberta,Energy,142.7,-6.7
+Jan-09,Alberta,All-items,120.2,1.2
+Jan-09,Alberta,Food,119.8,7.8
+Jan-09,Alberta,Shelter,150.3,2.9
+Jan-09,Alberta,"Household operations, furnishings and equipment",105.6,1.3
+Jan-09,Alberta,Clothing and footwear,96.9,0.4
+Jan-09,Alberta,Transportation,111.7,-6.4
+Jan-09,Alberta,Health and personal care,112.5,2.8
+Jan-09,Alberta,"Recreation, education and reading",101.8,0
+Jan-09,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",129.2,2.5
+Jan-09,Alberta,Energy,135.7,-12.6
+Feb-09,Alberta,All-items,121.5,2.1
+Feb-09,Alberta,Food,120.2,7.7
+Feb-09,Alberta,Shelter,151.8,3.7
+Feb-09,Alberta,"Household operations, furnishings and equipment",107.2,3.2
+Feb-09,Alberta,Clothing and footwear,97.8,1.6
+Feb-09,Alberta,Transportation,114,-3.9
+Feb-09,Alberta,Health and personal care,112.4,2.6
+Feb-09,Alberta,"Recreation, education and reading",103,0.3
+Feb-09,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",128.7,1.3
+Feb-09,Alberta,Energy,146.5,-5.6
+Mar-09,Alberta,All-items,120.9,0.9
+Mar-09,Alberta,Food,120.9,8.3
+Mar-09,Alberta,Shelter,148.6,0.5
+Mar-09,Alberta,"Household operations, furnishings and equipment",107.3,3
+Mar-09,Alberta,Clothing and footwear,99.1,-0.3
+Mar-09,Alberta,Transportation,113.7,-4.9
+Mar-09,Alberta,Health and personal care,112.2,2.7
+Mar-09,Alberta,"Recreation, education and reading",103.4,0
+Mar-09,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",128.7,1.4
+Mar-09,Alberta,Energy,137.4,-15.5
+Apr-09,Alberta,All-items,120.4,-0.7
+Apr-09,Alberta,Food,120.6,6.9
+Apr-09,Alberta,Shelter,146.3,-3
+Apr-09,Alberta,"Household operations, furnishings and equipment",107.2,2.4
+Apr-09,Alberta,Clothing and footwear,97.7,0.7
+Apr-09,Alberta,Transportation,113.7,-7.1
+Apr-09,Alberta,Health and personal care,113.9,3.2
+Apr-09,Alberta,"Recreation, education and reading",104.1,0.1
+Apr-09,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",128.2,1
+Apr-09,Alberta,Energy,131.2,-25.7
+May-09,Alberta,All-items,121.4,-0.7
+May-09,Alberta,Food,121.3,6.6
+May-09,Alberta,Shelter,145.8,-3.8
+May-09,Alberta,"Household operations, furnishings and equipment",107.8,3.5
+May-09,Alberta,Clothing and footwear,96.2,0
+May-09,Alberta,Transportation,116.1,-7.3
+May-09,Alberta,Health and personal care,114.2,3.4
+May-09,Alberta,"Recreation, education and reading",106.2,1
+May-09,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",135.5,6.7
+May-09,Alberta,Energy,133.5,-27.7
+Jun-09,Alberta,All-items,122,-1.6
+Jun-09,Alberta,Food,120.8,5.2
+Jun-09,Alberta,Shelter,146.2,-6.3
+Jun-09,Alberta,"Household operations, furnishings and equipment",107.6,3.1
+Jun-09,Alberta,Clothing and footwear,96,-0.1
+Jun-09,Alberta,Transportation,119,-6.6
+Jun-09,Alberta,Health and personal care,115.2,3.6
+Jun-09,Alberta,"Recreation, education and reading",106.3,0.9
+Jun-09,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",135.8,6.3
+Jun-09,Alberta,Energy,141.4,-30.9
+Jul-09,Alberta,All-items,121.5,-1.5
+Jul-09,Alberta,Food,121.2,5
+Jul-09,Alberta,Shelter,146.1,-4.4
+Jul-09,Alberta,"Household operations, furnishings and equipment",107.6,3
+Jul-09,Alberta,Clothing and footwear,94.4,-3
+Jul-09,Alberta,Transportation,116.7,-8
+Jul-09,Alberta,Health and personal care,115.2,3.6
+Jul-09,Alberta,"Recreation, education and reading",106.6,0.9
+Jul-09,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",134.7,5.6
+Jul-09,Alberta,Energy,137.4,-29.4
+Aug-09,Alberta,All-items,122,-1.7
+Aug-09,Alberta,Food,120.8,3.6
+Aug-09,Alberta,Shelter,147.4,-6.1
+Aug-09,Alberta,"Household operations, furnishings and equipment",107.7,3.1
+Aug-09,Alberta,Clothing and footwear,97.1,-1
+Aug-09,Alberta,Transportation,117,-6.4
+Aug-09,Alberta,Health and personal care,114.7,3.1
+Aug-09,Alberta,"Recreation, education and reading",106.7,1.2
+Aug-09,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",134.1,4.8
+Aug-09,Alberta,Energy,143.9,-28.6
+Sep-09,Alberta,All-items,121.5,-1.1
+Sep-09,Alberta,Food,119.2,2.1
+Sep-09,Alberta,Shelter,145.2,-3.2
+Sep-09,Alberta,"Household operations, furnishings and equipment",108.4,1.9
+Sep-09,Alberta,Clothing and footwear,98.4,-0.2
+Sep-09,Alberta,Transportation,115.8,-6.9
+Sep-09,Alberta,Health and personal care,120.1,7.4
+Sep-09,Alberta,"Recreation, education and reading",107.4,1.5
+Sep-09,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",133.7,4.3
+Sep-09,Alberta,Energy,136.2,-24.2
+Oct-09,Alberta,All-items,121.6,0.1
+Oct-09,Alberta,Food,119.5,2.4
+Oct-09,Alberta,Shelter,145.4,-2.9
+Oct-09,Alberta,"Household operations, furnishings and equipment",109.5,3.7
+Oct-09,Alberta,Clothing and footwear,100.3,2.9
+Oct-09,Alberta,Transportation,115.3,-3.5
+Oct-09,Alberta,Health and personal care,120.1,7.2
+Oct-09,Alberta,"Recreation, education and reading",106.5,1.7
+Oct-09,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",133.4,3.6
+Oct-09,Alberta,Energy,133.1,-17.5
+Nov-09,Alberta,All-items,122.6,0.8
+Nov-09,Alberta,Food,120.4,1.5
+Nov-09,Alberta,Shelter,147.9,-2.4
+Nov-09,Alberta,"Household operations, furnishings and equipment",109.7,3.5
+Nov-09,Alberta,Clothing and footwear,99.4,2.6
+Nov-09,Alberta,Transportation,117,0.2
+Nov-09,Alberta,Health and personal care,120,7
+Nov-09,Alberta,"Recreation, education and reading",105.9,2.2
+Nov-09,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",133.6,3.5
+Nov-09,Alberta,Energy,144.5,-2.8
+Dec-09,Alberta,All-items,121.9,0.6
+Dec-09,Alberta,Food,120.7,0.9
+Dec-09,Alberta,Shelter,147.4,-3.7
+Dec-09,Alberta,"Household operations, furnishings and equipment",107.4,1.9
+Dec-09,Alberta,Clothing and footwear,96.1,0.9
+Dec-09,Alberta,Transportation,116.9,3
+Dec-09,Alberta,Health and personal care,120.2,7.4
+Dec-09,Alberta,"Recreation, education and reading",105.3,2.1
+Dec-09,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",133.3,3.4
+Dec-09,Alberta,Energy,141,-1.2
+Jan-10,Alberta,All-items,122.3,1.7
+Jan-10,Alberta,Food,121,1
+Jan-10,Alberta,Shelter,148.5,-1.2
+Jan-10,Alberta,"Household operations, furnishings and equipment",107.6,1.9
+Jan-10,Alberta,Clothing and footwear,96.1,-0.8
+Jan-10,Alberta,Transportation,118.8,6.4
+Jan-10,Alberta,Health and personal care,119.9,6.6
+Jan-10,Alberta,"Recreation, education and reading",103.4,1.6
+Jan-10,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",133.4,3.3
+Jan-10,Alberta,Energy,148.3,9.3
+Feb-10,Alberta,All-items,122.7,1
+Feb-10,Alberta,Food,121.8,1.3
+Feb-10,Alberta,Shelter,148.2,-2.4
+Feb-10,Alberta,"Household operations, furnishings and equipment",106.9,-0.3
+Feb-10,Alberta,Clothing and footwear,96,-1.8
+Feb-10,Alberta,Transportation,117.9,3.4
+Feb-10,Alberta,Health and personal care,119.9,6.7
+Feb-10,Alberta,"Recreation, education and reading",107.9,4.8
+Feb-10,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",133.5,3.7
+Feb-10,Alberta,Energy,144.5,-1.4
+Mar-10,Alberta,All-items,122.1,1
+Mar-10,Alberta,Food,122.3,1.2
+Mar-10,Alberta,Shelter,146.7,-1.3
+Mar-10,Alberta,"Household operations, furnishings and equipment",106.9,-0.4
+Mar-10,Alberta,Clothing and footwear,97.7,-1.4
+Mar-10,Alberta,Transportation,117.6,3.4
+Mar-10,Alberta,Health and personal care,119.5,6.5
+Mar-10,Alberta,"Recreation, education and reading",105.3,1.8
+Mar-10,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",133.5,3.7
+Mar-10,Alberta,Energy,141.5,3
+Apr-10,Alberta,All-items,122.3,1.6
+Apr-10,Alberta,Food,122,1.2
+Apr-10,Alberta,Shelter,145.3,-0.7
+Apr-10,Alberta,"Household operations, furnishings and equipment",107.8,0.6
+Apr-10,Alberta,Clothing and footwear,98.7,1
+Apr-10,Alberta,Transportation,119,4.7
+Apr-10,Alberta,Health and personal care,121.1,6.3
+Apr-10,Alberta,"Recreation, education and reading",105.9,1.7
+Apr-10,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",133.7,4.3
+Apr-10,Alberta,Energy,137.1,4.5
+May-10,Alberta,All-items,122.7,1.1
+May-10,Alberta,Food,121.6,0.2
+May-10,Alberta,Shelter,145.6,-0.1
+May-10,Alberta,"Household operations, furnishings and equipment",108.2,0.4
+May-10,Alberta,Clothing and footwear,97.3,1.1
+May-10,Alberta,Transportation,120.6,3.9
+May-10,Alberta,Health and personal care,121.1,6
+May-10,Alberta,"Recreation, education and reading",106.4,0.2
+May-10,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",133.5,-1.5
+May-10,Alberta,Energy,138.9,4
+Jun-10,Alberta,All-items,122.7,0.6
+Jun-10,Alberta,Food,121.7,0.7
+Jun-10,Alberta,Shelter,147.5,0.9
+Jun-10,Alberta,"Household operations, furnishings and equipment",107.5,-0.1
+Jun-10,Alberta,Clothing and footwear,95,-1
+Jun-10,Alberta,Transportation,119.1,0.1
+Jun-10,Alberta,Health and personal care,121.6,5.6
+Jun-10,Alberta,"Recreation, education and reading",106.7,0.4
+Jun-10,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",133.9,-1.4
+Jun-10,Alberta,Energy,140.8,-0.4
+Jul-10,Alberta,All-items,123.3,1.5
+Jul-10,Alberta,Food,122.3,0.9
+Jul-10,Alberta,Shelter,149.7,2.5
+Jul-10,Alberta,"Household operations, furnishings and equipment",107.6,0
+Jul-10,Alberta,Clothing and footwear,94.3,-0.1
+Jul-10,Alberta,Transportation,118,1.1
+Jul-10,Alberta,Health and personal care,122.3,6.2
+Jul-10,Alberta,"Recreation, education and reading",107.5,0.8
+Jul-10,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",133.9,-0.6
+Jul-10,Alberta,Energy,149.2,8.6
+Aug-10,Alberta,All-items,122.7,0.6
+Aug-10,Alberta,Food,121.9,0.9
+Aug-10,Alberta,Shelter,147.9,0.3
+Aug-10,Alberta,"Household operations, furnishings and equipment",107.6,-0.1
+Aug-10,Alberta,Clothing and footwear,94.9,-2.3
+Aug-10,Alberta,Transportation,118,0.9
+Aug-10,Alberta,Health and personal care,122.4,6.7
+Aug-10,Alberta,"Recreation, education and reading",106.8,0.1
+Aug-10,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",133.3,-0.6
+Aug-10,Alberta,Energy,145.1,0.8
+Sep-10,Alberta,All-items,122.6,0.9
+Sep-10,Alberta,Food,121.2,1.7
+Sep-10,Alberta,Shelter,147.9,1.9
+Sep-10,Alberta,"Household operations, furnishings and equipment",107.2,-1.1
+Sep-10,Alberta,Clothing and footwear,96.6,-1.8
+Sep-10,Alberta,Transportation,118.1,2
+Sep-10,Alberta,Health and personal care,122.4,1.9
+Sep-10,Alberta,"Recreation, education and reading",106.6,-0.7
+Sep-10,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",133.5,-0.1
+Sep-10,Alberta,Energy,144.2,5.9
+Oct-10,Alberta,All-items,123,1.2
+Oct-10,Alberta,Food,121.8,1.9
+Oct-10,Alberta,Shelter,147.7,1.6
+Oct-10,Alberta,"Household operations, furnishings and equipment",108.5,-0.9
+Oct-10,Alberta,Clothing and footwear,98.4,-1.9
+Oct-10,Alberta,Transportation,118.9,3.1
+Oct-10,Alberta,Health and personal care,122.6,2.1
+Oct-10,Alberta,"Recreation, education and reading",105.8,-0.7
+Oct-10,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",133.7,0.2
+Oct-10,Alberta,Energy,140.6,5.6
+Nov-10,Alberta,All-items,122.7,0.1
+Nov-10,Alberta,Food,122.3,1.6
+Nov-10,Alberta,Shelter,147.1,-0.5
+Nov-10,Alberta,"Household operations, furnishings and equipment",108.8,-0.8
+Nov-10,Alberta,Clothing and footwear,95.1,-4.3
+Nov-10,Alberta,Transportation,119.5,2.1
+Nov-10,Alberta,Health and personal care,121.9,1.6
+Nov-10,Alberta,"Recreation, education and reading",104.8,-1
+Nov-10,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",134.5,0.7
+Nov-10,Alberta,Energy,137.8,-4.6
+Dec-10,Alberta,All-items,122.9,0.8
+Dec-10,Alberta,Food,122,1.1
+Dec-10,Alberta,Shelter,149.1,1.2
+Dec-10,Alberta,"Household operations, furnishings and equipment",107.8,0.4
+Dec-10,Alberta,Clothing and footwear,91.9,-4.4
+Dec-10,Alberta,Transportation,120.4,3
+Dec-10,Alberta,Health and personal care,122.1,1.6
+Dec-10,Alberta,"Recreation, education and reading",104.3,-0.9
+Dec-10,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",134,0.5
+Dec-10,Alberta,Energy,147.5,4.6
+Jan-11,Alberta,All-items,123.5,1
+Jan-11,Alberta,Food,123.3,1.9
+Jan-11,Alberta,Shelter,149.2,0.5
+Jan-11,Alberta,"Household operations, furnishings and equipment",108.1,0.5
+Jan-11,Alberta,Clothing and footwear,92.8,-3.4
+Jan-11,Alberta,Transportation,122.4,3
+Jan-11,Alberta,Health and personal care,122,1.8
+Jan-11,Alberta,"Recreation, education and reading",103.3,-0.1
+Jan-11,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",134.6,0.9
+Jan-11,Alberta,Energy,151.8,2.4
+Feb-11,Alberta,All-items,124.2,1.2
+Feb-11,Alberta,Food,123.1,1.1
+Feb-11,Alberta,Shelter,151.1,2
+Feb-11,Alberta,"Household operations, furnishings and equipment",108.6,1.6
+Feb-11,Alberta,Clothing and footwear,94.1,-2
+Feb-11,Alberta,Transportation,121.9,3.4
+Feb-11,Alberta,Health and personal care,122.9,2.5
+Feb-11,Alberta,"Recreation, education and reading",104.9,-2.8
+Feb-11,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",134,0.4
+Feb-11,Alberta,Energy,158.1,9.4
+Mar-11,Alberta,All-items,124.5,2
+Mar-11,Alberta,Food,124.6,1.9
+Mar-11,Alberta,Shelter,148.5,1.2
+Mar-11,Alberta,"Household operations, furnishings and equipment",109.1,2.1
+Mar-11,Alberta,Clothing and footwear,97,-0.7
+Mar-11,Alberta,Transportation,124.2,5.6
+Mar-11,Alberta,Health and personal care,122.7,2.7
+Mar-11,Alberta,"Recreation, education and reading",104.9,-0.4
+Mar-11,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",134.1,0.4
+Mar-11,Alberta,Energy,156.4,10.5
+Apr-11,Alberta,All-items,126,3
+Apr-11,Alberta,Food,124.8,2.3
+Apr-11,Alberta,Shelter,153.6,5.7
+Apr-11,Alberta,"Household operations, furnishings and equipment",108.1,0.3
+Apr-11,Alberta,Clothing and footwear,94,-4.8
+Apr-11,Alberta,Transportation,126.2,6.1
+Apr-11,Alberta,Health and personal care,123.5,2
+Apr-11,Alberta,"Recreation, education and reading",105.4,-0.5
+Apr-11,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",134.2,0.4
+Apr-11,Alberta,Energy,176.7,28.9
+May-11,Alberta,All-items,126.1,2.8
+May-11,Alberta,Food,125.3,3
+May-11,Alberta,Shelter,149.3,2.5
+May-11,Alberta,"Household operations, furnishings and equipment",108.1,-0.1
+May-11,Alberta,Clothing and footwear,95.8,-1.5
+May-11,Alberta,Transportation,129.1,7
+May-11,Alberta,Health and personal care,124.3,2.6
+May-11,Alberta,"Recreation, education and reading",107.2,0.8
+May-11,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",135.1,1.2
+May-11,Alberta,Energy,169.1,21.7
+Jun-11,Alberta,All-items,125.3,2.1
+Jun-11,Alberta,Food,125.8,3.4
+Jun-11,Alberta,Shelter,150.4,2
+Jun-11,Alberta,"Household operations, furnishings and equipment",109.1,1.5
+Jun-11,Alberta,Clothing and footwear,92.1,-3.1
+Jun-11,Alberta,Transportation,124,4.1
+Jun-11,Alberta,Health and personal care,124.7,2.5
+Jun-11,Alberta,"Recreation, education and reading",107.1,0.4
+Jun-11,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",135.2,1
+Jun-11,Alberta,Energy,164.9,17.1
+Jul-11,Alberta,All-items,125.7,1.9
+Jul-11,Alberta,Food,126.1,3.1
+Jul-11,Alberta,Shelter,152.8,2.1
+Jul-11,Alberta,"Household operations, furnishings and equipment",109.1,1.4
+Jul-11,Alberta,Clothing and footwear,91.8,-2.7
+Jul-11,Alberta,Transportation,123.2,4.4
+Jul-11,Alberta,Health and personal care,124,1.4
+Jul-11,Alberta,"Recreation, education and reading",107.9,0.4
+Jul-11,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",135.1,0.9
+Jul-11,Alberta,Energy,170.3,14.1
+Aug-11,Alberta,All-items,126.3,2.9
+Aug-11,Alberta,Food,126.3,3.6
+Aug-11,Alberta,Shelter,154.8,4.7
+Aug-11,Alberta,"Household operations, furnishings and equipment",109.5,1.8
+Aug-11,Alberta,Clothing and footwear,91.2,-3.9
+Aug-11,Alberta,Transportation,123.8,4.9
+Aug-11,Alberta,Health and personal care,126,2.9
+Aug-11,Alberta,"Recreation, education and reading",107.1,0.3
+Aug-11,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",135.3,1.5
+Aug-11,Alberta,Energy,176,21.3
+Sep-11,Alberta,All-items,126,2.8
+Sep-11,Alberta,Food,126.6,4.5
+Sep-11,Alberta,Shelter,150.2,1.6
+Sep-11,Alberta,"Household operations, furnishings and equipment",110.3,2.9
+Sep-11,Alberta,Clothing and footwear,95.5,-1.1
+Sep-11,Alberta,Transportation,125.1,5.9
+Sep-11,Alberta,Health and personal care,126.4,3.3
+Sep-11,Alberta,"Recreation, education and reading",106.8,0.2
+Sep-11,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",135.5,1.5
+Sep-11,Alberta,Energy,163.1,13.1
+Oct-11,Alberta,All-items,127.2,3.4
+Oct-11,Alberta,Food,126.4,3.8
+Oct-11,Alberta,Shelter,155.7,5.4
+Oct-11,Alberta,"Household operations, furnishings and equipment",110.3,1.7
+Oct-11,Alberta,Clothing and footwear,97.4,-1
+Oct-11,Alberta,Transportation,125.6,5.6
+Oct-11,Alberta,Health and personal care,126.2,2.9
+Oct-11,Alberta,"Recreation, education and reading",105.2,-0.6
+Oct-11,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",135.7,1.5
+Oct-11,Alberta,Energy,176.5,25.5
+Nov-11,Alberta,All-items,126.6,3.2
+Nov-11,Alberta,Food,127,3.8
+Nov-11,Alberta,Shelter,153,4
+Nov-11,Alberta,"Household operations, furnishings and equipment",110,1.1
+Nov-11,Alberta,Clothing and footwear,94.1,-1.1
+Nov-11,Alberta,Transportation,126.8,6.1
+Nov-11,Alberta,Health and personal care,126.8,4
+Nov-11,Alberta,"Recreation, education and reading",104.4,-0.4
+Nov-11,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",135.8,1
+Nov-11,Alberta,Energy,163.5,18.7
+Dec-11,Alberta,All-items,126.5,2.9
+Dec-11,Alberta,Food,127.4,4.4
+Dec-11,Alberta,Shelter,156.6,5
+Dec-11,Alberta,"Household operations, furnishings and equipment",109.5,1.6
+Dec-11,Alberta,Clothing and footwear,90.7,-1.3
+Dec-11,Alberta,Transportation,123.9,2.9
+Dec-11,Alberta,Health and personal care,126.6,3.7
+Dec-11,Alberta,"Recreation, education and reading",104.1,-0.2
+Dec-11,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",135.9,1.4
+Dec-11,Alberta,Energy,171,15.9
+Jan-12,Alberta,All-items,127.1,2.9
+Jan-12,Alberta,Food,128,3.8
+Jan-12,Alberta,Shelter,157.5,5.6
+Jan-12,Alberta,"Household operations, furnishings and equipment",109.7,1.5
+Jan-12,Alberta,Clothing and footwear,92.2,-0.6
+Jan-12,Alberta,Transportation,125.6,2.6
+Jan-12,Alberta,Health and personal care,126.4,3.6
+Jan-12,Alberta,"Recreation, education and reading",102.7,-0.6
+Jan-12,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",136.1,1.1
+Jan-12,Alberta,Energy,173.8,14.5
+Feb-12,Alberta,All-items,126.6,1.9
+Feb-12,Alberta,Food,127.8,3.8
+Feb-12,Alberta,Shelter,155.1,2.6
+Feb-12,Alberta,"Household operations, furnishings and equipment",110.1,1.4
+Feb-12,Alberta,Clothing and footwear,90.7,-3.6
+Feb-12,Alberta,Transportation,125.4,2.9
+Feb-12,Alberta,Health and personal care,126.8,3.2
+Feb-12,Alberta,"Recreation, education and reading",103.6,-1.2
+Feb-12,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",137.6,2.7
+Feb-12,Alberta,Energy,169.3,7.1
+Mar-12,Alberta,All-items,126.6,1.7
+Mar-12,Alberta,Food,127.2,2.1
+Mar-12,Alberta,Shelter,150.5,1.3
+Mar-12,Alberta,"Household operations, furnishings and equipment",110.4,1.2
+Mar-12,Alberta,Clothing and footwear,95.9,-1.1
+Mar-12,Alberta,Transportation,127.8,2.9
+Mar-12,Alberta,Health and personal care,127.6,4
+Mar-12,Alberta,"Recreation, education and reading",104.9,0
+Mar-12,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",137.8,2.8
+Mar-12,Alberta,Energy,161.5,3.3
+Apr-12,Alberta,All-items,127,0.8
+Apr-12,Alberta,Food,126.7,1.5
+Apr-12,Alberta,Shelter,149.9,-2.4
+Apr-12,Alberta,"Household operations, furnishings and equipment",110.3,2
+Apr-12,Alberta,Clothing and footwear,95.8,1.9
+Apr-12,Alberta,Transportation,130.2,3.2
+Apr-12,Alberta,Health and personal care,128.1,3.7
+Apr-12,Alberta,"Recreation, education and reading",105.5,0.1
+Apr-12,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",137.9,2.8
+Apr-12,Alberta,Energy,161.1,-8.8
+May-12,Alberta,All-items,126.6,0.4
+May-12,Alberta,Food,127.6,1.8
+May-12,Alberta,Shelter,147.9,-0.9
+May-12,Alberta,"Household operations, furnishings and equipment",110.4,2.1
+May-12,Alberta,Clothing and footwear,95,-0.8
+May-12,Alberta,Transportation,128.9,-0.2
+May-12,Alberta,Health and personal care,127.9,2.9
+May-12,Alberta,"Recreation, education and reading",107,-0.2
+May-12,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",138.3,2.4
+May-12,Alberta,Energy,152.3,-9.9
+Jun-12,Alberta,All-items,126.9,1.3
+Jun-12,Alberta,Food,128,1.7
+Jun-12,Alberta,Shelter,150.8,0.3
+Jun-12,Alberta,"Household operations, furnishings and equipment",110.8,1.6
+Jun-12,Alberta,Clothing and footwear,92,-0.1
+Jun-12,Alberta,Transportation,127.3,2.7
+Jun-12,Alberta,Health and personal care,128,2.6
+Jun-12,Alberta,"Recreation, education and reading",107,-0.1
+Jun-12,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",138.4,2.4
+Jun-12,Alberta,Energy,161.2,-2.2
+Jul-12,Alberta,All-items,126.8,0.9
+Jul-12,Alberta,Food,129.3,2.5
+Jul-12,Alberta,Shelter,151.4,-0.9
+Jul-12,Alberta,"Household operations, furnishings and equipment",111,1.7
+Jul-12,Alberta,Clothing and footwear,90.5,-1.4
+Jul-12,Alberta,Transportation,125.4,1.8
+Jul-12,Alberta,Health and personal care,127.6,2.9
+Jul-12,Alberta,"Recreation, education and reading",107.9,0
+Jul-12,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",138.6,2.6
+Jul-12,Alberta,Energy,160.8,-5.6
+Aug-12,Alberta,All-items,127.6,1
+Aug-12,Alberta,Food,129.4,2.5
+Aug-12,Alberta,Shelter,153.8,-0.6
+Aug-12,Alberta,"Household operations, furnishings and equipment",110.8,1.2
+Aug-12,Alberta,Clothing and footwear,90.6,-0.7
+Aug-12,Alberta,Transportation,126.3,2
+Aug-12,Alberta,Health and personal care,128.4,1.9
+Aug-12,Alberta,"Recreation, education and reading",108.1,0.9
+Aug-12,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",138.8,2.6
+Aug-12,Alberta,Energy,169.7,-3.6
+Sep-12,Alberta,All-items,127.8,1.4
+Sep-12,Alberta,Food,128.3,1.3
+Sep-12,Alberta,Shelter,152.6,1.6
+Sep-12,Alberta,"Household operations, furnishings and equipment",111.5,1.1
+Sep-12,Alberta,Clothing and footwear,94.9,-0.6
+Sep-12,Alberta,Transportation,127.7,2.1
+Sep-12,Alberta,Health and personal care,127.9,1.2
+Sep-12,Alberta,"Recreation, education and reading",107.9,1
+Sep-12,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",138.4,2.1
+Sep-12,Alberta,Energy,169.3,3.8
+Oct-12,Alberta,All-items,128,0.6
+Oct-12,Alberta,Food,128,1.3
+Oct-12,Alberta,Shelter,153.8,-1.2
+Oct-12,Alberta,"Household operations, furnishings and equipment",111.8,1.4
+Oct-12,Alberta,Clothing and footwear,97.1,-0.3
+Oct-12,Alberta,Transportation,127.8,1.8
+Oct-12,Alberta,Health and personal care,128.3,1.7
+Oct-12,Alberta,"Recreation, education and reading",106.1,0.9
+Oct-12,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",138.4,2
+Oct-12,Alberta,Energy,167.8,-4.9
+Nov-12,Alberta,All-items,127.3,0.6
+Nov-12,Alberta,Food,128.8,1.4
+Nov-12,Alberta,Shelter,153.2,0.1
+Nov-12,Alberta,"Household operations, furnishings and equipment",112.3,2.1
+Nov-12,Alberta,Clothing and footwear,93.9,-0.2
+Nov-12,Alberta,Transportation,125.7,-0.9
+Nov-12,Alberta,Health and personal care,128,0.9
+Nov-12,Alberta,"Recreation, education and reading",105.2,0.8
+Nov-12,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",138.6,2.1
+Nov-12,Alberta,Energy,156.3,-4.4
+Dec-12,Alberta,All-items,126.5,0
+Dec-12,Alberta,Food,128.5,0.9
+Dec-12,Alberta,Shelter,153.3,-2.1
+Dec-12,Alberta,"Household operations, furnishings and equipment",111.6,1.9
+Dec-12,Alberta,Clothing and footwear,91.1,0.4
+Dec-12,Alberta,Transportation,124.3,0.3
+Dec-12,Alberta,Health and personal care,127.7,0.9
+Dec-12,Alberta,"Recreation, education and reading",104.6,0.5
+Dec-12,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",137.5,1.2
+Dec-12,Alberta,Energy,155.2,-9.2
+Jan-13,Alberta,All-items,126.5,-0.5
+Jan-13,Alberta,Food,129.8,1.4
+Jan-13,Alberta,Shelter,154.4,-2
+Jan-13,Alberta,"Household operations, furnishings and equipment",111.4,1.5
+Jan-13,Alberta,Clothing and footwear,90,-2.4
+Jan-13,Alberta,Transportation,123.3,-1.8
+Jan-13,Alberta,Health and personal care,127.8,1.1
+Jan-13,Alberta,"Recreation, education and reading",103.5,0.8
+Jan-13,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",138.8,2
+Jan-13,Alberta,Energy,151.8,-12.7
+Feb-13,Alberta,All-items,127.7,0.9
+Feb-13,Alberta,Food,130.4,2
+Feb-13,Alberta,Shelter,153.9,-0.8
+Feb-13,Alberta,"Household operations, furnishings and equipment",112,1.7
+Feb-13,Alberta,Clothing and footwear,90.4,-0.3
+Feb-13,Alberta,Transportation,127.6,1.8
+Feb-13,Alberta,Health and personal care,127.6,0.6
+Feb-13,Alberta,"Recreation, education and reading",104.8,1.2
+Feb-13,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",139,1
+Feb-13,Alberta,Energy,161.3,-4.7
+Mar-13,Alberta,All-items,128.1,1.2
+Mar-13,Alberta,Food,130,2.2
+Mar-13,Alberta,Shelter,153.7,2.1
+Mar-13,Alberta,"Household operations, furnishings and equipment",112.3,1.7
+Mar-13,Alberta,Clothing and footwear,96.1,0.2
+Mar-13,Alberta,Transportation,127.4,-0.3
+Mar-13,Alberta,Health and personal care,126.9,-0.5
+Mar-13,Alberta,"Recreation, education and reading",105,0.1
+Mar-13,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",139.3,1.1
+Mar-13,Alberta,Energy,161.2,-0.2
+Apr-13,Alberta,All-items,128.7,1.3
+Apr-13,Alberta,Food,130.4,2.9
+Apr-13,Alberta,Shelter,156.3,4.3
+Apr-13,Alberta,"Household operations, furnishings and equipment",112.7,2.2
+Apr-13,Alberta,Clothing and footwear,96,0.2
+Apr-13,Alberta,Transportation,126.8,-2.6
+Apr-13,Alberta,Health and personal care,128,-0.1
+Apr-13,Alberta,"Recreation, education and reading",105.4,-0.1
+Apr-13,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",139.6,1.2
+Apr-13,Alberta,Energy,166.6,3.4
+May-13,Alberta,All-items,129.5,2.3
+May-13,Alberta,Food,131.4,3
+May-13,Alberta,Shelter,156.3,5.7
+May-13,Alberta,"Household operations, furnishings and equipment",112.8,2.2
+May-13,Alberta,Clothing and footwear,94.8,-0.2
+May-13,Alberta,Transportation,128.9,0
+May-13,Alberta,Health and personal care,127.3,-0.5
+May-13,Alberta,"Recreation, education and reading",107.4,0.4
+May-13,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",140,1.2
+May-13,Alberta,Energy,171.3,12.5
+Jun-13,Alberta,All-items,129.8,2.3
+Jun-13,Alberta,Food,129.7,1.3
+Jun-13,Alberta,Shelter,157.1,4.2
+Jun-13,Alberta,"Household operations, furnishings and equipment",113,2
+Jun-13,Alberta,Clothing and footwear,92.9,1
+Jun-13,Alberta,Transportation,131.2,3.1
+Jun-13,Alberta,Health and personal care,127.2,-0.6
+Jun-13,Alberta,"Recreation, education and reading",107.8,0.7
+Jun-13,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",139.7,0.9
+Jun-13,Alberta,Energy,180.3,11.8
+Jul-13,Alberta,All-items,129.6,2.2
+Jul-13,Alberta,Food,131.4,1.6
+Jul-13,Alberta,Shelter,157,3.7
+Jul-13,Alberta,"Household operations, furnishings and equipment",113.3,2.1
+Jul-13,Alberta,Clothing and footwear,92.1,1.8
+Jul-13,Alberta,Transportation,128.5,2.5
+Jul-13,Alberta,Health and personal care,126.6,-0.8
+Jul-13,Alberta,"Recreation, education and reading",109.1,1.1
+Jul-13,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",139.7,0.8
+Jul-13,Alberta,Energy,173.7,8
+Aug-13,Alberta,All-items,129.4,1.4
+Aug-13,Alberta,Food,132.2,2.2
+Aug-13,Alberta,Shelter,156.6,1.8
+Aug-13,Alberta,"Household operations, furnishings and equipment",112.9,1.9
+Aug-13,Alberta,Clothing and footwear,92.3,1.9
+Aug-13,Alberta,Transportation,127.3,0.8
+Aug-13,Alberta,Health and personal care,126.8,-1.2
+Aug-13,Alberta,"Recreation, education and reading",109.1,0.9
+Aug-13,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",139.8,0.7
+Aug-13,Alberta,Energy,168.5,-0.7
+Sep-13,Alberta,All-items,129.5,1.3
+Sep-13,Alberta,Food,131.5,2.5
+Sep-13,Alberta,Shelter,157.3,3.1
+Sep-13,Alberta,"Household operations, furnishings and equipment",112.8,1.2
+Sep-13,Alberta,Clothing and footwear,95.7,0.8
+Sep-13,Alberta,Transportation,127.6,-0.1
+Sep-13,Alberta,Health and personal care,126.9,-0.8
+Sep-13,Alberta,"Recreation, education and reading",107.4,-0.5
+Sep-13,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",140.4,1.4
+Sep-13,Alberta,Energy,169.4,0.1
+Oct-13,Alberta,All-items,129.3,1
+Oct-13,Alberta,Food,130.5,2
+Oct-13,Alberta,Shelter,156.8,2
+Oct-13,Alberta,"Household operations, furnishings and equipment",113.5,1.5
+Oct-13,Alberta,Clothing and footwear,96.2,-0.9
+Oct-13,Alberta,Transportation,127.8,0
+Oct-13,Alberta,Health and personal care,126.7,-1.2
+Oct-13,Alberta,"Recreation, education and reading",106.2,0.1
+Oct-13,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",140.4,1.4
+Oct-13,Alberta,Energy,160.8,-4.2
+Nov-13,Alberta,All-items,129.5,1.7
+Nov-13,Alberta,Food,131.2,1.9
+Nov-13,Alberta,Shelter,158.5,3.5
+Nov-13,Alberta,"Household operations, furnishings and equipment",113.4,1
+Nov-13,Alberta,Clothing and footwear,95.9,2.1
+Nov-13,Alberta,Transportation,126.8,0.9
+Nov-13,Alberta,Health and personal care,126.8,-0.9
+Nov-13,Alberta,"Recreation, education and reading",105.8,0.6
+Nov-13,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",140.4,1.3
+Nov-13,Alberta,Energy,163.4,4.5
+Dec-13,Alberta,All-items,129.1,2.1
+Dec-13,Alberta,Food,131.1,2
+Dec-13,Alberta,Shelter,158,3.1
+Dec-13,Alberta,"Household operations, furnishings and equipment",113.3,1.5
+Dec-13,Alberta,Clothing and footwear,92,1
+Dec-13,Alberta,Transportation,127.4,2.5
+Dec-13,Alberta,Health and personal care,127.1,-0.5
+Dec-13,Alberta,"Recreation, education and reading",105.5,0.9
+Dec-13,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",139.8,1.7
+Dec-13,Alberta,Energy,161.5,4.1
+Jan-14,Alberta,All-items,129.9,2.7
+Jan-14,Alberta,Food,132.4,2
+Jan-14,Alberta,Shelter,160.5,4
+Jan-14,Alberta,"Household operations, furnishings and equipment",113.5,1.9
+Jan-14,Alberta,Clothing and footwear,90.9,1
+Jan-14,Alberta,Transportation,127.9,3.7
+Jan-14,Alberta,Health and personal care,127.6,-0.2
+Jan-14,Alberta,"Recreation, education and reading",105.4,1.8
+Jan-14,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",140.6,1.3
+Jan-14,Alberta,Energy,166.3,9.6
+Feb-14,Alberta,All-items,130.8,2.4
+Feb-14,Alberta,Food,133.2,2.1
+Feb-14,Alberta,Shelter,160.7,4.4
+Feb-14,Alberta,"Household operations, furnishings and equipment",113.9,1.7
+Feb-14,Alberta,Clothing and footwear,90.5,0.1
+Feb-14,Alberta,Transportation,129.8,1.7
+Feb-14,Alberta,Health and personal care,127.5,-0.1
+Feb-14,Alberta,"Recreation, education and reading",107.4,2.5
+Feb-14,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",142.3,2.4
+Feb-14,Alberta,Energy,168.6,4.5
+Mar-14,Alberta,All-items,133.1,3.9
+Mar-14,Alberta,Food,134.1,3.2
+Mar-14,Alberta,Shelter,166.5,8.3
+Mar-14,Alberta,"Household operations, furnishings and equipment",114.4,1.9
+Mar-14,Alberta,Clothing and footwear,96.2,0.1
+Mar-14,Alberta,Transportation,131.8,3.5
+Mar-14,Alberta,Health and personal care,127.3,0.3
+Mar-14,Alberta,"Recreation, education and reading",106.9,1.8
+Mar-14,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",144.1,3.4
+Mar-14,Alberta,Energy,194.5,20.7
+Apr-14,Alberta,All-items,132.2,2.7
+Apr-14,Alberta,Food,133.3,2.2
+Apr-14,Alberta,Shelter,161.5,3.3
+Apr-14,Alberta,"Household operations, furnishings and equipment",114.9,2
+Apr-14,Alberta,Clothing and footwear,97.2,1.3
+Apr-14,Alberta,Transportation,132.1,4.2
+Apr-14,Alberta,Health and personal care,128.4,0.3
+Apr-14,Alberta,"Recreation, education and reading",107.3,1.8
+Apr-14,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",144.6,3.6
+Apr-14,Alberta,Energy,175.9,5.6
+May-14,Alberta,All-items,132.8,2.5
+May-14,Alberta,Food,134.6,2.4
+May-14,Alberta,Shelter,162.3,3.8
+May-14,Alberta,"Household operations, furnishings and equipment",115.1,2
+May-14,Alberta,Clothing and footwear,95.4,0.6
+May-14,Alberta,Transportation,132.2,2.6
+May-14,Alberta,Health and personal care,128.9,1.3
+May-14,Alberta,"Recreation, education and reading",109.4,1.9
+May-14,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",144.8,3.4
+May-14,Alberta,Energy,177.6,3.7
+Jun-14,Alberta,All-items,132.3,1.9
+Jun-14,Alberta,Food,134.6,3.8
+Jun-14,Alberta,Shelter,159.2,1.3
+Jun-14,Alberta,"Household operations, furnishings and equipment",115.3,2
+Jun-14,Alberta,Clothing and footwear,94.2,1.4
+Jun-14,Alberta,Transportation,132.9,1.3
+Jun-14,Alberta,Health and personal care,128.4,0.9
+Jun-14,Alberta,"Recreation, education and reading",110.3,2.3
+Jun-14,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",144.5,3.4
+Jun-14,Alberta,Energy,168.8,-6.4
+Jul-14,Alberta,All-items,132.9,2.5
+Jul-14,Alberta,Food,135,2.7
+Jul-14,Alberta,Shelter,163.4,4.1
+Jul-14,Alberta,"Household operations, furnishings and equipment",115.3,1.8
+Jul-14,Alberta,Clothing and footwear,92.6,0.5
+Jul-14,Alberta,Transportation,131.3,2.2
+Jul-14,Alberta,Health and personal care,128.8,1.7
+Jul-14,Alberta,"Recreation, education and reading",110.3,1.1
+Jul-14,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",144.6,3.5
+Jul-14,Alberta,Energy,179.8,3.5
+Aug-14,Alberta,All-items,132.7,2.6
+Aug-14,Alberta,Food,135.1,2.2
+Aug-14,Alberta,Shelter,162.2,3.6
+Aug-14,Alberta,"Household operations, furnishings and equipment",116,2.7
+Aug-14,Alberta,Clothing and footwear,92.5,0.2
+Aug-14,Alberta,Transportation,131.3,3.1
+Aug-14,Alberta,Health and personal care,128.2,1.1
+Aug-14,Alberta,"Recreation, education and reading",110.8,1.6
+Aug-14,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",144.6,3.4
+Aug-14,Alberta,Energy,173,2.7
+Sep-14,Alberta,All-items,132.9,2.6
+Sep-14,Alberta,Food,135,2.7
+Sep-14,Alberta,Shelter,162.6,3.4
+Sep-14,Alberta,"Household operations, furnishings and equipment",116.4,3.2
+Sep-14,Alberta,Clothing and footwear,96.4,0.7
+Sep-14,Alberta,Transportation,130.2,2
+Sep-14,Alberta,Health and personal care,128.3,1.1
+Sep-14,Alberta,"Recreation, education and reading",110.2,2.6
+Sep-14,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",144.8,3.1
+Sep-14,Alberta,Energy,171.8,1.4
+Oct-14,Alberta,All-items,133.2,3
+Oct-14,Alberta,Food,134.8,3.3
+Oct-14,Alberta,Shelter,164.6,5
+Oct-14,Alberta,"Household operations, furnishings and equipment",117,3.1
+Oct-14,Alberta,Clothing and footwear,96,-0.2
+Oct-14,Alberta,Transportation,131,2.5
+Oct-14,Alberta,Health and personal care,127.3,0.5
+Oct-14,Alberta,"Recreation, education and reading",108.4,2.1
+Oct-14,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",144.9,3.2
+Oct-14,Alberta,Energy,174.3,8.4
+Nov-14,Alberta,All-items,132.1,2
+Nov-14,Alberta,Food,136.3,3.9
+Nov-14,Alberta,Shelter,162.6,2.6
+Nov-14,Alberta,"Household operations, furnishings and equipment",117.1,3.3
+Nov-14,Alberta,Clothing and footwear,93.9,-2.1
+Nov-14,Alberta,Transportation,128.3,1.2
+Nov-14,Alberta,Health and personal care,128.5,1.3
+Nov-14,Alberta,"Recreation, education and reading",106.8,0.9
+Nov-14,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",145.2,3.4
+Nov-14,Alberta,Energy,157.3,-3.7
+Dec-14,Alberta,All-items,131.5,1.9
+Dec-14,Alberta,Food,136.4,4
+Dec-14,Alberta,Shelter,163.6,3.5
+Dec-14,Alberta,"Household operations, furnishings and equipment",116.6,2.9
+Dec-14,Alberta,Clothing and footwear,91.5,-0.5
+Dec-14,Alberta,Transportation,125.4,-1.6
+Dec-14,Alberta,Health and personal care,128.1,0.8
+Dec-14,Alberta,"Recreation, education and reading",106.7,1.1
+Dec-14,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",145.1,3.8
+Dec-14,Alberta,Energy,150.3,-6.9
+Jan-15,Alberta,All-items,131,0.8
+Jan-15,Alberta,Food,138.2,4.4
+Jan-15,Alberta,Shelter,163.9,2.1
+Jan-15,Alberta,"Household operations, furnishings and equipment",116.7,2.8
+Jan-15,Alberta,Clothing and footwear,91.4,0.6
+Jan-15,Alberta,Transportation,122.4,-4.3
+Jan-15,Alberta,Health and personal care,128.7,0.9
+Jan-15,Alberta,"Recreation, education and reading",105.4,0
+Jan-15,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",145.6,3.6
+Jan-15,Alberta,Energy,138.5,-16.7
+Feb-15,Alberta,All-items,132,0.9
+Feb-15,Alberta,Food,138.3,3.8
+Feb-15,Alberta,Shelter,162.6,1.2
+Feb-15,Alberta,"Household operations, furnishings and equipment",117.8,3.4
+Feb-15,Alberta,Clothing and footwear,93.2,3
+Feb-15,Alberta,Transportation,124.3,-4.2
+Feb-15,Alberta,Health and personal care,129.2,1.3
+Feb-15,Alberta,"Recreation, education and reading",108.8,1.3
+Feb-15,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",146.4,2.9
+Feb-15,Alberta,Energy,140.1,-16.9
+Mar-15,Alberta,All-items,133,-0.1
+Mar-15,Alberta,Food,138.3,3.1
+Mar-15,Alberta,Shelter,162.3,-2.5
+Mar-15,Alberta,"Household operations, furnishings and equipment",118.1,3.2
+Mar-15,Alberta,Clothing and footwear,97.1,0.9
+Mar-15,Alberta,Transportation,127.1,-3.6
+Mar-15,Alberta,Health and personal care,128.7,1.1
+Mar-15,Alberta,"Recreation, education and reading",108.9,1.9
+Mar-15,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",147.2,2.2
+Mar-15,Alberta,Energy,142.8,-26.6
+Apr-15,Alberta,All-items,133.1,0.7
+Apr-15,Alberta,Food,138.3,3.8
+Apr-15,Alberta,Shelter,162.1,0.4
+Apr-15,Alberta,"Household operations, furnishings and equipment",118.1,2.8
+Apr-15,Alberta,Clothing and footwear,96.8,-0.4
+Apr-15,Alberta,Transportation,128,-3.1
+Apr-15,Alberta,Health and personal care,128.3,-0.1
+Apr-15,Alberta,"Recreation, education and reading",108.2,0.8
+Apr-15,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",151.6,4.8
+Apr-15,Alberta,Energy,144.2,-18
+May-15,Alberta,All-items,133.6,0.6
+May-15,Alberta,Food,139.6,3.7
+May-15,Alberta,Shelter,160.6,-1
+May-15,Alberta,"Household operations, furnishings and equipment",117.8,2.3
+May-15,Alberta,Clothing and footwear,96.3,0.9
+May-15,Alberta,Transportation,129.1,-2.3
+May-15,Alberta,Health and personal care,129.7,0.6
+May-15,Alberta,"Recreation, education and reading",111.3,1.7
+May-15,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",152.4,5.2
+May-15,Alberta,Energy,141,-20.6
+Jun-15,Alberta,All-items,134.5,1.7
+Jun-15,Alberta,Food,139.7,3.8
+Jun-15,Alberta,Shelter,161.8,1.6
+Jun-15,Alberta,"Household operations, furnishings and equipment",119,3.2
+Jun-15,Alberta,Clothing and footwear,93.9,-0.3
+Jun-15,Alberta,Transportation,131.5,-1.1
+Jun-15,Alberta,Health and personal care,129.9,1.2
+Jun-15,Alberta,"Recreation, education and reading",112.1,1.6
+Jun-15,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",152.8,5.7
+Jun-15,Alberta,Energy,152.7,-9.5
+Jul-15,Alberta,All-items,134.6,1.3
+Jul-15,Alberta,Food,140,3.7
+Jul-15,Alberta,Shelter,163,-0.2
+Jul-15,Alberta,"Household operations, furnishings and equipment",119,3.2
+Jul-15,Alberta,Clothing and footwear,93.1,0.5
+Jul-15,Alberta,Transportation,130.4,-0.7
+Jul-15,Alberta,Health and personal care,130,0.9
+Jul-15,Alberta,"Recreation, education and reading",112.7,2.2
+Jul-15,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",152.7,5.6
+Jul-15,Alberta,Energy,155.9,-13.3
+Aug-15,Alberta,All-items,135,1.7
+Aug-15,Alberta,Food,140,3.6
+Aug-15,Alberta,Shelter,163.6,0.9
+Aug-15,Alberta,"Household operations, furnishings and equipment",119.1,2.7
+Aug-15,Alberta,Clothing and footwear,93.6,1.2
+Aug-15,Alberta,Transportation,131.1,-0.2
+Aug-15,Alberta,Health and personal care,130.4,1.7
+Aug-15,Alberta,"Recreation, education and reading",113.7,2.6
+Aug-15,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",152.9,5.7
+Aug-15,Alberta,Energy,160.8,-7.1
+Sep-15,Alberta,All-items,134.6,1.3
+Sep-15,Alberta,Food,140.1,3.8
+Sep-15,Alberta,Shelter,163.2,0.4
+Sep-15,Alberta,"Household operations, furnishings and equipment",119.8,2.9
+Sep-15,Alberta,Clothing and footwear,96.9,0.5
+Sep-15,Alberta,Transportation,128.1,-1.6
+Sep-15,Alberta,Health and personal care,130.2,1.5
+Sep-15,Alberta,"Recreation, education and reading",112.8,2.4
+Sep-15,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",153.3,5.9
+Sep-15,Alberta,Energy,150.1,-12.6
+Oct-15,Alberta,All-items,135.1,1.4
+Oct-15,Alberta,Food,140.1,3.9
+Oct-15,Alberta,Shelter,164.2,-0.2
+Oct-15,Alberta,"Household operations, furnishings and equipment",120,2.6
+Oct-15,Alberta,Clothing and footwear,97.4,1.5
+Oct-15,Alberta,Transportation,130.3,-0.5
+Oct-15,Alberta,Health and personal care,130.1,2.2
+Oct-15,Alberta,"Recreation, education and reading",110.7,2.1
+Oct-15,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",153.6,6
+Oct-15,Alberta,Energy,152.9,-12.3
+Nov-15,Alberta,All-items,134.7,2
+Nov-15,Alberta,Food,140.9,3.4
+Nov-15,Alberta,Shelter,163.6,0.6
+Nov-15,Alberta,"Household operations, furnishings and equipment",119.6,2.1
+Nov-15,Alberta,Clothing and footwear,96.8,3.1
+Nov-15,Alberta,Transportation,129.1,0.6
+Nov-15,Alberta,Health and personal care,131.8,2.6
+Nov-15,Alberta,"Recreation, education and reading",109.3,2.3
+Nov-15,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",157.3,8.3
+Nov-15,Alberta,Energy,144.5,-8.1
+Dec-15,Alberta,All-items,133.5,1.5
+Dec-15,Alberta,Food,141.5,3.7
+Dec-15,Alberta,Shelter,163.4,-0.1
+Dec-15,Alberta,"Household operations, furnishings and equipment",118.9,2
+Dec-15,Alberta,Clothing and footwear,91.8,0.3
+Dec-15,Alberta,Transportation,126.9,1.2
+Dec-15,Alberta,Health and personal care,131.3,2.5
+Dec-15,Alberta,"Recreation, education and reading",107.8,1
+Dec-15,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",157.7,8.7
+Dec-15,Alberta,Energy,135.4,-9.9
+Jan-16,Alberta,All-items,133.7,2.1
+Jan-16,Alberta,Food,143.7,4
+Jan-16,Alberta,Shelter,163.1,-0.5
+Jan-16,Alberta,"Household operations, furnishings and equipment",119.6,2.5
+Jan-16,Alberta,Clothing and footwear,90.9,-0.5
+Jan-16,Alberta,Transportation,126.7,3.5
+Jan-16,Alberta,Health and personal care,132.1,2.6
+Jan-16,Alberta,"Recreation, education and reading",107.2,1.7
+Jan-16,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",158.2,8.7
+Jan-16,Alberta,Energy,129.1,-6.8
+Feb-16,Alberta,All-items,133.8,1.4
+Feb-16,Alberta,Food,142.7,3.2
+Feb-16,Alberta,Shelter,163.7,0.7
+Feb-16,Alberta,"Household operations, furnishings and equipment",120.9,2.6
+Feb-16,Alberta,Clothing and footwear,91.1,-2.3
+Feb-16,Alberta,Transportation,124.8,0.4
+Feb-16,Alberta,Health and personal care,131.6,1.9
+Feb-16,Alberta,"Recreation, education and reading",109.3,0.5
+Feb-16,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",159.7,9.1
+Feb-16,Alberta,Energy,123.7,-11.7
+Mar-16,Alberta,All-items,135,1.5
+Mar-16,Alberta,Food,142.2,2.8
+Mar-16,Alberta,Shelter,162.7,0.2
+Mar-16,Alberta,"Household operations, furnishings and equipment",121.3,2.7
+Mar-16,Alberta,Clothing and footwear,95.5,-1.6
+Mar-16,Alberta,Transportation,128.7,1.3
+Mar-16,Alberta,Health and personal care,131.7,2.3
+Mar-16,Alberta,"Recreation, education and reading",110.5,1.5
+Mar-16,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",159.7,8.5
+Mar-16,Alberta,Energy,131.8,-7.7
+Apr-16,Alberta,All-items,135.1,1.5
+Apr-16,Alberta,Food,142.3,2.9
+Apr-16,Alberta,Shelter,160.8,-0.8
+Apr-16,Alberta,"Household operations, furnishings and equipment",121.5,2.9
+Apr-16,Alberta,Clothing and footwear,96,-0.8
+Apr-16,Alberta,Transportation,130.6,2
+Apr-16,Alberta,Health and personal care,131.6,2.6
+Apr-16,Alberta,"Recreation, education and reading",110.5,2.1
+Apr-16,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",160,5.5
+Apr-16,Alberta,Energy,128.9,-10.6
+May-16,Alberta,All-items,135.6,1.5
+May-16,Alberta,Food,142.4,2
+May-16,Alberta,Shelter,160.4,-0.1
+May-16,Alberta,"Household operations, furnishings and equipment",122.1,3.7
+May-16,Alberta,Clothing and footwear,95.9,-0.4
+May-16,Alberta,Transportation,132.2,2.4
+May-16,Alberta,Health and personal care,132,1.8
+May-16,Alberta,"Recreation, education and reading",111.3,0
+May-16,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",160.1,5.1
+May-16,Alberta,Energy,133,-5.7
+Jun-16,Alberta,All-items,136.3,1.3
+Jun-16,Alberta,Food,142.3,1.9
+Jun-16,Alberta,Shelter,161.2,-0.4
+Jun-16,Alberta,"Household operations, furnishings and equipment",122.3,2.8
+Jun-16,Alberta,Clothing and footwear,93.5,-0.4
+Jun-16,Alberta,Transportation,135.6,3.1
+Jun-16,Alberta,Health and personal care,132.2,1.8
+Jun-16,Alberta,"Recreation, education and reading",111.4,-0.6
+Jun-16,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",160.5,5
+Jun-16,Alberta,Energy,144.6,-5.3
+Jul-16,Alberta,All-items,135.6,0.7
+Jul-16,Alberta,Food,142.6,1.9
+Jul-16,Alberta,Shelter,162.5,-0.3
+Jul-16,Alberta,"Household operations, furnishings and equipment",121.7,2.3
+Jul-16,Alberta,Clothing and footwear,91.6,-1.6
+Jul-16,Alberta,Transportation,131.3,0.7
+Jul-16,Alberta,Health and personal care,132,1.5
+Jul-16,Alberta,"Recreation, education and reading",112.2,-0.4
+Jul-16,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",160.9,5.4
+Jul-16,Alberta,Energy,139.5,-10.5
+Aug-16,Alberta,All-items,135.9,0.7
+Aug-16,Alberta,Food,143.2,2.3
+Aug-16,Alberta,Shelter,163.1,-0.3
+Aug-16,Alberta,"Household operations, furnishings and equipment",121.8,2.3
+Aug-16,Alberta,Clothing and footwear,91.6,-2.1
+Aug-16,Alberta,Transportation,131.5,0.3
+Aug-16,Alberta,Health and personal care,133.3,2.2
+Aug-16,Alberta,"Recreation, education and reading",112.2,-1.3
+Aug-16,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",161,5.3
+Aug-16,Alberta,Energy,143.5,-10.8
+Sep-16,Alberta,All-items,135.3,0.5
+Sep-16,Alberta,Food,139.6,-0.4
+Sep-16,Alberta,Shelter,162.3,-0.6
+Sep-16,Alberta,"Household operations, furnishings and equipment",120.7,0.8
+Sep-16,Alberta,Clothing and footwear,96.4,-0.5
+Sep-16,Alberta,Transportation,130.9,2.2
+Sep-16,Alberta,Health and personal care,132,1.4
+Sep-16,Alberta,"Recreation, education and reading",112.5,-0.3
+Sep-16,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",161.4,5.3
+Sep-16,Alberta,Energy,139,-7.4
+Oct-16,Alberta,All-items,135.8,0.5
+Oct-16,Alberta,Food,138.4,-1.2
+Oct-16,Alberta,Shelter,163.3,-0.5
+Oct-16,Alberta,"Household operations, furnishings and equipment",121.6,1.3
+Oct-16,Alberta,Clothing and footwear,98,0.6
+Oct-16,Alberta,Transportation,132.4,1.6
+Oct-16,Alberta,Health and personal care,132.1,1.5
+Oct-16,Alberta,"Recreation, education and reading",111.6,0.8
+Oct-16,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",161.5,5.1
+Oct-16,Alberta,Energy,142.9,-6.5
+Nov-16,Alberta,All-items,135,0.2
+Nov-16,Alberta,Food,139.3,-1.1
+Nov-16,Alberta,Shelter,163.5,-0.1
+Nov-16,Alberta,"Household operations, furnishings and equipment",121,1.2
+Nov-16,Alberta,Clothing and footwear,94.7,-2.2
+Nov-16,Alberta,Transportation,129.8,0.5
+Nov-16,Alberta,Health and personal care,132,0.2
+Nov-16,Alberta,"Recreation, education and reading",111.1,1.6
+Nov-16,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",161.6,2.7
+Nov-16,Alberta,Energy,135.7,-6.1
+Dec-16,Alberta,All-items,134.9,1
+Dec-16,Alberta,Food,139.8,-1.2
+Dec-16,Alberta,Shelter,163,-0.2
+Dec-16,Alberta,"Household operations, furnishings and equipment",121,1.8
+Dec-16,Alberta,Clothing and footwear,91.7,-0.1
+Dec-16,Alberta,Transportation,131.2,3.4
+Dec-16,Alberta,Health and personal care,132.5,0.9
+Dec-16,Alberta,"Recreation, education and reading",110.5,2.5
+Dec-16,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",161.5,2.4
+Dec-16,Alberta,Energy,137.4,1.5
+Jan-17,Alberta,All-items,137,2.5
+Jan-17,Alberta,Food,139.9,-2.6
+Jan-17,Alberta,Shelter,166.3,2
+Jan-17,Alberta,"Household operations, furnishings and equipment",120.9,1.1
+Jan-17,Alberta,Clothing and footwear,91.5,0.7
+Jan-17,Alberta,Transportation,136.5,7.7
+Jan-17,Alberta,Health and personal care,133.3,0.9
+Jan-17,Alberta,"Recreation, education and reading",112.2,4.7
+Jan-17,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",162.3,2.6
+Jan-17,Alberta,Energy,159.5,23.5
+Feb-17,Alberta,All-items,136.7,2.2
+Feb-17,Alberta,Food,140.6,-1.5
+Feb-17,Alberta,Shelter,164.6,0.5
+Feb-17,Alberta,"Household operations, furnishings and equipment",120.8,-0.1
+Feb-17,Alberta,Clothing and footwear,92.9,2
+Feb-17,Alberta,Transportation,134.3,7.6
+Feb-17,Alberta,Health and personal care,132.8,0.9
+Feb-17,Alberta,"Recreation, education and reading",114.6,4.8
+Feb-17,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",163,2.1
+Feb-17,Alberta,Energy,146.1,18.1
+Mar-17,Alberta,All-items,136.8,1.3
+Mar-17,Alberta,Food,141.2,-0.7
+Mar-17,Alberta,Shelter,163.6,0.6
+Mar-17,Alberta,"Household operations, furnishings and equipment",120.8,-0.4
+Mar-17,Alberta,Clothing and footwear,95.7,0.2
+Mar-17,Alberta,Transportation,133.5,3.7
+Mar-17,Alberta,Health and personal care,133.6,1.4
+Mar-17,Alberta,"Recreation, education and reading",115.4,4.4
+Mar-17,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",163.4,2.3
+Mar-17,Alberta,Energy,141.8,7.6
+Apr-17,Alberta,All-items,137.4,1.7
+Apr-17,Alberta,Food,140.4,-1.3
+Apr-17,Alberta,Shelter,164.5,2.3
+Apr-17,Alberta,"Household operations, furnishings and equipment",121.3,-0.2
+Apr-17,Alberta,Clothing and footwear,96.2,0.2
+Apr-17,Alberta,Transportation,136,4.1
+Apr-17,Alberta,Health and personal care,133.2,1.2
+Apr-17,Alberta,"Recreation, education and reading",114.6,3.7
+Apr-17,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",163.6,2.2
+Apr-17,Alberta,Energy,154.1,19.6
+May-17,Alberta,All-items,137.2,1.2
+May-17,Alberta,Food,142,-0.3
+May-17,Alberta,Shelter,163.6,2
+May-17,Alberta,"Household operations, furnishings and equipment",122.5,0.3
+May-17,Alberta,Clothing and footwear,95.9,0
+May-17,Alberta,Transportation,134.4,1.7
+May-17,Alberta,Health and personal care,133.5,1.1
+May-17,Alberta,"Recreation, education and reading",114.2,2.6
+May-17,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",163.9,2.4
+May-17,Alberta,Energy,145.4,9.3
+Jun-17,Alberta,All-items,136.9,0.4
+Jun-17,Alberta,Food,142.3,0
+Jun-17,Alberta,Shelter,163.1,1.2
+Jun-17,Alberta,"Household operations, furnishings and equipment",122.7,0.3
+Jun-17,Alberta,Clothing and footwear,93.7,0.2
+Jun-17,Alberta,Transportation,133.5,-1.5
+Jun-17,Alberta,Health and personal care,133,0.6
+Jun-17,Alberta,"Recreation, education and reading",114.6,2.9
+Jun-17,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",164.4,2.4
+Jun-17,Alberta,Energy,142,-1.8
+Jul-17,Alberta,All-items,137,1
+Jul-17,Alberta,Food,142.8,0.1
+Jul-17,Alberta,Shelter,164.2,1
+Jul-17,Alberta,"Household operations, furnishings and equipment",121.5,-0.2
+Jul-17,Alberta,Clothing and footwear,93.9,2.5
+Jul-17,Alberta,Transportation,132.9,1.2
+Jul-17,Alberta,Health and personal care,134.1,1.6
+Jul-17,Alberta,"Recreation, education and reading",114.9,2.4
+Jul-17,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",164.8,2.4
+Jul-17,Alberta,Energy,145.8,4.5
+Aug-17,Alberta,All-items,137.4,1.1
+Aug-17,Alberta,Food,143.1,-0.1
+Aug-17,Alberta,Shelter,164.9,1.1
+Aug-17,Alberta,"Household operations, furnishings and equipment",121.7,-0.1
+Aug-17,Alberta,Clothing and footwear,94.5,3.2
+Aug-17,Alberta,Transportation,133.4,1.4
+Aug-17,Alberta,Health and personal care,135.3,1.5
+Aug-17,Alberta,"Recreation, education and reading",114.2,1.8
+Aug-17,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",165.2,2.6
+Aug-17,Alberta,Energy,150.7,5
+Sep-17,Alberta,All-items,137,1.3
+Sep-17,Alberta,Food,142.1,1.8
+Sep-17,Alberta,Shelter,163.8,0.9
+Sep-17,Alberta,"Household operations, furnishings and equipment",121,0.2
+Sep-17,Alberta,Clothing and footwear,96.6,0.2
+Sep-17,Alberta,Transportation,133.6,2.1
+Sep-17,Alberta,Health and personal care,134.2,1.7
+Sep-17,Alberta,"Recreation, education and reading",113.7,1.1
+Sep-17,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",165.6,2.6
+Sep-17,Alberta,Energy,147.9,6.4
+Oct-17,Alberta,All-items,137.6,1.3
+Oct-17,Alberta,Food,141.3,2.1
+Oct-17,Alberta,Shelter,164.9,1
+Oct-17,Alberta,"Household operations, furnishings and equipment",122.4,0.7
+Oct-17,Alberta,Clothing and footwear,97.7,-0.3
+Oct-17,Alberta,Transportation,135.1,2
+Oct-17,Alberta,Health and personal care,135.9,2.9
+Oct-17,Alberta,"Recreation, education and reading",112.4,0.7
+Oct-17,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",165.6,2.5
+Oct-17,Alberta,Energy,149.4,4.5
+Nov-17,Alberta,All-items,138.4,2.5
+Nov-17,Alberta,Food,142.6,2.4
+Nov-17,Alberta,Shelter,165.1,1
+Nov-17,Alberta,"Household operations, furnishings and equipment",122.8,1.5
+Nov-17,Alberta,Clothing and footwear,96.9,2.3
+Nov-17,Alberta,Transportation,138.6,6.8
+Nov-17,Alberta,Health and personal care,135.2,2.4
+Nov-17,Alberta,"Recreation, education and reading",111.6,0.5
+Nov-17,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",165.9,2.7
+Nov-17,Alberta,Energy,159.4,17.5
+Dec-17,Alberta,All-items,137.6,2
+Dec-17,Alberta,Food,142.2,1.7
+Dec-17,Alberta,Shelter,166.1,1.9
+Dec-17,Alberta,"Household operations, furnishings and equipment",120.2,-0.7
+Dec-17,Alberta,Clothing and footwear,94.2,2.7
+Dec-17,Alberta,Transportation,138,5.2
+Dec-17,Alberta,Health and personal care,135.5,2.3
+Dec-17,Alberta,"Recreation, education and reading",109.9,-0.5
+Dec-17,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",165.8,2.7
+Dec-17,Alberta,Energy,156.2,13.7
+Jan-18,Alberta,All-items,138.9,1.4
+Jan-18,Alberta,Food,143.7,2.7
+Jan-18,Alberta,Shelter,167.1,0.5
+Jan-18,Alberta,"Household operations, furnishings and equipment",121.3,0.3
+Jan-18,Alberta,Clothing and footwear,92.7,1.3
+Jan-18,Alberta,Transportation,140.2,2.7
+Jan-18,Alberta,Health and personal care,137,2.8
+Jan-18,Alberta,"Recreation, education and reading",111.7,-0.4
+Jan-18,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",166.3,2.5
+Jan-18,Alberta,Energy,164.3,3
+Feb-18,Alberta,All-items,139.7,2.2
+Feb-18,Alberta,Food,143,1.7
+Feb-18,Alberta,Shelter,167.7,1.9
+Feb-18,Alberta,"Household operations, furnishings and equipment",122.2,1.2
+Feb-18,Alberta,Clothing and footwear,95.3,2.6
+Feb-18,Alberta,Transportation,140.3,4.5
+Feb-18,Alberta,Health and personal care,136.4,2.7
+Feb-18,Alberta,"Recreation, education and reading",114.8,0.2
+Feb-18,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",168.1,3.1
+Feb-18,Alberta,Energy,164,12.3
+Mar-18,Alberta,All-items,139.9,2.3
+Mar-18,Alberta,Food,143.1,1.3
+Mar-18,Alberta,Shelter,166.6,1.8
+Mar-18,Alberta,"Household operations, furnishings and equipment",122,1
+Mar-18,Alberta,Clothing and footwear,96.8,1.1
+Mar-18,Alberta,Transportation,141.3,5.8
+Mar-18,Alberta,Health and personal care,136.9,2.5
+Mar-18,Alberta,"Recreation, education and reading",114.9,-0.4
+Mar-18,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",169,3.4
+Mar-18,Alberta,Energy,164.5,16
+Apr-18,Alberta,All-items,140.6,2.3
+Apr-18,Alberta,Food,142.7,1.6
+Apr-18,Alberta,Shelter,168.5,2.4
+Apr-18,Alberta,"Household operations, furnishings and equipment",123.4,1.7
+Apr-18,Alberta,Clothing and footwear,98,1.9
+Apr-18,Alberta,Transportation,143.2,5.3
+Apr-18,Alberta,Health and personal care,136.1,2.2
+Apr-18,Alberta,"Recreation, education and reading",112.8,-1.6
+Apr-18,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",169.6,3.7
+Apr-18,Alberta,Energy,178.9,16.1
+May-18,Alberta,All-items,140.7,2.6
+May-18,Alberta,Food,143,0.7
+May-18,Alberta,Shelter,166.6,1.8
+May-18,Alberta,"Household operations, furnishings and equipment",122,-0.4
+May-18,Alberta,Clothing and footwear,97.3,1.5
+May-18,Alberta,Transportation,143.4,6.7
+May-18,Alberta,Health and personal care,137,2.6
+May-18,Alberta,"Recreation, education and reading",117.4,2.8
+May-18,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",169.9,3.7
+May-18,Alberta,Energy,175.4,20.6
+Jun-18,Alberta,All-items,140.7,2.8
+Jun-18,Alberta,Food,143.2,0.6
+Jun-18,Alberta,Shelter,166.4,2
+Jun-18,Alberta,"Household operations, furnishings and equipment",122.1,-0.5
+Jun-18,Alberta,Clothing and footwear,97.5,4.1
+Jun-18,Alberta,Transportation,145.1,8.7
+Jun-18,Alberta,Health and personal care,136.6,2.7
+Jun-18,Alberta,"Recreation, education and reading",114.4,-0.2
+Jun-18,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",170.7,3.8
+Jun-18,Alberta,Energy,172,21.1
+Jul-18,Alberta,All-items,141.8,3.5
+Jul-18,Alberta,Food,144,0.8
+Jul-18,Alberta,Shelter,168.6,2.7
+Jul-18,Alberta,"Household operations, furnishings and equipment",121.8,0.2
+Jul-18,Alberta,Clothing and footwear,95.7,1.9
+Jul-18,Alberta,Transportation,148,11.4
+Jul-18,Alberta,Health and personal care,136.7,1.9
+Jul-18,Alberta,"Recreation, education and reading",115.9,0.9
+Jul-18,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",170.5,3.5
+Jul-18,Alberta,Energy,183.2,25.7
+Aug-18,Alberta,All-items,141.6,3.1
+Aug-18,Alberta,Food,144.5,1
+Aug-18,Alberta,Shelter,168.6,2.2
+Aug-18,Alberta,"Household operations, furnishings and equipment",121.8,0.1
+Aug-18,Alberta,Clothing and footwear,96.2,1.8
+Aug-18,Alberta,Transportation,146.8,10
+Aug-18,Alberta,Health and personal care,137.2,1.4
+Aug-18,Alberta,"Recreation, education and reading",115.2,0.9
+Aug-18,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",170.8,3.4
+Aug-18,Alberta,Energy,179.6,19.2
+Sep-18,Alberta,All-items,141.1,3
+Sep-18,Alberta,Food,144.4,1.6
+Sep-18,Alberta,Shelter,168.6,2.9
+Sep-18,Alberta,"Household operations, furnishings and equipment",122.3,1.1
+Sep-18,Alberta,Clothing and footwear,98.3,1.8
+Sep-18,Alberta,Transportation,143.3,7.3
+Sep-18,Alberta,Health and personal care,136.5,1.7
+Sep-18,Alberta,"Recreation, education and reading",114.8,1
+Sep-18,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.3,3.4
+Sep-18,Alberta,Energy,180,21.7
+Oct-18,Alberta,All-items,141.4,2.8
+Oct-18,Alberta,Food,144.5,2.3
+Oct-18,Alberta,Shelter,169.5,2.8
+Oct-18,Alberta,"Household operations, furnishings and equipment",123.2,0.7
+Oct-18,Alberta,Clothing and footwear,98.1,0.4
+Oct-18,Alberta,Transportation,144,6.6
+Oct-18,Alberta,Health and personal care,136.4,0.4
+Oct-18,Alberta,"Recreation, education and reading",113.9,1.3
+Oct-18,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.2,3.4
+Oct-18,Alberta,Energy,175.3,17.3
+Nov-18,Alberta,All-items,140.7,1.7
+Nov-18,Alberta,Food,145.3,1.9
+Nov-18,Alberta,Shelter,170.7,3.4
+Nov-18,Alberta,"Household operations, furnishings and equipment",122.8,0
+Nov-18,Alberta,Clothing and footwear,96.1,-0.8
+Nov-18,Alberta,Transportation,140.8,1.6
+Nov-18,Alberta,Health and personal care,135.4,0.1
+Nov-18,Alberta,"Recreation, education and reading",112.6,0.9
+Nov-18,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",170.8,3
+Nov-18,Alberta,Energy,168.3,5.6
+Dec-18,Alberta,All-items,140.5,2.1
+Dec-18,Alberta,Food,145.6,2.4
+Dec-18,Alberta,Shelter,170.9,2.9
+Dec-18,Alberta,"Household operations, furnishings and equipment",122.7,2.1
+Dec-18,Alberta,Clothing and footwear,94,-0.2
+Dec-18,Alberta,Transportation,141.3,2.4
+Dec-18,Alberta,Health and personal care,135.9,0.3
+Dec-18,Alberta,"Recreation, education and reading",111.3,1.3
+Dec-18,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",170.8,3
+Dec-18,Alberta,Energy,159.6,2.2
+Jan-19,Alberta,All-items,140.5,1.2
+Jan-19,Alberta,Food,146.8,2.2
+Jan-19,Alberta,Shelter,171.7,2.8
+Jan-19,Alberta,"Household operations, furnishings and equipment",122.7,1.2
+Jan-19,Alberta,Clothing and footwear,92.3,-0.4
+Jan-19,Alberta,Transportation,139.5,-0.5
+Jan-19,Alberta,Health and personal care,136.5,-0.4
+Jan-19,Alberta,"Recreation, education and reading",112.1,0.4
+Jan-19,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.3,3
+Jan-19,Alberta,Energy,157.7,-4
+Feb-19,Alberta,All-items,142,1.6
+Feb-19,Alberta,Food,147.8,3.4
+Feb-19,Alberta,Shelter,172.1,2.6
+Feb-19,Alberta,"Household operations, furnishings and equipment",123.8,1.3
+Feb-19,Alberta,Clothing and footwear,95.3,0
+Feb-19,Alberta,Transportation,142,1.2
+Feb-19,Alberta,Health and personal care,137.2,0.6
+Feb-19,Alberta,"Recreation, education and reading",113.8,-0.9
+Feb-19,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.4,2
+Feb-19,Alberta,Energy,164.2,0.1
+Mar-19,Alberta,All-items,143.1,2.3
+Mar-19,Alberta,Food,148.2,3.6
+Mar-19,Alberta,Shelter,173.1,3.9
+Mar-19,Alberta,"Household operations, furnishings and equipment",123.5,1.2
+Mar-19,Alberta,Clothing and footwear,97.8,1
+Mar-19,Alberta,Transportation,145.5,3
+Mar-19,Alberta,Health and personal care,137,0.1
+Mar-19,Alberta,"Recreation, education and reading",113.7,-1
+Mar-19,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.5,1.5
+Mar-19,Alberta,Energy,176.1,7.1
+Apr-19,Alberta,All-items,143.7,2.2
+Apr-19,Alberta,Food,147.6,3.4
+Apr-19,Alberta,Shelter,173.2,2.8
+Apr-19,Alberta,"Household operations, furnishings and equipment",123.7,0.2
+Apr-19,Alberta,Clothing and footwear,98.8,0.8
+Apr-19,Alberta,Transportation,148,3.4
+Apr-19,Alberta,Health and personal care,138.1,1.5
+Apr-19,Alberta,"Recreation, education and reading",113.7,0.8
+Apr-19,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.7,1.2
+Apr-19,Alberta,Energy,183,2.3
+May-19,Alberta,All-items,144,2.3
+May-19,Alberta,Food,148.3,3.7
+May-19,Alberta,Shelter,172.8,3.7
+May-19,Alberta,"Household operations, furnishings and equipment",123.8,1.5
+May-19,Alberta,Clothing and footwear,97.7,0.4
+May-19,Alberta,Transportation,148.7,3.7
+May-19,Alberta,Health and personal care,138.1,0.8
+May-19,Alberta,"Recreation, education and reading",115.6,-1.5
+May-19,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.6,1
+May-19,Alberta,Energy,180.6,3
+Jun-19,Alberta,All-items,142.7,1.4
+Jun-19,Alberta,Food,149.5,4.4
+Jun-19,Alberta,Shelter,169.5,1.9
+Jun-19,Alberta,"Household operations, furnishings and equipment",124,1.6
+Jun-19,Alberta,Clothing and footwear,96.5,-1
+Jun-19,Alberta,Transportation,145.5,0.3
+Jun-19,Alberta,Health and personal care,138,1
+Jun-19,Alberta,"Recreation, education and reading",115.3,0.8
+Jun-19,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.6,0.5
+Jun-19,Alberta,Energy,157.6,-8.4
+Jul-19,Alberta,All-items,143.6,1.3
+Jul-19,Alberta,Food,150.8,4.7
+Jul-19,Alberta,Shelter,170,0.8
+Jul-19,Alberta,"Household operations, furnishings and equipment",122.7,0.7
+Jul-19,Alberta,Clothing and footwear,94.9,-0.8
+Jul-19,Alberta,Transportation,147.1,-0.6
+Jul-19,Alberta,Health and personal care,138.6,1.4
+Jul-19,Alberta,"Recreation, education and reading",118.9,2.6
+Jul-19,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.8,0.8
+Jul-19,Alberta,Energy,162.4,-11.4
+Aug-19,Alberta,All-items,143.4,1.3
+Aug-19,Alberta,Food,150.1,3.9
+Aug-19,Alberta,Shelter,171.3,1.6
+Aug-19,Alberta,"Household operations, furnishings and equipment",122.6,0.7
+Aug-19,Alberta,Clothing and footwear,95.7,-0.5
+Aug-19,Alberta,Transportation,146.2,-0.4
+Aug-19,Alberta,Health and personal care,138.8,1.2
+Aug-19,Alberta,"Recreation, education and reading",117.4,1.9
+Aug-19,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",172.5,1
+Aug-19,Alberta,Energy,160.6,-10.6
+Sep-19,Alberta,All-items,142.9,1.3
+Sep-19,Alberta,Food,150,3.9
+Sep-19,Alberta,Shelter,171.7,1.8
+Sep-19,Alberta,"Household operations, furnishings and equipment",122.3,0
+Sep-19,Alberta,Clothing and footwear,100.1,1.8
+Sep-19,Alberta,Transportation,142.8,-0.3
+Sep-19,Alberta,Health and personal care,138.5,1.5
+Sep-19,Alberta,"Recreation, education and reading",116,1
+Sep-19,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",172.9,0.9
+Sep-19,Alberta,Energy,160.4,-10.9
+Oct-19,Alberta,All-items,143.6,1.6
+Oct-19,Alberta,Food,150.3,4
+Oct-19,Alberta,Shelter,173.2,2.2
+Oct-19,Alberta,"Household operations, furnishings and equipment",122.4,-0.6
+Oct-19,Alberta,Clothing and footwear,101,3
+Oct-19,Alberta,Transportation,143.7,-0.2
+Oct-19,Alberta,Health and personal care,138.8,1.8
+Oct-19,Alberta,"Recreation, education and reading",116.4,2.2
+Oct-19,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",172.9,1
+Oct-19,Alberta,Energy,160.8,-8.3
+Nov-19,Alberta,All-items,143.6,2.1
+Nov-19,Alberta,Food,150.6,3.6
+Nov-19,Alberta,Shelter,173.7,1.8
+Nov-19,Alberta,"Household operations, furnishings and equipment",122.2,-0.5
+Nov-19,Alberta,Clothing and footwear,100.5,4.6
+Nov-19,Alberta,Transportation,143.3,1.8
+Nov-19,Alberta,Health and personal care,138.7,2.4
+Nov-19,Alberta,"Recreation, education and reading",115.4,2.5
+Nov-19,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",174.9,2.4
+Nov-19,Alberta,Energy,162,-3.7
+Dec-19,Alberta,All-items,143.7,2.3
+Dec-19,Alberta,Food,150.7,3.5
+Dec-19,Alberta,Shelter,175.1,2.5
+Dec-19,Alberta,"Household operations, furnishings and equipment",121.9,-0.7
+Dec-19,Alberta,Clothing and footwear,98.8,5.1
+Dec-19,Alberta,Transportation,145.2,2.8
+Dec-19,Alberta,Health and personal care,138.8,2.1
+Dec-19,Alberta,"Recreation, education and reading",113.4,1.9
+Dec-19,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",170.6,-0.1
+Dec-19,Alberta,Energy,167.4,4.9
+Jan-20,Alberta,All-items,144.7,3
+Jan-20,Alberta,Food,153.6,4.6
+Jan-20,Alberta,Shelter,174.6,1.7
+Jan-20,Alberta,"Household operations, furnishings and equipment",121.9,-0.7
+Jan-20,Alberta,Clothing and footwear,100.2,8.6
+Jan-20,Alberta,Transportation,147.7,5.9
+Jan-20,Alberta,Health and personal care,140,2.6
+Jan-20,Alberta,"Recreation, education and reading",112.7,0.5
+Jan-20,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.2,-0.1
+Jan-20,Alberta,Energy,168.6,6.9
+Feb-20,Alberta,All-items,145.5,2.5
+Feb-20,Alberta,Food,152.7,3.3
+Feb-20,Alberta,Shelter,175.2,1.8
+Feb-20,Alberta,"Household operations, furnishings and equipment",122.6,-1
+Feb-20,Alberta,Clothing and footwear,102.4,7.5
+Feb-20,Alberta,Transportation,148.2,4.4
+Feb-20,Alberta,Health and personal care,140.1,2.1
+Feb-20,Alberta,"Recreation, education and reading",116.1,2
+Feb-20,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.4,0
+Feb-20,Alberta,Energy,167.6,2.1
+Mar-20,Alberta,All-items,144.1,0.7
+Mar-20,Alberta,Food,153.3,3.4
+Mar-20,Alberta,Shelter,173.6,0.3
+Mar-20,Alberta,"Household operations, furnishings and equipment",123.2,-0.2
+Mar-20,Alberta,Clothing and footwear,103.4,5.7
+Mar-20,Alberta,Transportation,142.5,-2.1
+Mar-20,Alberta,Health and personal care,139.2,1.6
+Mar-20,Alberta,"Recreation, education and reading",115.1,1.2
+Mar-20,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.8,0.2
+Mar-20,Alberta,Energy,145.9,-17.1
+Apr-20,Alberta,All-items,143,-0.5
+Apr-20,Alberta,Food,153,3.7
+Apr-20,Alberta,Shelter,173.3,0.1
+Apr-20,Alberta,"Household operations, furnishings and equipment",123.7,0
+Apr-20,Alberta,Clothing and footwear,97.3,-1.5
+Apr-20,Alberta,Transportation,139.9,-5.5
+Apr-20,Alberta,Health and personal care,139.2,0.8
+Apr-20,Alberta,"Recreation, education and reading",114.4,0.6
+Apr-20,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",172.9,0.7
+Apr-20,Alberta,Energy,135.5,-26
+May-20,Alberta,All-items,144.1,0.1
+May-20,Alberta,Food,154.1,3.9
+May-20,Alberta,Shelter,174,0.7
+May-20,Alberta,"Household operations, furnishings and equipment",121.9,-1.5
+May-20,Alberta,Clothing and footwear,96.3,-1.4
+May-20,Alberta,Transportation,145.5,-2.2
+May-20,Alberta,Health and personal care,139.6,1.1
+May-20,Alberta,"Recreation, education and reading",114.2,-1.2
+May-20,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",173.7,1.2
+May-20,Alberta,Energy,152.4,-15.6
+Jun-20,Alberta,All-items,145,1.6
+Jun-20,Alberta,Food,154,3
+Jun-20,Alberta,Shelter,173.9,2.6
+Jun-20,Alberta,"Household operations, furnishings and equipment",122.3,-1.4
+Jun-20,Alberta,Clothing and footwear,96.4,-0.1
+Jun-20,Alberta,Transportation,148.7,2.2
+Jun-20,Alberta,Health and personal care,139.7,1.2
+Jun-20,Alberta,"Recreation, education and reading",115.4,0.1
+Jun-20,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",173.6,1.2
+Jun-20,Alberta,Energy,158.1,0.3
+Jul-20,Alberta,All-items,144.9,0.9
+Jul-20,Alberta,Food,153.6,1.9
+Jul-20,Alberta,Shelter,174.6,2.7
+Jul-20,Alberta,"Household operations, furnishings and equipment",122.6,-0.1
+Jul-20,Alberta,Clothing and footwear,96.1,1.3
+Jul-20,Alberta,Transportation,148.2,0.7
+Jul-20,Alberta,Health and personal care,140.3,1.2
+Jul-20,Alberta,"Recreation, education and reading",115.2,-3.1
+Jul-20,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",173.7,1.1
+Jul-20,Alberta,Energy,161.5,-0.6
+Aug-20,Alberta,All-items,144.2,0.6
+Aug-20,Alberta,Food,152.4,1.5
+Aug-20,Alberta,Shelter,173.9,1.5
+Aug-20,Alberta,"Household operations, furnishings and equipment",122.7,0.1
+Aug-20,Alberta,Clothing and footwear,96.5,0.8
+Aug-20,Alberta,Transportation,146.4,0.1
+Aug-20,Alberta,Health and personal care,139.9,0.8
+Aug-20,Alberta,"Recreation, education and reading",114.9,-2.1
+Aug-20,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",172.5,0
+Aug-20,Alberta,Energy,160.1,-0.3
+Sep-20,Alberta,All-items,145,1.5
+Sep-20,Alberta,Food,152.4,1.6
+Sep-20,Alberta,Shelter,175.5,2.2
+Sep-20,Alberta,"Household operations, furnishings and equipment",122.7,0.3
+Sep-20,Alberta,Clothing and footwear,98.2,-1.9
+Sep-20,Alberta,Transportation,147.1,3
+Sep-20,Alberta,Health and personal care,140.5,1.4
+Sep-20,Alberta,"Recreation, education and reading",116.3,0.3
+Sep-20,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",170.6,-1.3
+Sep-20,Alberta,Energy,171.8,7.1
+Oct-20,Alberta,All-items,145.2,1.1
+Oct-20,Alberta,Food,152.7,1.6
+Oct-20,Alberta,Shelter,174.7,0.9
+Oct-20,Alberta,"Household operations, furnishings and equipment",122.8,0.3
+Oct-20,Alberta,Clothing and footwear,99,-2
+Oct-20,Alberta,Transportation,148.4,3.3
+Oct-20,Alberta,Health and personal care,140.9,1.5
+Oct-20,Alberta,"Recreation, education and reading",115.9,-0.4
+Oct-20,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.8,-0.6
+Oct-20,Alberta,Energy,164.1,2.1
+Nov-20,Alberta,All-items,145.4,1.3
+Nov-20,Alberta,Food,153.7,2.1
+Nov-20,Alberta,Shelter,175.7,1.2
+Nov-20,Alberta,"Household operations, furnishings and equipment",122.4,0.2
+Nov-20,Alberta,Clothing and footwear,98.9,-1.6
+Nov-20,Alberta,Transportation,148.4,3.6
+Nov-20,Alberta,Health and personal care,140.5,1.3
+Nov-20,Alberta,"Recreation, education and reading",115.4,0
+Nov-20,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.1,-2.2
+Nov-20,Alberta,Energy,165.8,2.3
+Dec-20,Alberta,All-items,144.8,0.8
+Dec-20,Alberta,Food,152.5,1.2
+Dec-20,Alberta,Shelter,176.2,0.6
+Dec-20,Alberta,"Household operations, furnishings and equipment",121.3,-0.5
+Dec-20,Alberta,Clothing and footwear,94.7,-4.1
+Dec-20,Alberta,Transportation,148.8,2.5
+Dec-20,Alberta,Health and personal care,139.3,0.4
+Dec-20,Alberta,"Recreation, education and reading",115.4,1.8
+Dec-20,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",170.5,-0.1
+Dec-20,Alberta,Energy,167.5,0.1
+Jan-21,Alberta,All-items,145.8,0.8
+Jan-21,Alberta,Food,154.1,0.3
+Jan-21,Alberta,Shelter,176.5,1.1
+Jan-21,Alberta,"Household operations, furnishings and equipment",121.8,-0.1
+Jan-21,Alberta,Clothing and footwear,93.8,-6.4
+Jan-21,Alberta,Transportation,151.3,2.4
+Jan-21,Alberta,Health and personal care,140.6,0.4
+Jan-21,Alberta,"Recreation, education and reading",115.9,2.8
+Jan-21,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",170.8,-0.2
+Jan-21,Alberta,Energy,174,3.2
+Feb-21,Alberta,All-items,146.4,0.6
+Feb-21,Alberta,Food,155,1.5
+Feb-21,Alberta,Shelter,176.8,0.9
+Feb-21,Alberta,"Household operations, furnishings and equipment",121.7,-0.7
+Feb-21,Alberta,Clothing and footwear,92.9,-9.3
+Feb-21,Alberta,Transportation,153.8,3.8
+Feb-21,Alberta,Health and personal care,140.8,0.5
+Feb-21,Alberta,"Recreation, education and reading",115.8,-0.3
+Feb-21,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",170.8,-0.4
+Feb-21,Alberta,Energy,183,9.2
+Mar-21,Alberta,All-items,146.9,1.9
+Mar-21,Alberta,Food,155.9,1.7
+Mar-21,Alberta,Shelter,177.3,2.1
+Mar-21,Alberta,"Household operations, furnishings and equipment",120.5,-2.2
+Mar-21,Alberta,Clothing and footwear,94.6,-8.5
+Mar-21,Alberta,Transportation,155.4,9.1
+Mar-21,Alberta,Health and personal care,140.6,1
+Mar-21,Alberta,"Recreation, education and reading",115.7,0.5
+Mar-21,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",170.4,-0.8
+Mar-21,Alberta,Energy,187.7,28.6
+Apr-21,Alberta,All-items,147.7,3.3
+Apr-21,Alberta,Food,155.5,1.6
+Apr-21,Alberta,Shelter,177.2,2.3
+Apr-21,Alberta,"Household operations, furnishings and equipment",122.1,-1.3
+Apr-21,Alberta,Clothing and footwear,96.4,-0.9
+Apr-21,Alberta,Transportation,157.2,12.4
+Apr-21,Alberta,Health and personal care,141.4,1.6
+Apr-21,Alberta,"Recreation, education and reading",115.9,1.3
+Apr-21,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",173.2,0.2
+Apr-21,Alberta,Energy,190.9,40.9
+May-21,Alberta,All-items,148.6,3.1
+May-21,Alberta,Food,157.4,2.1
+May-21,Alberta,Shelter,177.7,2.1
+May-21,Alberta,"Household operations, furnishings and equipment",121.8,-0.1
+May-21,Alberta,Clothing and footwear,96.2,-0.1
+May-21,Alberta,Transportation,159.3,9.5
+May-21,Alberta,Health and personal care,141.6,1.4
+May-21,Alberta,"Recreation, education and reading",116.9,2.4
+May-21,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",173.6,-0.1
+May-21,Alberta,Energy,193.1,26.7
+Jun-21,Alberta,All-items,148.9,2.7
+Jun-21,Alberta,Food,157.4,2.2
+Jun-21,Alberta,Shelter,179.1,3
+Jun-21,Alberta,"Household operations, furnishings and equipment",121.2,-0.9
+Jun-21,Alberta,Clothing and footwear,95.5,-0.9
+Jun-21,Alberta,Transportation,159.9,7.5
+Jun-21,Alberta,Health and personal care,140.1,0.3
+Jun-21,Alberta,"Recreation, education and reading",117.4,1.7
+Jun-21,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",173,-0.3
+Jun-21,Alberta,Energy,194,22.7
+Jul-21,Alberta,All-items,150.3,3.7
+Jul-21,Alberta,Food,157.3,2.4
+Jul-21,Alberta,Shelter,182.1,4.3
+Jul-21,Alberta,"Household operations, furnishings and equipment",122,-0.5
+Jul-21,Alberta,Clothing and footwear,94.5,-1.7
+Jul-21,Alberta,Transportation,162.4,9.6
+Jul-21,Alberta,Health and personal care,141.3,0.7
+Jul-21,Alberta,"Recreation, education and reading",119.2,3.5
+Jul-21,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",174,0.2
+Jul-21,Alberta,Energy,209.5,29.7
+Aug-21,Alberta,All-items,151,4.7
+Aug-21,Alberta,Food,157.7,3.5
+Aug-21,Alberta,Shelter,183.3,5.4
+Aug-21,Alberta,"Household operations, furnishings and equipment",122.5,-0.2
+Aug-21,Alberta,Clothing and footwear,95.3,-1.2
+Aug-21,Alberta,Transportation,164.5,12.4
+Aug-21,Alberta,Health and personal care,141.8,1.4
+Aug-21,Alberta,"Recreation, education and reading",118.7,3.3
+Aug-21,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",173.8,0.8
+Aug-21,Alberta,Energy,214.4,33.9
+Sep-21,Alberta,All-items,150.8,4
+Sep-21,Alberta,Food,158.7,4.1
+Sep-21,Alberta,Shelter,181.8,3.6
+Sep-21,Alberta,"Household operations, furnishings and equipment",122.7,0
+Sep-21,Alberta,Clothing and footwear,96.8,-1.4
+Sep-21,Alberta,Transportation,162.8,10.7
+Sep-21,Alberta,Health and personal care,140.9,0.3
+Sep-21,Alberta,"Recreation, education and reading",119.9,3.1
+Sep-21,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",173.6,1.8
+Sep-21,Alberta,Energy,209.2,21.8
+Oct-21,Alberta,All-items,151.5,4.3
+Oct-21,Alberta,Food,158.8,4
+Oct-21,Alberta,Shelter,182.1,4.2
+Oct-21,Alberta,"Household operations, furnishings and equipment",122.7,-0.1
+Oct-21,Alberta,Clothing and footwear,97,-2
+Oct-21,Alberta,Transportation,165.9,11.8
+Oct-21,Alberta,Health and personal care,141.4,0.4
+Oct-21,Alberta,"Recreation, education and reading",120,3.5
+Oct-21,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",173.3,0.9
+Oct-21,Alberta,Energy,217.7,32.7
+Nov-21,Alberta,All-items,151.6,4.3
+Nov-21,Alberta,Food,159.8,4
+Nov-21,Alberta,Shelter,183.2,4.3
+Nov-21,Alberta,"Household operations, furnishings and equipment",121.8,-0.5
+Nov-21,Alberta,Clothing and footwear,98.5,-0.4
+Nov-21,Alberta,Transportation,165.8,11.7
+Nov-21,Alberta,Health and personal care,141.6,0.8
+Nov-21,Alberta,"Recreation, education and reading",118.5,2.7
+Nov-21,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",173.4,1.3
+Nov-21,Alberta,Energy,222.2,34
+Dec-21,Alberta,All-items,151.7,4.8
+Dec-21,Alberta,Food,160.5,5.2
+Dec-21,Alberta,Shelter,184.9,4.9
+Dec-21,Alberta,"Household operations, furnishings and equipment",121.7,0.3
+Dec-21,Alberta,Clothing and footwear,94.3,-0.4
+Dec-21,Alberta,Transportation,166.4,11.8
+Dec-21,Alberta,Health and personal care,141.2,1.4
+Dec-21,Alberta,"Recreation, education and reading",118,2.3
+Dec-21,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",171.8,0.8
+Dec-21,Alberta,Energy,222.7,33
+Jan-22,Alberta,All-items,152.8,4.8
+Jan-22,Alberta,Food,162.9,5.7
+Jan-22,Alberta,Shelter,186.2,5.5
+Jan-22,Alberta,"Household operations, furnishings and equipment",121.3,-0.4
+Jan-22,Alberta,Clothing and footwear,94.9,1.2
+Jan-22,Alberta,Transportation,166.9,10.3
+Jan-22,Alberta,Health and personal care,140.6,0
+Jan-22,Alberta,"Recreation, education and reading",120,3.5
+Jan-22,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",174.3,2
+Jan-22,Alberta,Energy,229.7,32
+Feb-22,Alberta,All-items,154.5,5.5
+Feb-22,Alberta,Food,164.6,6.2
+Feb-22,Alberta,Shelter,188.4,6.6
+Feb-22,Alberta,"Household operations, furnishings and equipment",122.8,0.9
+Feb-22,Alberta,Clothing and footwear,94.8,2
+Feb-22,Alberta,Transportation,169.4,10.1
+Feb-22,Alberta,Health and personal care,141.4,0.4
+Feb-22,Alberta,"Recreation, education and reading",121.3,4.7
+Feb-22,Alberta,"Alcoholic beverages, tobacco products and recreational cannabis",175.3,2.6
+Feb-22,Alberta,Energy,240.3,31.3
+Jul-06,Canada,All-items,109.6,
+Jul-06,Canada,Food,109.2,
+Jul-06,Canada,Shelter,113.2,
+Jul-06,Canada,"Household operations, furnishings and equipment",101.4,
+Jul-06,Canada,Clothing and footwear,93.5,
+Jul-06,Canada,Transportation,118.3,
+Jul-06,Canada,Health and personal care,105.7,
+Jul-06,Canada,"Recreation, education and reading",101.3,
+Jul-06,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",121.5,
+Jul-06,Canada,Energy,142,
+Aug-06,Canada,All-items,109.8,
+Aug-06,Canada,Food,109.2,
+Aug-06,Canada,Shelter,113.5,
+Aug-06,Canada,"Household operations, furnishings and equipment",101.7,
+Aug-06,Canada,Clothing and footwear,95.4,
+Aug-06,Canada,Transportation,118,
+Aug-06,Canada,Health and personal care,105.5,
+Aug-06,Canada,"Recreation, education and reading",101.2,
+Aug-06,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",121.8,
+Aug-06,Canada,Energy,141.7,
+Sep-06,Canada,All-items,109.2,
+Sep-06,Canada,Food,108.8,
+Sep-06,Canada,Shelter,114,
+Sep-06,Canada,"Household operations, furnishings and equipment",102.1,
+Sep-06,Canada,Clothing and footwear,98.5,
+Sep-06,Canada,Transportation,112.8,
+Sep-06,Canada,Health and personal care,106,
+Sep-06,Canada,"Recreation, education and reading",101.5,
+Sep-06,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",122,
+Sep-06,Canada,Energy,128.8,
+Oct-06,Canada,All-items,109,
+Oct-06,Canada,Food,109.2,
+Oct-06,Canada,Shelter,114.1,
+Oct-06,Canada,"Household operations, furnishings and equipment",102.2,
+Oct-06,Canada,Clothing and footwear,97.7,
+Oct-06,Canada,Transportation,111.7,
+Oct-06,Canada,Health and personal care,106.1,
+Oct-06,Canada,"Recreation, education and reading",100.9,
+Oct-06,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",122.2,
+Oct-06,Canada,Energy,123.8,
+Nov-06,Canada,All-items,109.2,
+Nov-06,Canada,Food,110.1,
+Nov-06,Canada,Shelter,114.1,
+Nov-06,Canada,"Household operations, furnishings and equipment",102.2,
+Nov-06,Canada,Clothing and footwear,97,
+Nov-06,Canada,Transportation,112.7,
+Nov-06,Canada,Health and personal care,106.7,
+Nov-06,Canada,"Recreation, education and reading",100.5,
+Nov-06,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",122.3,
+Nov-06,Canada,Energy,123.8,
+Dec-06,Canada,All-items,109.4,
+Dec-06,Canada,Food,109.9,
+Dec-06,Canada,Shelter,114.6,
+Dec-06,Canada,"Household operations, furnishings and equipment",102.2,
+Dec-06,Canada,Clothing and footwear,93.5,
+Dec-06,Canada,Transportation,114.1,
+Dec-06,Canada,Health and personal care,106.3,
+Dec-06,Canada,"Recreation, education and reading",100.1,
+Dec-06,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",123.2,
+Dec-06,Canada,Energy,127.1,
+Jan-07,Canada,All-items,109.4,
+Jan-07,Canada,Food,110.9,
+Jan-07,Canada,Shelter,114.8,
+Jan-07,Canada,"Household operations, furnishings and equipment",102.4,
+Jan-07,Canada,Clothing and footwear,94.2,
+Jan-07,Canada,Transportation,113.3,
+Jan-07,Canada,Health and personal care,106.3,
+Jan-07,Canada,"Recreation, education and reading",99.2,
+Jan-07,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",124.2,
+Jan-07,Canada,Energy,125.2,
+Feb-07,Canada,All-items,110.2,
+Feb-07,Canada,Food,112.6,
+Feb-07,Canada,Shelter,114.9,
+Feb-07,Canada,"Household operations, furnishings and equipment",103,
+Feb-07,Canada,Clothing and footwear,95.4,
+Feb-07,Canada,Transportation,114.2,
+Feb-07,Canada,Health and personal care,106.5,
+Feb-07,Canada,"Recreation, education and reading",100.2,
+Feb-07,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",124.2,
+Feb-07,Canada,Energy,127.1,
+Mar-07,Canada,All-items,111.1,
+Mar-07,Canada,Food,112.2,
+Mar-07,Canada,Shelter,115.4,
+Mar-07,Canada,"Household operations, furnishings and equipment",103.2,
+Mar-07,Canada,Clothing and footwear,97.5,
+Mar-07,Canada,Transportation,117.7,
+Mar-07,Canada,Health and personal care,106.4,
+Mar-07,Canada,"Recreation, education and reading",100.9,
+Mar-07,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",124.1,
+Mar-07,Canada,Energy,135.9,
+Apr-07,Canada,All-items,111.6,
+Apr-07,Canada,Food,112.2,
+Apr-07,Canada,Shelter,116.2,
+Apr-07,Canada,"Household operations, furnishings and equipment",103.3,
+Apr-07,Canada,Clothing and footwear,97.7,
+Apr-07,Canada,Transportation,118.6,
+Apr-07,Canada,Health and personal care,106.8,
+Apr-07,Canada,"Recreation, education and reading",100.9,
+Apr-07,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",124.5,
+Apr-07,Canada,Energy,139.1,
+May-07,Canada,All-items,112.1,
+May-07,Canada,Food,112.5,
+May-07,Canada,Shelter,116,
+May-07,Canada,"Household operations, furnishings and equipment",103,
+May-07,Canada,Clothing and footwear,96,
+May-07,Canada,Transportation,120.7,
+May-07,Canada,Health and personal care,107.4,
+May-07,Canada,"Recreation, education and reading",102.2,
+May-07,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",125.2,
+May-07,Canada,Energy,142,
+Jun-07,Canada,All-items,111.9,
+Jun-07,Canada,Food,112.6,
+Jun-07,Canada,Shelter,116.8,
+Jun-07,Canada,"Household operations, furnishings and equipment",103,
+Jun-07,Canada,Clothing and footwear,93.1,
+Jun-07,Canada,Transportation,119.2,
+Jun-07,Canada,Health and personal care,107.9,
+Jun-07,Canada,"Recreation, education and reading",102.5,
+Jun-07,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",125.7,
+Jun-07,Canada,Energy,140.1,
+Jul-07,Canada,All-items,112,2.2
+Jul-07,Canada,Food,112.3,2.8
+Jul-07,Canada,Shelter,117,3.4
+Jul-07,Canada,"Household operations, furnishings and equipment",103.2,1.8
+Jul-07,Canada,Clothing and footwear,94.6,1.2
+Jul-07,Canada,Transportation,118.5,0.2
+Jul-07,Canada,Health and personal care,107.5,1.7
+Jul-07,Canada,"Recreation, education and reading",103,1.7
+Jul-07,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",126,3.7
+Jul-07,Canada,Energy,139.6,-1.7
+Aug-07,Canada,All-items,111.7,1.7
+Aug-07,Canada,Food,111.8,2.4
+Aug-07,Canada,Shelter,117.6,3.6
+Aug-07,Canada,"Household operations, furnishings and equipment",103.5,1.8
+Aug-07,Canada,Clothing and footwear,95.4,0
+Aug-07,Canada,Transportation,116.3,-1.4
+Aug-07,Canada,Health and personal care,107.6,2
+Aug-07,Canada,"Recreation, education and reading",102.9,1.7
+Aug-07,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",126.1,3.5
+Aug-07,Canada,Energy,136.4,-3.7
+Sep-07,Canada,All-items,111.9,2.5
+Sep-07,Canada,Food,110.9,1.9
+Sep-07,Canada,Shelter,117.8,3.3
+Sep-07,Canada,"Household operations, furnishings and equipment",103.7,1.6
+Sep-07,Canada,Clothing and footwear,97.4,-1.1
+Sep-07,Canada,Transportation,116.9,3.6
+Sep-07,Canada,Health and personal care,107.6,1.5
+Sep-07,Canada,"Recreation, education and reading",103.4,1.9
+Sep-07,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",126.6,3.8
+Sep-07,Canada,Energy,136.6,6.1
+Oct-07,Canada,All-items,111.6,2.4
+Oct-07,Canada,Food,110.7,1.4
+Oct-07,Canada,Shelter,118.7,4
+Oct-07,Canada,"Household operations, furnishings and equipment",103.4,1.2
+Oct-07,Canada,Clothing and footwear,97.1,-0.6
+Oct-07,Canada,Transportation,115.2,3.1
+Oct-07,Canada,Health and personal care,107.5,1.3
+Oct-07,Canada,"Recreation, education and reading",102.7,1.8
+Oct-07,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",126.3,3.4
+Oct-07,Canada,Energy,134.5,8.6
+Nov-07,Canada,All-items,111.9,2.5
+Nov-07,Canada,Food,111.3,1.1
+Nov-07,Canada,Shelter,118.8,4.1
+Nov-07,Canada,"Household operations, furnishings and equipment",103.3,1.1
+Nov-07,Canada,Clothing and footwear,96.4,-0.6
+Nov-07,Canada,Transportation,116.7,3.5
+Nov-07,Canada,Health and personal care,108,1.2
+Nov-07,Canada,"Recreation, education and reading",102,1.5
+Nov-07,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",126.5,3.4
+Nov-07,Canada,Energy,136.5,10.3
+Dec-07,Canada,All-items,112,2.4
+Dec-07,Canada,Food,111.7,1.6
+Dec-07,Canada,Shelter,119.2,4
+Dec-07,Canada,"Household operations, furnishings and equipment",103.5,1.3
+Dec-07,Canada,Clothing and footwear,93.7,0.2
+Dec-07,Canada,Transportation,117.5,3
+Dec-07,Canada,Health and personal care,107.7,1.3
+Dec-07,Canada,"Recreation, education and reading",101.2,1.1
+Dec-07,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",126.2,2.4
+Dec-07,Canada,Energy,138.2,8.7
+Jan-08,Canada,All-items,111.8,2.2
+Jan-08,Canada,Food,112.4,1.4
+Jan-08,Canada,Shelter,119.2,3.8
+Jan-08,Canada,"Household operations, furnishings and equipment",103.3,0.9
+Jan-08,Canada,Clothing and footwear,92.2,-2.1
+Jan-08,Canada,Transportation,117.6,3.8
+Jan-08,Canada,Health and personal care,107.5,1.1
+Jan-08,Canada,"Recreation, education and reading",99.6,0.4
+Jan-08,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",126.4,1.8
+Jan-08,Canada,Energy,139,11
+Feb-08,Canada,All-items,112.2,1.8
+Feb-08,Canada,Food,112.8,0.2
+Feb-08,Canada,Shelter,119.6,4.1
+Feb-08,Canada,"Household operations, furnishings and equipment",104.1,1.1
+Feb-08,Canada,Clothing and footwear,94.1,-1.4
+Feb-08,Canada,Transportation,117,2.5
+Feb-08,Canada,Health and personal care,107.7,1.1
+Feb-08,Canada,"Recreation, education and reading",100.8,0.6
+Feb-08,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",126.8,2.1
+Feb-08,Canada,Energy,139.4,9.7
+Mar-08,Canada,All-items,112.6,1.4
+Mar-08,Canada,Food,112.6,0.4
+Mar-08,Canada,Shelter,120.1,4.1
+Mar-08,Canada,"Household operations, furnishings and equipment",104.1,0.9
+Mar-08,Canada,Clothing and footwear,96,-1.5
+Mar-08,Canada,Transportation,117.8,0.1
+Mar-08,Canada,Health and personal care,107.9,1.4
+Mar-08,Canada,"Recreation, education and reading",101.3,0.4
+Mar-08,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",126.6,2
+Mar-08,Canada,Energy,143.2,5.4
+Apr-08,Canada,All-items,113.5,1.7
+Apr-08,Canada,Food,113.5,1.2
+Apr-08,Canada,Shelter,121.2,4.3
+Apr-08,Canada,"Household operations, furnishings and equipment",104.4,1.1
+Apr-08,Canada,Clothing and footwear,94.3,-3.5
+Apr-08,Canada,Transportation,120.1,1.3
+Apr-08,Canada,Health and personal care,108.3,1.4
+Apr-08,Canada,"Recreation, education and reading",101.6,0.7
+Apr-08,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",126.7,1.8
+Apr-08,Canada,Energy,150.2,8
+May-08,Canada,All-items,114.6,2.2
+May-08,Canada,Food,114.6,1.9
+May-08,Canada,Shelter,121.6,4.8
+May-08,Canada,"Household operations, furnishings and equipment",104.3,1.3
+May-08,Canada,Clothing and footwear,93,-3.1
+May-08,Canada,Transportation,123.6,2.4
+May-08,Canada,Health and personal care,108.6,1.1
+May-08,Canada,"Recreation, education and reading",102.9,0.7
+May-08,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",127.4,1.8
+May-08,Canada,Energy,158.4,11.5
+Jun-08,Canada,All-items,115.4,3.1
+Jun-08,Canada,Food,115.8,2.8
+Jun-08,Canada,Shelter,122.3,4.7
+Jun-08,Canada,"Household operations, furnishings and equipment",104.3,1.3
+Jun-08,Canada,Clothing and footwear,92.5,-0.6
+Jun-08,Canada,Transportation,125.8,5.5
+Jun-08,Canada,Health and personal care,108.7,0.7
+Jun-08,Canada,"Recreation, education and reading",102.9,0.4
+Jun-08,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",127.7,1.6
+Jun-08,Canada,Energy,165.3,18
+Jul-08,Canada,All-items,115.8,3.4
+Jul-08,Canada,Food,116.5,3.7
+Jul-08,Canada,Shelter,123.3,5.4
+Jul-08,Canada,"Household operations, furnishings and equipment",104.4,1.2
+Jul-08,Canada,Clothing and footwear,93.3,-1.4
+Jul-08,Canada,Transportation,125.7,6.1
+Jul-08,Canada,Health and personal care,108.5,0.9
+Jul-08,Canada,"Recreation, education and reading",103.2,0.2
+Jul-08,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",127.6,1.3
+Jul-08,Canada,Energy,169.1,21.1
+Aug-08,Canada,All-items,115.6,3.5
+Aug-08,Canada,Food,116.8,4.5
+Aug-08,Canada,Shelter,123.8,5.3
+Aug-08,Canada,"Household operations, furnishings and equipment",104.4,0.9
+Aug-08,Canada,Clothing and footwear,93.7,-1.8
+Aug-08,Canada,Transportation,123.1,5.8
+Aug-08,Canada,Health and personal care,109.3,1.6
+Aug-08,Canada,"Recreation, education and reading",103.5,0.6
+Aug-08,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",127.5,1.1
+Aug-08,Canada,Energy,164,20.2
+Sep-08,Canada,All-items,115.7,3.4
+Sep-08,Canada,Food,117.1,5.6
+Sep-08,Canada,Shelter,123.1,4.5
+Sep-08,Canada,"Household operations, furnishings and equipment",105.6,1.8
+Sep-08,Canada,Clothing and footwear,96.1,-1.3
+Sep-08,Canada,Transportation,122.4,4.7
+Sep-08,Canada,Health and personal care,109.4,1.7
+Sep-08,Canada,"Recreation, education and reading",103.9,0.5
+Sep-08,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",128,1.1
+Sep-08,Canada,Energy,161.5,18.2
+Oct-08,Canada,All-items,114.5,2.6
+Oct-08,Canada,Food,117.4,6.1
+Oct-08,Canada,Shelter,123.2,3.8
+Oct-08,Canada,"Household operations, furnishings and equipment",105.2,1.7
+Oct-08,Canada,Clothing and footwear,94.4,-2.8
+Oct-08,Canada,Transportation,117,1.6
+Oct-08,Canada,Health and personal care,109.2,1.6
+Oct-08,Canada,"Recreation, education and reading",103,0.3
+Oct-08,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",128,1.3
+Oct-08,Canada,Energy,147.5,9.7
+Nov-08,Canada,All-items,114.1,2
+Nov-08,Canada,Food,119.5,7.4
+Nov-08,Canada,Shelter,123.4,3.9
+Nov-08,Canada,"Household operations, furnishings and equipment",105.5,2.1
+Nov-08,Canada,Clothing and footwear,94.1,-2.4
+Nov-08,Canada,Transportation,113.2,-3
+Nov-08,Canada,Health and personal care,110.1,1.9
+Nov-08,Canada,"Recreation, education and reading",101.9,-0.1
+Nov-08,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",128.5,1.6
+Nov-08,Canada,Energy,130.7,-4.2
+Dec-08,Canada,All-items,113.3,1.2
+Dec-08,Canada,Food,119.8,7.3
+Dec-08,Canada,Shelter,123.4,3.5
+Dec-08,Canada,"Household operations, furnishings and equipment",105.5,1.9
+Dec-08,Canada,Clothing and footwear,91.3,-2.6
+Dec-08,Canada,Transportation,110.3,-6.1
+Dec-08,Canada,Health and personal care,109.9,2
+Dec-08,Canada,"Recreation, education and reading",101.2,0
+Dec-08,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",128.7,2
+Dec-08,Canada,Energy,123,-11
+Jan-09,Canada,All-items,113,1.1
+Jan-09,Canada,Food,120.6,7.3
+Jan-09,Canada,Shelter,123.1,3.3
+Jan-09,Canada,"Household operations, furnishings and equipment",105.7,2.3
+Jan-09,Canada,Clothing and footwear,91.8,-0.4
+Jan-09,Canada,Transportation,108.8,-7.5
+Jan-09,Canada,Health and personal care,110.4,2.7
+Jan-09,Canada,"Recreation, education and reading",99.7,0.1
+Jan-09,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",129.2,2.2
+Jan-09,Canada,Energy,123.8,-10.9
+Feb-09,Canada,All-items,113.8,1.4
+Feb-09,Canada,Food,121.2,7.4
+Feb-09,Canada,Shelter,123.2,3
+Feb-09,Canada,"Household operations, furnishings and equipment",106.4,2.2
+Feb-09,Canada,Clothing and footwear,93.6,-0.5
+Feb-09,Canada,Transportation,110.2,-5.8
+Feb-09,Canada,Health and personal care,110.4,2.5
+Feb-09,Canada,"Recreation, education and reading",101.1,0.3
+Feb-09,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",129.2,1.9
+Feb-09,Canada,Energy,127.2,-8.8
+Mar-09,Canada,All-items,114,1.2
+Mar-09,Canada,Food,121.5,7.9
+Mar-09,Canada,Shelter,122.6,2.1
+Mar-09,Canada,"Household operations, furnishings and equipment",106.8,2.6
+Mar-09,Canada,Clothing and footwear,95.7,-0.3
+Mar-09,Canada,Transportation,110.5,-6.2
+Mar-09,Canada,Health and personal care,110.5,2.4
+Mar-09,Canada,"Recreation, education and reading",101.8,0.5
+Mar-09,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",129.7,2.4
+Mar-09,Canada,Energy,127.1,-11.2
+Apr-09,Canada,All-items,113.9,0.4
+Apr-09,Canada,Food,121.6,7.1
+Apr-09,Canada,Shelter,121.4,0.2
+Apr-09,Canada,"Household operations, furnishings and equipment",107.3,2.8
+Apr-09,Canada,Clothing and footwear,95.1,0.8
+Apr-09,Canada,Transportation,110.5,-8
+Apr-09,Canada,Health and personal care,111.1,2.6
+Apr-09,Canada,"Recreation, education and reading",102.4,0.8
+Apr-09,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",129.7,2.4
+Apr-09,Canada,Energy,123.9,-17.5
+May-09,Canada,All-items,114.7,0.1
+May-09,Canada,Food,121.9,6.4
+May-09,Canada,Shelter,121.4,-0.2
+May-09,Canada,"Household operations, furnishings and equipment",107.6,3.2
+May-09,Canada,Clothing and footwear,93.9,1
+May-09,Canada,Transportation,113.5,-8.2
+May-09,Canada,Health and personal care,112.1,3.2
+May-09,Canada,"Recreation, education and reading",103.8,0.9
+May-09,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",131.2,3
+May-09,Canada,Energy,129.4,-18.3
+Jun-09,Canada,All-items,115.1,-0.3
+Jun-09,Canada,Food,122.2,5.5
+Jun-09,Canada,Shelter,121.3,-0.8
+Jun-09,Canada,"Household operations, furnishings and equipment",107.3,2.9
+Jun-09,Canada,Clothing and footwear,91.3,-1.3
+Jun-09,Canada,Transportation,116.1,-7.7
+Jun-09,Canada,Health and personal care,112.8,3.8
+Jun-09,Canada,"Recreation, education and reading",103.8,0.9
+Jun-09,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",131.6,3.1
+Jun-09,Canada,Energy,133.9,-19
+Jul-09,Canada,All-items,114.7,-0.9
+Jul-09,Canada,Food,122.3,5
+Jul-09,Canada,Shelter,120.8,-2
+Jul-09,Canada,"Household operations, furnishings and equipment",107.1,2.6
+Jul-09,Canada,Clothing and footwear,91.3,-2.1
+Jul-09,Canada,Transportation,114.3,-9.1
+Jul-09,Canada,Health and personal care,112.5,3.7
+Jul-09,Canada,"Recreation, education and reading",104.3,1.1
+Jul-09,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",131.5,3.1
+Jul-09,Canada,Energy,129.6,-23.4
+Aug-09,Canada,All-items,114.7,-0.8
+Aug-09,Canada,Food,121.5,4
+Aug-09,Canada,Shelter,121.1,-2.2
+Aug-09,Canada,"Household operations, furnishings and equipment",107,2.5
+Aug-09,Canada,Clothing and footwear,92.1,-1.7
+Aug-09,Canada,Transportation,114.8,-6.7
+Aug-09,Canada,Health and personal care,112.5,2.9
+Aug-09,Canada,"Recreation, education and reading",104.4,0.9
+Aug-09,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",131.4,3.1
+Aug-09,Canada,Energy,132.6,-19.1
+Sep-09,Canada,All-items,114.7,-0.9
+Sep-09,Canada,Food,120.4,2.8
+Sep-09,Canada,Shelter,120.9,-1.8
+Sep-09,Canada,"Household operations, furnishings and equipment",107.9,2.2
+Sep-09,Canada,Clothing and footwear,94.9,-1.2
+Sep-09,Canada,Transportation,113.6,-7.2
+Sep-09,Canada,Health and personal care,113.7,3.9
+Sep-09,Canada,"Recreation, education and reading",104.9,1
+Sep-09,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",131.3,2.6
+Sep-09,Canada,Energy,131.3,-18.7
+Oct-09,Canada,All-items,114.6,0.1
+Oct-09,Canada,Food,120.1,2.3
+Oct-09,Canada,Shelter,121.2,-1.6
+Oct-09,Canada,"Household operations, furnishings and equipment",107.9,2.6
+Oct-09,Canada,Clothing and footwear,95,0.6
+Oct-09,Canada,Transportation,113.4,-3.1
+Oct-09,Canada,Health and personal care,112.9,3.4
+Oct-09,Canada,"Recreation, education and reading",104.5,1.5
+Oct-09,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",131.4,2.7
+Oct-09,Canada,Energy,128.8,-12.7
+Nov-09,Canada,All-items,115.2,1
+Nov-09,Canada,Food,121.5,1.7
+Nov-09,Canada,Shelter,121.3,-1.7
+Nov-09,Canada,"Household operations, furnishings and equipment",108.5,2.8
+Nov-09,Canada,Clothing and footwear,95.1,1.1
+Nov-09,Canada,Transportation,115.4,1.9
+Nov-09,Canada,Health and personal care,113.6,3.2
+Nov-09,Canada,"Recreation, education and reading",103.7,1.8
+Nov-09,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",131.3,2.2
+Nov-09,Canada,Energy,132.4,1.3
+Dec-09,Canada,All-items,114.8,1.3
+Dec-09,Canada,Food,121.8,1.7
+Dec-09,Canada,Shelter,121.3,-1.7
+Dec-09,Canada,"Household operations, furnishings and equipment",107.5,1.9
+Dec-09,Canada,Clothing and footwear,90.6,-0.8
+Dec-09,Canada,Transportation,115.5,4.7
+Dec-09,Canada,Health and personal care,113.2,3
+Dec-09,Canada,"Recreation, education and reading",102.8,1.6
+Dec-09,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",131.2,1.9
+Dec-09,Canada,Energy,130.3,5.9
+Jan-10,Canada,All-items,115.1,1.9
+Jan-10,Canada,Food,122.3,1.4
+Jan-10,Canada,Shelter,121.8,-1.1
+Jan-10,Canada,"Household operations, furnishings and equipment",107.9,2.1
+Jan-10,Canada,Clothing and footwear,90.1,-1.9
+Jan-10,Canada,Transportation,117.2,7.7
+Jan-10,Canada,Health and personal care,113.8,3.1
+Jan-10,Canada,"Recreation, education and reading",101.1,1.4
+Jan-10,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",131.1,1.5
+Jan-10,Canada,Energy,133.9,8.2
+Feb-10,Canada,All-items,115.6,1.6
+Feb-10,Canada,Food,122.7,1.2
+Feb-10,Canada,Shelter,121.8,-1.1
+Feb-10,Canada,"Household operations, furnishings and equipment",108.3,1.8
+Feb-10,Canada,Clothing and footwear,91.2,-2.6
+Feb-10,Canada,Transportation,116.7,5.9
+Feb-10,Canada,Health and personal care,113.7,3
+Feb-10,Canada,"Recreation, education and reading",104.1,3
+Feb-10,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",131.4,1.7
+Feb-10,Canada,Energy,132.3,4
+Mar-10,Canada,All-items,115.6,1.4
+Mar-10,Canada,Food,123.1,1.3
+Mar-10,Canada,Shelter,121.7,-0.7
+Mar-10,Canada,"Household operations, furnishings and equipment",108.3,1.4
+Mar-10,Canada,Clothing and footwear,93.6,-2.2
+Mar-10,Canada,Transportation,117.1,6
+Mar-10,Canada,Health and personal care,113.5,2.7
+Mar-10,Canada,"Recreation, education and reading",102.5,0.7
+Mar-10,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",131.5,1.4
+Mar-10,Canada,Energy,134.5,5.8
+Apr-10,Canada,All-items,116,1.8
+Apr-10,Canada,Food,122.8,1
+Apr-10,Canada,Shelter,122.4,0.8
+Apr-10,Canada,"Household operations, furnishings and equipment",108.5,1.1
+Apr-10,Canada,Clothing and footwear,94.1,-1.1
+Apr-10,Canada,Transportation,117.4,6.2
+Apr-10,Canada,Health and personal care,114.8,3.3
+Apr-10,Canada,"Recreation, education and reading",102.9,0.5
+Apr-10,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",131.8,1.6
+Apr-10,Canada,Energy,136,9.8
+May-10,Canada,All-items,116.3,1.4
+May-10,Canada,Food,122.9,0.8
+May-10,Canada,Shelter,123,1.3
+May-10,Canada,"Household operations, furnishings and equipment",108.6,0.9
+May-10,Canada,Clothing and footwear,92.7,-1.3
+May-10,Canada,Transportation,118.1,4.1
+May-10,Canada,Health and personal care,114.6,2.2
+May-10,Canada,"Recreation, education and reading",103.6,-0.2
+May-10,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",132.1,0.7
+May-10,Canada,Energy,137.4,6.2
+Jun-10,Canada,All-items,116.2,1
+Jun-10,Canada,Food,123,0.7
+Jun-10,Canada,Shelter,123.3,1.6
+Jun-10,Canada,"Household operations, furnishings and equipment",108.6,1.2
+Jun-10,Canada,Clothing and footwear,89.7,-1.8
+Jun-10,Canada,Transportation,117.3,1
+Jun-10,Canada,Health and personal care,114.7,1.7
+Jun-10,Canada,"Recreation, education and reading",104.2,0.4
+Jun-10,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",132.2,0.5
+Jun-10,Canada,Energy,135.7,1.3
+Jul-10,Canada,All-items,116.8,1.8
+Jul-10,Canada,Food,123.7,1.1
+Jul-10,Canada,Shelter,124.3,2.9
+Jul-10,Canada,"Household operations, furnishings and equipment",109.2,2
+Jul-10,Canada,Clothing and footwear,88.8,-2.7
+Jul-10,Canada,Transportation,117.4,2.7
+Jul-10,Canada,Health and personal care,115.6,2.8
+Jul-10,Canada,"Recreation, education and reading",105.1,0.8
+Jul-10,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",134.5,2.3
+Jul-10,Canada,Energy,139.8,7.9
+Aug-10,Canada,All-items,116.7,1.7
+Aug-10,Canada,Food,123.5,1.6
+Aug-10,Canada,Shelter,124,2.4
+Aug-10,Canada,"Household operations, furnishings and equipment",109,1.9
+Aug-10,Canada,Clothing and footwear,90.1,-2.2
+Aug-10,Canada,Transportation,117.1,2
+Aug-10,Canada,Health and personal care,116.4,3.5
+Aug-10,Canada,"Recreation, education and reading",105,0.6
+Aug-10,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",134.4,2.3
+Aug-10,Canada,Energy,139.2,5
+Sep-10,Canada,All-items,116.9,1.9
+Sep-10,Canada,Food,122.9,2.1
+Sep-10,Canada,Shelter,123.9,2.5
+Sep-10,Canada,"Household operations, furnishings and equipment",109.4,1.4
+Sep-10,Canada,Clothing and footwear,92.8,-2.2
+Sep-10,Canada,Transportation,117.1,3.1
+Sep-10,Canada,Health and personal care,116.1,2.1
+Sep-10,Canada,"Recreation, education and reading",105.6,0.7
+Sep-10,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",134.4,2.4
+Sep-10,Canada,Energy,138.7,5.6
+Oct-10,Canada,All-items,117.4,2.4
+Oct-10,Canada,Food,122.7,2.2
+Oct-10,Canada,Shelter,124.6,2.8
+Oct-10,Canada,"Household operations, furnishings and equipment",109.3,1.3
+Oct-10,Canada,Clothing and footwear,94.9,-0.1
+Oct-10,Canada,Transportation,118.6,4.6
+Oct-10,Canada,Health and personal care,116,2.7
+Oct-10,Canada,"Recreation, education and reading",105.2,0.7
+Oct-10,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",134.5,2.4
+Oct-10,Canada,Energy,140.5,9.1
+Nov-10,Canada,All-items,117.5,2
+Nov-10,Canada,Food,123.3,1.5
+Nov-10,Canada,Shelter,124.4,2.6
+Nov-10,Canada,"Household operations, furnishings and equipment",109.5,0.9
+Nov-10,Canada,Clothing and footwear,92.1,-3.2
+Nov-10,Canada,Transportation,120.7,4.6
+Nov-10,Canada,Health and personal care,116.1,2.2
+Nov-10,Canada,"Recreation, education and reading",104.3,0.6
+Nov-10,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",134.6,2.5
+Nov-10,Canada,Energy,141.3,6.7
+Dec-10,Canada,All-items,117.5,2.4
+Dec-10,Canada,Food,123.9,1.7
+Dec-10,Canada,Shelter,124.6,2.7
+Dec-10,Canada,"Household operations, furnishings and equipment",109.3,1.7
+Dec-10,Canada,Clothing and footwear,88.8,-2
+Dec-10,Canada,Transportation,121.2,4.9
+Dec-10,Canada,Health and personal care,115.8,2.3
+Dec-10,Canada,"Recreation, education and reading",103.9,1.1
+Dec-10,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",134.6,2.6
+Dec-10,Canada,Energy,144,10.5
+Jan-11,Canada,All-items,117.8,2.3
+Jan-11,Canada,Food,124.9,2.1
+Jan-11,Canada,Shelter,124.5,2.2
+Jan-11,Canada,"Household operations, furnishings and equipment",109.6,1.6
+Jan-11,Canada,Clothing and footwear,87.9,-2.4
+Jan-11,Canada,Transportation,122.8,4.8
+Jan-11,Canada,Health and personal care,115.8,1.8
+Jan-11,Canada,"Recreation, education and reading",102.7,1.6
+Jan-11,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",135.2,3.1
+Jan-11,Canada,Energy,146,9
+Feb-11,Canada,All-items,118.1,2.2
+Feb-11,Canada,Food,125.3,2.1
+Feb-11,Canada,Shelter,124.5,2.2
+Feb-11,Canada,"Household operations, furnishings and equipment",110.1,1.7
+Feb-11,Canada,Clothing and footwear,89.4,-2
+Feb-11,Canada,Transportation,122.6,5.1
+Feb-11,Canada,Health and personal care,116,2
+Feb-11,Canada,"Recreation, education and reading",103.8,-0.3
+Feb-11,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",135,2.7
+Feb-11,Canada,Energy,146.3,10.6
+Mar-11,Canada,All-items,119.4,3.3
+Mar-11,Canada,Food,127.2,3.3
+Mar-11,Canada,Shelter,124.6,2.4
+Mar-11,Canada,"Household operations, furnishings and equipment",110.4,1.9
+Mar-11,Canada,Clothing and footwear,94.4,0.9
+Mar-11,Canada,Transportation,124.8,6.6
+Mar-11,Canada,Health and personal care,116.4,2.6
+Mar-11,Canada,"Recreation, education and reading",104.9,2.3
+Mar-11,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",134.8,2.5
+Mar-11,Canada,Energy,151.7,12.8
+Apr-11,Canada,All-items,119.8,3.3
+Apr-11,Canada,Food,126.9,3.3
+Apr-11,Canada,Shelter,125.2,2.3
+Apr-11,Canada,"Household operations, furnishings and equipment",109.8,1.2
+Apr-11,Canada,Clothing and footwear,93.1,-1.1
+Apr-11,Canada,Transportation,127.2,8.3
+Apr-11,Canada,Health and personal care,117.3,2.2
+Apr-11,Canada,"Recreation, education and reading",105.1,2.1
+Apr-11,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",135,2.4
+Apr-11,Canada,Energy,159.2,17.1
+May-11,Canada,All-items,120.6,3.7
+May-11,Canada,Food,127.7,3.9
+May-11,Canada,Shelter,125.2,1.8
+May-11,Canada,"Household operations, furnishings and equipment",110.4,1.7
+May-11,Canada,Clothing and footwear,93.7,1.1
+May-11,Canada,Transportation,128.9,9.1
+May-11,Canada,Health and personal care,117.2,2.3
+May-11,Canada,"Recreation, education and reading",106.1,2.4
+May-11,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",135.7,2.7
+May-11,Canada,Energy,160.2,16.6
+Jun-11,Canada,All-items,119.8,3.1
+Jun-11,Canada,Food,128.3,4.3
+Jun-11,Canada,Shelter,125.4,1.7
+Jun-11,Canada,"Household operations, furnishings and equipment",110.7,1.9
+Jun-11,Canada,Clothing and footwear,90.4,0.8
+Jun-11,Canada,Transportation,125.5,7
+Jun-11,Canada,Health and personal care,116.9,1.9
+Jun-11,Canada,"Recreation, education and reading",106,1.7
+Jun-11,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",135.6,2.6
+Jun-11,Canada,Energy,157,15.7
+Jul-11,Canada,All-items,120,2.7
+Jul-11,Canada,Food,129,4.3
+Jul-11,Canada,Shelter,125.9,1.3
+Jul-11,Canada,"Household operations, furnishings and equipment",110.7,1.4
+Jul-11,Canada,Clothing and footwear,89.7,1
+Jul-11,Canada,Transportation,125,6.5
+Jul-11,Canada,Health and personal care,116.7,1
+Jul-11,Canada,"Recreation, education and reading",106.8,1.6
+Jul-11,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",136.1,1.2
+Jul-11,Canada,Energy,157.9,12.9
+Aug-11,Canada,All-items,120.3,3.1
+Aug-11,Canada,Food,128.9,4.4
+Aug-11,Canada,Shelter,126.2,1.8
+Aug-11,Canada,"Household operations, furnishings and equipment",111.2,2
+Aug-11,Canada,Clothing and footwear,90.6,0.6
+Aug-11,Canada,Transportation,125.3,7
+Aug-11,Canada,Health and personal care,117.5,0.9
+Aug-11,Canada,"Recreation, education and reading",106.4,1.3
+Aug-11,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",136.1,1.3
+Aug-11,Canada,Energy,157.9,13.4
+Sep-11,Canada,All-items,120.6,3.2
+Sep-11,Canada,Food,128.2,4.3
+Sep-11,Canada,Shelter,125.7,1.5
+Sep-11,Canada,"Household operations, furnishings and equipment",111.6,2
+Sep-11,Canada,Clothing and footwear,95,2.4
+Sep-11,Canada,Transportation,126.3,7.9
+Sep-11,Canada,Health and personal care,117.5,1.2
+Sep-11,Canada,"Recreation, education and reading",106.9,1.2
+Sep-11,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",135.9,1.1
+Sep-11,Canada,Energy,156,12.5
+Oct-11,Canada,All-items,120.8,2.9
+Oct-11,Canada,Food,128,4.3
+Oct-11,Canada,Shelter,126.5,1.5
+Oct-11,Canada,"Household operations, furnishings and equipment",111.9,2.4
+Oct-11,Canada,Clothing and footwear,96.1,1.3
+Oct-11,Canada,Transportation,126.5,6.7
+Oct-11,Canada,Health and personal care,117.4,1.2
+Oct-11,Canada,"Recreation, education and reading",106,0.8
+Oct-11,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",135.8,1
+Oct-11,Canada,Energy,156.9,11.7
+Nov-11,Canada,All-items,120.9,2.9
+Nov-11,Canada,Food,129.2,4.8
+Nov-11,Canada,Shelter,126.3,1.5
+Nov-11,Canada,"Household operations, furnishings and equipment",112.1,2.4
+Nov-11,Canada,Clothing and footwear,93.1,1.1
+Nov-11,Canada,Transportation,127.6,5.7
+Nov-11,Canada,Health and personal care,117.9,1.6
+Nov-11,Canada,"Recreation, education and reading",104.8,0.5
+Nov-11,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",135.8,0.9
+Nov-11,Canada,Energy,154.1,9.1
+Dec-11,Canada,All-items,120.2,2.3
+Dec-11,Canada,Food,129.3,4.4
+Dec-11,Canada,Shelter,126.8,1.8
+Dec-11,Canada,"Household operations, furnishings and equipment",111.8,2.3
+Dec-11,Canada,Clothing and footwear,89.1,0.3
+Dec-11,Canada,Transportation,125.2,3.3
+Dec-11,Canada,Health and personal care,118.1,2
+Dec-11,Canada,"Recreation, education and reading",104.1,0.2
+Dec-11,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",135.8,0.9
+Dec-11,Canada,Energy,152.7,6
+Jan-12,Canada,All-items,120.7,2.5
+Jan-12,Canada,Food,130.2,4.2
+Jan-12,Canada,Shelter,127.1,2.1
+Jan-12,Canada,"Household operations, furnishings and equipment",112.2,2.4
+Jan-12,Canada,Clothing and footwear,89.3,1.6
+Jan-12,Canada,Transportation,127.4,3.7
+Jan-12,Canada,Health and personal care,118.1,2
+Jan-12,Canada,"Recreation, education and reading",102.6,-0.1
+Jan-12,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",136.3,0.8
+Jan-12,Canada,Energy,155.5,6.5
+Feb-12,Canada,All-items,121.2,2.6
+Feb-12,Canada,Food,130.4,4.1
+Feb-12,Canada,Shelter,126.9,1.9
+Feb-12,Canada,"Household operations, furnishings and equipment",112.8,2.5
+Feb-12,Canada,Clothing and footwear,91.9,2.8
+Feb-12,Canada,Transportation,127.8,4.2
+Feb-12,Canada,Health and personal care,118.4,2.1
+Feb-12,Canada,"Recreation, education and reading",103.7,-0.1
+Feb-12,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",136.6,1.2
+Feb-12,Canada,Energy,156.9,7.2
+Mar-12,Canada,All-items,121.7,1.9
+Mar-12,Canada,Food,130,2.2
+Mar-12,Canada,Shelter,126.6,1.6
+Mar-12,Canada,"Household operations, furnishings and equipment",112.7,2.1
+Mar-12,Canada,Clothing and footwear,94.8,0.4
+Mar-12,Canada,Transportation,129.5,3.8
+Mar-12,Canada,Health and personal care,118.3,1.6
+Mar-12,Canada,"Recreation, education and reading",104.9,0
+Mar-12,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",137.5,2
+Mar-12,Canada,Energy,159.5,5.1
+Apr-12,Canada,All-items,122.2,2
+Apr-12,Canada,Food,130.1,2.5
+Apr-12,Canada,Shelter,126.6,1.1
+Apr-12,Canada,"Household operations, furnishings and equipment",112.6,2.6
+Apr-12,Canada,Clothing and footwear,95.3,2.4
+Apr-12,Canada,Transportation,131.3,3.2
+Apr-12,Canada,Health and personal care,118.9,1.4
+Apr-12,Canada,"Recreation, education and reading",105.4,0.3
+Apr-12,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",137.7,2
+Apr-12,Canada,Energy,161,1.1
+May-12,Canada,All-items,122.1,1.2
+May-12,Canada,Food,130.9,2.5
+May-12,Canada,Shelter,126.7,1.2
+May-12,Canada,"Household operations, furnishings and equipment",112.8,2.2
+May-12,Canada,Clothing and footwear,93.4,-0.3
+May-12,Canada,Transportation,129.9,0.8
+May-12,Canada,Health and personal care,118.8,1.4
+May-12,Canada,"Recreation, education and reading",106.7,0.6
+May-12,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",137.7,1.5
+May-12,Canada,Energy,157.7,-1.6
+Jun-12,Canada,All-items,121.6,1.5
+Jun-12,Canada,Food,130.9,2
+Jun-12,Canada,Shelter,127,1.3
+Jun-12,Canada,"Household operations, furnishings and equipment",113.1,2.2
+Jun-12,Canada,Clothing and footwear,90.5,0.1
+Jun-12,Canada,Transportation,127.6,1.7
+Jun-12,Canada,Health and personal care,118.9,1.7
+Jun-12,Canada,"Recreation, education and reading",106.7,0.7
+Jun-12,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",137.5,1.4
+Jun-12,Canada,Energy,155.7,-0.8
+Jul-12,Canada,All-items,121.5,1.3
+Jul-12,Canada,Food,131.7,2.1
+Jul-12,Canada,Shelter,127.2,1
+Jul-12,Canada,"Household operations, furnishings and equipment",113,2.1
+Jul-12,Canada,Clothing and footwear,89.1,-0.7
+Jul-12,Canada,Transportation,126.4,1.1
+Jul-12,Canada,Health and personal care,118.5,1.5
+Jul-12,Canada,"Recreation, education and reading",107.2,0.4
+Jul-12,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",137.6,1.1
+Jul-12,Canada,Energy,156,-1.2
+Aug-12,Canada,All-items,121.8,1.2
+Aug-12,Canada,Food,131.7,2.2
+Aug-12,Canada,Shelter,127.4,1
+Aug-12,Canada,"Household operations, furnishings and equipment",112.7,1.3
+Aug-12,Canada,Clothing and footwear,89.5,-1.2
+Aug-12,Canada,Transportation,127.5,1.8
+Aug-12,Canada,Health and personal care,119.8,2
+Aug-12,Canada,"Recreation, education and reading",107.6,1.1
+Aug-12,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",137.8,1.2
+Aug-12,Canada,Energy,159.2,0.8
+Sep-12,Canada,All-items,122,1.2
+Sep-12,Canada,Food,130.3,1.6
+Sep-12,Canada,Shelter,127.2,1.2
+Sep-12,Canada,"Household operations, furnishings and equipment",113.2,1.4
+Sep-12,Canada,Clothing and footwear,93.3,-1.8
+Sep-12,Canada,Transportation,128.3,1.6
+Sep-12,Canada,Health and personal care,118.5,0.9
+Sep-12,Canada,"Recreation, education and reading",107.7,0.7
+Sep-12,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",137.7,1.3
+Sep-12,Canada,Energy,160.6,2.9
+Oct-12,Canada,All-items,122.2,1.2
+Oct-12,Canada,Food,130.5,2
+Oct-12,Canada,Shelter,127.6,0.9
+Oct-12,Canada,"Household operations, furnishings and equipment",113.5,1.4
+Oct-12,Canada,Clothing and footwear,94.7,-1.5
+Oct-12,Canada,Transportation,128.6,1.7
+Oct-12,Canada,Health and personal care,118.5,0.9
+Oct-12,Canada,"Recreation, education and reading",106.6,0.6
+Oct-12,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",137.8,1.5
+Oct-12,Canada,Energy,159.5,1.7
+Nov-12,Canada,All-items,121.9,0.8
+Nov-12,Canada,Food,131.4,1.7
+Nov-12,Canada,Shelter,127.5,1
+Nov-12,Canada,"Household operations, furnishings and equipment",113.7,1.4
+Nov-12,Canada,Clothing and footwear,92.5,-0.6
+Nov-12,Canada,Transportation,127.3,-0.2
+Nov-12,Canada,Health and personal care,118.7,0.7
+Nov-12,Canada,"Recreation, education and reading",106.1,1.2
+Nov-12,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",138.3,1.8
+Nov-12,Canada,Energy,153.8,-0.2
+Dec-12,Canada,All-items,121.2,0.8
+Dec-12,Canada,Food,131.2,1.5
+Dec-12,Canada,Shelter,127.5,0.6
+Dec-12,Canada,"Household operations, furnishings and equipment",113.2,1.3
+Dec-12,Canada,Clothing and footwear,89.2,0.1
+Dec-12,Canada,Transportation,125.8,0.5
+Dec-12,Canada,Health and personal care,118.6,0.4
+Dec-12,Canada,"Recreation, education and reading",105.3,1.2
+Dec-12,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",138.3,1.8
+Dec-12,Canada,Energy,151.9,-0.5
+Jan-13,Canada,All-items,121.3,0.5
+Jan-13,Canada,Food,131.6,1.1
+Jan-13,Canada,Shelter,127.8,0.6
+Jan-13,Canada,"Household operations, furnishings and equipment",113.5,1.2
+Jan-13,Canada,Clothing and footwear,87.9,-1.6
+Jan-13,Canada,Transportation,126.7,-0.5
+Jan-13,Canada,Health and personal care,118.5,0.3
+Jan-13,Canada,"Recreation, education and reading",103.7,1.1
+Jan-13,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",138.9,1.9
+Jan-13,Canada,Energy,152.8,-1.7
+Feb-13,Canada,All-items,122.7,1.2
+Feb-13,Canada,Food,132.9,1.9
+Feb-13,Canada,Shelter,127.9,0.8
+Feb-13,Canada,"Household operations, furnishings and equipment",114.3,1.3
+Feb-13,Canada,Clothing and footwear,91.4,-0.5
+Feb-13,Canada,Transportation,130.3,2
+Feb-13,Canada,Health and personal care,118.6,0.2
+Feb-13,Canada,"Recreation, education and reading",104.7,1
+Feb-13,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",139.4,2
+Feb-13,Canada,Energy,160.1,2
+Mar-13,Canada,All-items,122.9,1
+Mar-13,Canada,Food,132.4,1.8
+Mar-13,Canada,Shelter,128,1.1
+Mar-13,Canada,"Household operations, furnishings and equipment",114.7,1.8
+Mar-13,Canada,Clothing and footwear,95.3,0.5
+Mar-13,Canada,Transportation,129.5,0
+Mar-13,Canada,Health and personal care,118.3,0
+Mar-13,Canada,"Recreation, education and reading",105.2,0.3
+Mar-13,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",139.8,1.7
+Mar-13,Canada,Energy,159.9,0.3
+Apr-13,Canada,All-items,122.7,0.4
+Apr-13,Canada,Food,132.1,1.5
+Apr-13,Canada,Shelter,128.2,1.3
+Apr-13,Canada,"Household operations, furnishings and equipment",114.3,1.5
+Apr-13,Canada,Clothing and footwear,94.7,-0.6
+Apr-13,Canada,Transportation,128.6,-2.1
+Apr-13,Canada,Health and personal care,118.6,-0.3
+Apr-13,Canada,"Recreation, education and reading",105.2,-0.2
+Apr-13,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",140.1,1.7
+Apr-13,Canada,Energy,158,-1.9
+May-13,Canada,All-items,123,0.7
+May-13,Canada,Food,132.6,1.3
+May-13,Canada,Shelter,128.3,1.3
+May-13,Canada,"Household operations, furnishings and equipment",114,1.1
+May-13,Canada,Clothing and footwear,93.9,0.5
+May-13,Canada,Transportation,129.2,-0.5
+May-13,Canada,Health and personal care,118.3,-0.4
+May-13,Canada,"Recreation, education and reading",106.5,-0.2
+May-13,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",141.1,2.5
+May-13,Canada,Energy,159.3,1
+Jun-13,Canada,All-items,123,1.2
+Jun-13,Canada,Food,132.5,1.2
+Jun-13,Canada,Shelter,128.5,1.2
+Jun-13,Canada,"Household operations, furnishings and equipment",114.2,1
+Jun-13,Canada,Clothing and footwear,91.2,0.8
+Jun-13,Canada,Transportation,130.2,2
+Jun-13,Canada,Health and personal care,118.4,-0.4
+Jun-13,Canada,"Recreation, education and reading",106.6,-0.1
+Jun-13,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",140.9,2.5
+Jun-13,Canada,Energy,162.1,4.1
+Jul-13,Canada,All-items,123.1,1.3
+Jul-13,Canada,Food,132.7,0.8
+Jul-13,Canada,Shelter,128.8,1.3
+Jul-13,Canada,"Household operations, furnishings and equipment",114.5,1.3
+Jul-13,Canada,Clothing and footwear,90.4,1.5
+Jul-13,Canada,Transportation,129.8,2.7
+Jul-13,Canada,Health and personal care,118,-0.4
+Jul-13,Canada,"Recreation, education and reading",107.7,0.5
+Jul-13,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",140.5,2.1
+Jul-13,Canada,Energy,164.2,5.3
+Aug-13,Canada,All-items,123.1,1.1
+Aug-13,Canada,Food,133,1
+Aug-13,Canada,Shelter,128.8,1.1
+Aug-13,Canada,"Household operations, furnishings and equipment",114.1,1.2
+Aug-13,Canada,Clothing and footwear,91.6,2.3
+Aug-13,Canada,Transportation,129.2,1.3
+Aug-13,Canada,Health and personal care,118.1,-1.4
+Aug-13,Canada,"Recreation, education and reading",107.9,0.3
+Aug-13,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",140.4,1.9
+Aug-13,Canada,Energy,163,2.4
+Sep-13,Canada,All-items,123.3,1.1
+Sep-13,Canada,Food,131.9,1.2
+Sep-13,Canada,Shelter,129,1.4
+Sep-13,Canada,"Household operations, furnishings and equipment",114.5,1.1
+Sep-13,Canada,Clothing and footwear,93.7,0.4
+Sep-13,Canada,Transportation,129.3,0.8
+Sep-13,Canada,Health and personal care,118.4,-0.1
+Sep-13,Canada,"Recreation, education and reading",107.9,0.2
+Sep-13,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",140.9,2.3
+Sep-13,Canada,Energy,163,1.5
+Oct-13,Canada,All-items,123,0.7
+Oct-13,Canada,Food,131.7,0.9
+Oct-13,Canada,Shelter,129.2,1.3
+Oct-13,Canada,"Household operations, furnishings and equipment",114.7,1.1
+Oct-13,Canada,Clothing and footwear,94,-0.7
+Oct-13,Canada,Transportation,128.5,-0.1
+Oct-13,Canada,Health and personal care,117.9,-0.5
+Oct-13,Canada,"Recreation, education and reading",106.9,0.3
+Oct-13,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",141,2.3
+Oct-13,Canada,Energy,157,-1.6
+Nov-13,Canada,All-items,123,0.9
+Nov-13,Canada,Food,132.8,1.1
+Nov-13,Canada,Shelter,129.8,1.8
+Nov-13,Canada,"Household operations, furnishings and equipment",114.8,1
+Nov-13,Canada,Clothing and footwear,92.1,-0.4
+Nov-13,Canada,Transportation,128,0.5
+Nov-13,Canada,Health and personal care,118,-0.6
+Nov-13,Canada,"Recreation, education and reading",106.2,0.1
+Nov-13,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",141.1,2
+Nov-13,Canada,Energy,157.4,2.3
+Dec-13,Canada,All-items,122.7,1.2
+Dec-13,Canada,Food,132.5,1
+Dec-13,Canada,Shelter,129.9,1.9
+Dec-13,Canada,"Household operations, furnishings and equipment",114.7,1.3
+Dec-13,Canada,Clothing and footwear,89.4,0.2
+Dec-13,Canada,Transportation,128.5,2.1
+Dec-13,Canada,Health and personal care,118.1,-0.4
+Dec-13,Canada,"Recreation, education and reading",105.3,0
+Dec-13,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",141.2,2.1
+Dec-13,Canada,Energy,158.9,4.6
+Jan-14,Canada,All-items,123.1,1.5
+Jan-14,Canada,Food,133,1.1
+Jan-14,Canada,Shelter,130.5,2.1
+Jan-14,Canada,"Household operations, furnishings and equipment",114.7,1.1
+Jan-14,Canada,Clothing and footwear,89.2,1.5
+Jan-14,Canada,Transportation,129.2,2
+Jan-14,Canada,Health and personal care,118.3,-0.2
+Jan-14,Canada,"Recreation, education and reading",104.7,1
+Jan-14,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",140.9,1.4
+Jan-14,Canada,Energy,160.2,4.8
+Feb-14,Canada,All-items,124.1,1.1
+Feb-14,Canada,Food,134.3,1.1
+Feb-14,Canada,Shelter,130.7,2.2
+Feb-14,Canada,"Household operations, furnishings and equipment",115.3,0.9
+Feb-14,Canada,Clothing and footwear,91,-0.4
+Feb-14,Canada,Transportation,130.8,0.4
+Feb-14,Canada,Health and personal care,118.4,-0.2
+Feb-14,Canada,"Recreation, education and reading",106.4,1.6
+Feb-14,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",142.9,2.5
+Feb-14,Canada,Energy,162.6,1.6
+Mar-14,Canada,All-items,124.8,1.5
+Mar-14,Canada,Food,134.4,1.5
+Mar-14,Canada,Shelter,131.4,2.7
+Mar-14,Canada,"Household operations, furnishings and equipment",115.7,0.9
+Mar-14,Canada,Clothing and footwear,94,-1.4
+Mar-14,Canada,Transportation,131.7,1.7
+Mar-14,Canada,Health and personal care,118.1,-0.2
+Mar-14,Canada,"Recreation, education and reading",106.5,1.2
+Mar-14,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",145.3,3.9
+Mar-14,Canada,Energy,167.2,4.6
+Apr-14,Canada,All-items,125.2,2
+Apr-14,Canada,Food,134.6,1.9
+Apr-14,Canada,Shelter,132.4,3.3
+Apr-14,Canada,"Household operations, furnishings and equipment",115.5,1
+Apr-14,Canada,Clothing and footwear,95,0.3
+Apr-14,Canada,Transportation,132.2,2.8
+Apr-14,Canada,Health and personal care,118.9,0.3
+Apr-14,Canada,"Recreation, education and reading",106.2,1
+Apr-14,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",145.1,3.6
+Apr-14,Canada,Energy,171.2,8.4
+May-14,Canada,All-items,125.8,2.3
+May-14,Canada,Food,135.7,2.3
+May-14,Canada,Shelter,132.6,3.4
+May-14,Canada,"Household operations, furnishings and equipment",115.8,1.6
+May-14,Canada,Clothing and footwear,94.5,0.6
+May-14,Canada,Transportation,132.7,2.7
+May-14,Canada,Health and personal care,119.2,0.8
+May-14,Canada,"Recreation, education and reading",107.8,1.2
+May-14,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",146.2,3.6
+May-14,Canada,Energy,172.7,8.4
+Jun-14,Canada,All-items,125.9,2.4
+Jun-14,Canada,Food,136.4,2.9
+Jun-14,Canada,Shelter,132.2,2.9
+Jun-14,Canada,"Household operations, furnishings and equipment",116.4,1.9
+Jun-14,Canada,Clothing and footwear,92.7,1.6
+Jun-14,Canada,Transportation,133.1,2.2
+Jun-14,Canada,Health and personal care,119,0.5
+Jun-14,Canada,"Recreation, education and reading",108.2,1.5
+Jun-14,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",146.7,4.1
+Jun-14,Canada,Energy,173,6.7
+Jul-14,Canada,All-items,125.7,2.1
+Jul-14,Canada,Food,136.5,2.9
+Jul-14,Canada,Shelter,132.6,3
+Jul-14,Canada,"Household operations, furnishings and equipment",116.3,1.6
+Jul-14,Canada,Clothing and footwear,91.8,1.5
+Jul-14,Canada,Transportation,131.5,1.3
+Jul-14,Canada,Health and personal care,118.9,0.8
+Jul-14,Canada,"Recreation, education and reading",108.9,1.1
+Jul-14,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",147.1,4.7
+Jul-14,Canada,Energy,171.9,4.7
+Aug-14,Canada,All-items,125.7,2.1
+Aug-14,Canada,Food,135.9,2.2
+Aug-14,Canada,Shelter,132.4,2.8
+Aug-14,Canada,"Household operations, furnishings and equipment",117.5,3
+Aug-14,Canada,Clothing and footwear,92.1,0.5
+Aug-14,Canada,Transportation,130.8,1.2
+Aug-14,Canada,Health and personal care,119.2,0.9
+Aug-14,Canada,"Recreation, education and reading",109.4,1.4
+Aug-14,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",148.4,5.7
+Aug-14,Canada,Energy,168.3,3.3
+Sep-14,Canada,All-items,125.8,2
+Sep-14,Canada,Food,135.5,2.7
+Sep-14,Canada,Shelter,132.5,2.7
+Sep-14,Canada,"Household operations, furnishings and equipment",117.6,2.7
+Sep-14,Canada,Clothing and footwear,95.6,2
+Sep-14,Canada,Transportation,130,0.5
+Sep-14,Canada,Health and personal care,119.3,0.8
+Sep-14,Canada,"Recreation, education and reading",109.6,1.6
+Sep-14,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",148.5,5.4
+Sep-14,Canada,Energy,167.4,2.7
+Oct-14,Canada,All-items,125.9,2.4
+Oct-14,Canada,Food,135.4,2.8
+Oct-14,Canada,Shelter,132.8,2.8
+Oct-14,Canada,"Household operations, furnishings and equipment",118.1,3
+Oct-14,Canada,Clothing and footwear,96.9,3.1
+Oct-14,Canada,Transportation,129.9,1.1
+Oct-14,Canada,Health and personal care,118.8,0.8
+Oct-14,Canada,"Recreation, education and reading",108.7,1.7
+Oct-14,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",149.2,5.8
+Oct-14,Canada,Energy,163.6,4.2
+Nov-14,Canada,All-items,125.4,2
+Nov-14,Canada,Food,136.9,3.1
+Nov-14,Canada,Shelter,132.8,2.3
+Nov-14,Canada,"Household operations, furnishings and equipment",118.2,3
+Nov-14,Canada,Clothing and footwear,94.7,2.8
+Nov-14,Canada,Transportation,127.7,-0.2
+Nov-14,Canada,Health and personal care,119.9,1.6
+Nov-14,Canada,"Recreation, education and reading",106.8,0.6
+Nov-14,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",149.4,5.9
+Nov-14,Canada,Energy,156.5,-0.6
+Dec-14,Canada,All-items,124.5,1.5
+Dec-14,Canada,Food,137.4,3.7
+Dec-14,Canada,Shelter,133,2.4
+Dec-14,Canada,"Household operations, furnishings and equipment",117.8,2.7
+Dec-14,Canada,Clothing and footwear,91.1,1.9
+Dec-14,Canada,Transportation,124.9,-2.8
+Dec-14,Canada,Health and personal care,119.6,1.3
+Dec-14,Canada,"Recreation, education and reading",106.1,0.8
+Dec-14,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",149.1,5.6
+Dec-14,Canada,Energy,148.7,-6.4
+Jan-15,Canada,All-items,124.3,1
+Jan-15,Canada,Food,139.1,4.6
+Jan-15,Canada,Shelter,133.1,2
+Jan-15,Canada,"Household operations, furnishings and equipment",118,2.9
+Jan-15,Canada,Clothing and footwear,91.1,2.1
+Jan-15,Canada,Transportation,122.4,-5.3
+Jan-15,Canada,Health and personal care,120,1.4
+Jan-15,Canada,"Recreation, education and reading",105.6,0.9
+Jan-15,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",149.9,6.4
+Jan-15,Canada,Energy,139.5,-12.9
+Feb-15,Canada,All-items,125.4,1
+Feb-15,Canada,Food,139.5,3.9
+Feb-15,Canada,Shelter,133.1,1.8
+Feb-15,Canada,"Household operations, furnishings and equipment",118.9,3.1
+Feb-15,Canada,Clothing and footwear,93.3,2.5
+Feb-15,Canada,Transportation,124.3,-5
+Feb-15,Canada,Health and personal care,120.1,1.4
+Feb-15,Canada,"Recreation, education and reading",107.9,1.4
+Feb-15,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",150.3,5.2
+Feb-15,Canada,Energy,145.1,-10.8
+Mar-15,Canada,All-items,126.3,1.2
+Mar-15,Canada,Food,139.5,3.8
+Mar-15,Canada,Shelter,133.3,1.4
+Mar-15,Canada,"Household operations, furnishings and equipment",119.4,3.2
+Mar-15,Canada,Clothing and footwear,96.4,2.6
+Mar-15,Canada,Transportation,126.6,-3.9
+Mar-15,Canada,Health and personal care,119.5,1.2
+Mar-15,Canada,"Recreation, education and reading",108.7,2.1
+Mar-15,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",150.7,3.7
+Mar-15,Canada,Energy,149.8,-10.4
+Apr-15,Canada,All-items,126.2,0.8
+Apr-15,Canada,Food,139.4,3.6
+Apr-15,Canada,Shelter,133.1,0.5
+Apr-15,Canada,"Household operations, furnishings and equipment",119.7,3.6
+Apr-15,Canada,Clothing and footwear,96.2,1.3
+Apr-15,Canada,Transportation,126.6,-4.2
+Apr-15,Canada,Health and personal care,120.1,1
+Apr-15,Canada,"Recreation, education and reading",107.7,1.4
+Apr-15,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",151.4,4.3
+Apr-15,Canada,Energy,148.1,-13.5
+May-15,Canada,All-items,126.9,0.9
+May-15,Canada,Food,140.8,3.8
+May-15,Canada,Shelter,133.2,0.5
+May-15,Canada,"Household operations, furnishings and equipment",119.7,3.4
+May-15,Canada,Clothing and footwear,95,0.5
+May-15,Canada,Transportation,128,-3.5
+May-15,Canada,Health and personal care,120.7,1.3
+May-15,Canada,"Recreation, education and reading",109.9,1.9
+May-15,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",151.9,3.9
+May-15,Canada,Energy,152.4,-11.8
+Jun-15,Canada,All-items,127.2,1
+Jun-15,Canada,Food,141,3.4
+Jun-15,Canada,Shelter,133.5,1
+Jun-15,Canada,"Household operations, furnishings and equipment",120,3.1
+Jun-15,Canada,Clothing and footwear,93,0.3
+Jun-15,Canada,Transportation,129.6,-2.6
+Jun-15,Canada,Health and personal care,120.5,1.3
+Jun-15,Canada,"Recreation, education and reading",110.6,2.2
+Jun-15,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",152.1,3.7
+Jun-15,Canada,Energy,157.5,-9
+Jul-15,Canada,All-items,127.3,1.3
+Jul-15,Canada,Food,140.9,3.2
+Jul-15,Canada,Shelter,133.8,0.9
+Jul-15,Canada,"Household operations, furnishings and equipment",120.1,3.3
+Jul-15,Canada,Clothing and footwear,93,1.3
+Jul-15,Canada,Transportation,129.2,-1.7
+Jul-15,Canada,Health and personal care,120.6,1.4
+Jul-15,Canada,"Recreation, education and reading",111.2,2.1
+Jul-15,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",152.2,3.5
+Jul-15,Canada,Energy,159.2,-7.4
+Aug-15,Canada,All-items,127.3,1.3
+Aug-15,Canada,Food,140.8,3.6
+Aug-15,Canada,Shelter,133.9,1.1
+Aug-15,Canada,"Household operations, furnishings and equipment",120.4,2.5
+Aug-15,Canada,Clothing and footwear,94,2.1
+Aug-15,Canada,Transportation,127.8,-2.3
+Aug-15,Canada,Health and personal care,120.5,1.1
+Aug-15,Canada,"Recreation, education and reading",111.7,2.1
+Aug-15,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",152.6,2.8
+Aug-15,Canada,Energy,156.1,-7.2
+Sep-15,Canada,All-items,127.1,1
+Sep-15,Canada,Food,140.3,3.5
+Sep-15,Canada,Shelter,133.9,1.1
+Sep-15,Canada,"Household operations, furnishings and equipment",120.5,2.5
+Sep-15,Canada,Clothing and footwear,96.7,1.2
+Sep-15,Canada,Transportation,125.4,-3.5
+Sep-15,Canada,Health and personal care,120.7,1.2
+Sep-15,Canada,"Recreation, education and reading",112.3,2.5
+Sep-15,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",152.9,3
+Sep-15,Canada,Energy,149.3,-10.8
+Oct-15,Canada,All-items,127.2,1
+Oct-15,Canada,Food,140.9,4.1
+Oct-15,Canada,Shelter,134.3,1.1
+Oct-15,Canada,"Household operations, furnishings and equipment",120.6,2.1
+Oct-15,Canada,Clothing and footwear,97.7,0.8
+Oct-15,Canada,Transportation,125.8,-3.2
+Oct-15,Canada,Health and personal care,120.7,1.6
+Oct-15,Canada,"Recreation, education and reading",110.8,1.9
+Oct-15,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",152.9,2.5
+Oct-15,Canada,Energy,146.6,-10.4
+Nov-15,Canada,All-items,127.1,1.4
+Nov-15,Canada,Food,141.6,3.4
+Nov-15,Canada,Shelter,134.4,1.2
+Nov-15,Canada,"Household operations, furnishings and equipment",119.8,1.4
+Nov-15,Canada,Clothing and footwear,96.7,2.1
+Nov-15,Canada,Transportation,126.3,-1.1
+Nov-15,Canada,Health and personal care,121.6,1.4
+Nov-15,Canada,"Recreation, education and reading",108.8,1.9
+Nov-15,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",153.8,2.9
+Nov-15,Canada,Energy,146.5,-6.4
+Dec-15,Canada,All-items,126.5,1.6
+Dec-15,Canada,Food,142.5,3.7
+Dec-15,Canada,Shelter,134.5,1.1
+Dec-15,Canada,"Household operations, furnishings and equipment",119.6,1.5
+Dec-15,Canada,Clothing and footwear,91.7,0.7
+Dec-15,Canada,Transportation,125.6,0.6
+Dec-15,Canada,Health and personal care,121,1.2
+Dec-15,Canada,"Recreation, education and reading",107.9,1.7
+Dec-15,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",153.5,3
+Dec-15,Canada,Energy,143.4,-3.6
+Jan-16,Canada,All-items,126.8,2
+Jan-16,Canada,Food,144.6,4
+Jan-16,Canada,Shelter,134.6,1.1
+Jan-16,Canada,"Household operations, furnishings and equipment",120,1.7
+Jan-16,Canada,Clothing and footwear,90.8,-0.3
+Jan-16,Canada,Transportation,125.1,2.2
+Jan-16,Canada,Health and personal care,121.5,1.3
+Jan-16,Canada,"Recreation, education and reading",107.9,2.2
+Jan-16,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",154.5,3.1
+Jan-16,Canada,Energy,139,-0.4
+Feb-16,Canada,All-items,127.1,1.4
+Feb-16,Canada,Food,145,3.9
+Feb-16,Canada,Shelter,134.7,1.2
+Feb-16,Canada,"Household operations, furnishings and equipment",121,1.8
+Feb-16,Canada,Clothing and footwear,92.1,-1.3
+Feb-16,Canada,Transportation,123.7,-0.5
+Feb-16,Canada,Health and personal care,121.5,1.2
+Feb-16,Canada,"Recreation, education and reading",109.6,1.6
+Feb-16,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",155.2,3.3
+Feb-16,Canada,Energy,134.6,-7.2
+Mar-16,Canada,All-items,127.9,1.3
+Mar-16,Canada,Food,144.5,3.6
+Mar-16,Canada,Shelter,134.8,1.1
+Mar-16,Canada,"Household operations, furnishings and equipment",121.4,1.7
+Mar-16,Canada,Clothing and footwear,96,-0.4
+Mar-16,Canada,Transportation,125.3,-1
+Mar-16,Canada,Health and personal care,121.4,1.6
+Mar-16,Canada,"Recreation, education and reading",110.9,2
+Mar-16,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",156.2,3.6
+Mar-16,Canada,Energy,138.1,-7.8
+Apr-16,Canada,All-items,128.3,1.7
+Apr-16,Canada,Food,143.8,3.2
+Apr-16,Canada,Shelter,134.9,1.4
+Apr-16,Canada,"Household operations, furnishings and equipment",121.6,1.6
+Apr-16,Canada,Clothing and footwear,96,-0.2
+Apr-16,Canada,Transportation,127.8,0.9
+Apr-16,Canada,Health and personal care,122.2,1.7
+Apr-16,Canada,"Recreation, education and reading",110.3,2.4
+Apr-16,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",156.5,3.4
+Apr-16,Canada,Energy,143.4,-3.2
+May-16,Canada,All-items,128.8,1.5
+May-16,Canada,Food,143.3,1.8
+May-16,Canada,Shelter,135.1,1.4
+May-16,Canada,"Household operations, furnishings and equipment",122.1,2
+May-16,Canada,Clothing and footwear,96,1.1
+May-16,Canada,Transportation,129.4,1.1
+May-16,Canada,Health and personal care,122.3,1.3
+May-16,Canada,"Recreation, education and reading",111.7,1.6
+May-16,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",156.8,3.2
+May-16,Canada,Energy,146.9,-3.6
+Jun-16,Canada,All-items,129.1,1.5
+Jun-16,Canada,Food,142.8,1.3
+Jun-16,Canada,Shelter,135.6,1.6
+Jun-16,Canada,"Household operations, furnishings and equipment",122.4,2
+Jun-16,Canada,Clothing and footwear,94.1,1.2
+Jun-16,Canada,Transportation,131,1.1
+Jun-16,Canada,Health and personal care,122.2,1.4
+Jun-16,Canada,"Recreation, education and reading",112,1.3
+Jun-16,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",156.7,3
+Jun-16,Canada,Energy,150.6,-4.4
+Jul-16,Canada,All-items,128.9,1.3
+Jul-16,Canada,Food,143.2,1.6
+Jul-16,Canada,Shelter,136,1.6
+Jul-16,Canada,"Household operations, furnishings and equipment",122.3,1.8
+Jul-16,Canada,Clothing and footwear,92.6,-0.4
+Jul-16,Canada,Transportation,128.9,-0.2
+Jul-16,Canada,Health and personal care,122,1.2
+Jul-16,Canada,"Recreation, education and reading",113.3,1.9
+Jul-16,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",157.1,3.2
+Jul-16,Canada,Energy,147.4,-7.4
+Aug-16,Canada,All-items,128.7,1.1
+Aug-16,Canada,Food,142.3,1.1
+Aug-16,Canada,Shelter,136.2,1.7
+Aug-16,Canada,"Household operations, furnishings and equipment",122.2,1.5
+Aug-16,Canada,Clothing and footwear,93.6,-0.4
+Aug-16,Canada,Transportation,128.2,0.3
+Aug-16,Canada,Health and personal care,122.7,1.8
+Aug-16,Canada,"Recreation, education and reading",112.9,1.1
+Aug-16,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",157.3,3.1
+Aug-16,Canada,Energy,147,-5.8
+Sep-16,Canada,All-items,128.8,1.3
+Sep-16,Canada,Food,140.4,0.1
+Sep-16,Canada,Shelter,136.2,1.7
+Sep-16,Canada,"Household operations, furnishings and equipment",121.9,1.2
+Sep-16,Canada,Clothing and footwear,96.8,0.1
+Sep-16,Canada,Transportation,128.3,2.3
+Sep-16,Canada,Health and personal care,122.4,1.4
+Sep-16,Canada,"Recreation, education and reading",113.8,1.3
+Sep-16,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",157.7,3.1
+Sep-16,Canada,Energy,147.3,-1.3
+Oct-16,Canada,All-items,129.1,1.5
+Oct-16,Canada,Food,139.9,-0.7
+Oct-16,Canada,Shelter,136.9,1.9
+Oct-16,Canada,"Household operations, furnishings and equipment",122.1,1.2
+Oct-16,Canada,Clothing and footwear,97.5,-0.2
+Oct-16,Canada,Transportation,129.6,3
+Oct-16,Canada,Health and personal care,122.8,1.7
+Oct-16,Canada,"Recreation, education and reading",112.4,1.4
+Oct-16,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",158.1,3.4
+Oct-16,Canada,Energy,150.2,2.5
+Nov-16,Canada,All-items,128.6,1.2
+Nov-16,Canada,Food,140.6,-0.7
+Nov-16,Canada,Shelter,137.2,2.1
+Nov-16,Canada,"Household operations, furnishings and equipment",121.6,1.5
+Nov-16,Canada,Clothing and footwear,95.5,-1.2
+Nov-16,Canada,Transportation,128.1,1.4
+Nov-16,Canada,Health and personal care,122.9,1.1
+Nov-16,Canada,"Recreation, education and reading",111.1,2.1
+Nov-16,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",158,2.7
+Nov-16,Canada,Energy,146.8,0.2
+Dec-16,Canada,All-items,128.4,1.5
+Dec-16,Canada,Food,140.6,-1.3
+Dec-16,Canada,Shelter,137.3,2.1
+Dec-16,Canada,"Household operations, furnishings and equipment",121.3,1.4
+Dec-16,Canada,Clothing and footwear,91.9,0.2
+Dec-16,Canada,Transportation,129.4,3
+Dec-16,Canada,Health and personal care,122.6,1.3
+Dec-16,Canada,"Recreation, education and reading",110.2,2.1
+Dec-16,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",157.8,2.8
+Dec-16,Canada,Energy,149.1,4
+Jan-17,Canada,All-items,129.5,2.1
+Jan-17,Canada,Food,141.5,-2.1
+Jan-17,Canada,Shelter,137.8,2.4
+Jan-17,Canada,"Household operations, furnishings and equipment",121.4,1.2
+Jan-17,Canada,Clothing and footwear,91.1,0.3
+Jan-17,Canada,Transportation,133,6.3
+Jan-17,Canada,Health and personal care,123.4,1.6
+Jan-17,Canada,"Recreation, education and reading",111.3,3.2
+Jan-17,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",158.7,2.7
+Jan-17,Canada,Energy,155.8,12.1
+Feb-17,Canada,All-items,129.7,2
+Feb-17,Canada,Food,141.7,-2.3
+Feb-17,Canada,Shelter,137.6,2.2
+Feb-17,Canada,"Household operations, furnishings and equipment",121.7,0.6
+Feb-17,Canada,Clothing and footwear,92.9,0.9
+Feb-17,Canada,Transportation,131.9,6.6
+Feb-17,Canada,Health and personal care,123.3,1.5
+Feb-17,Canada,"Recreation, education and reading",113.2,3.3
+Feb-17,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",159.2,2.6
+Feb-17,Canada,Energy,151.1,12.3
+Mar-17,Canada,All-items,129.9,1.6
+Mar-17,Canada,Food,141.8,-1.9
+Mar-17,Canada,Shelter,137.7,2.2
+Mar-17,Canada,"Household operations, furnishings and equipment",121.4,0
+Mar-17,Canada,Clothing and footwear,95.1,-0.9
+Mar-17,Canada,Transportation,131.1,4.6
+Mar-17,Canada,Health and personal care,123.5,1.7
+Mar-17,Canada,"Recreation, education and reading",114.9,3.6
+Mar-17,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",159.7,2.2
+Mar-17,Canada,Energy,149.8,8.5
+Apr-17,Canada,All-items,130.4,1.6
+Apr-17,Canada,Food,142.2,-1.1
+Apr-17,Canada,Shelter,137.9,2.2
+Apr-17,Canada,"Household operations, furnishings and equipment",122.2,0.5
+Apr-17,Canada,Clothing and footwear,94.1,-2
+Apr-17,Canada,Transportation,133.2,4.2
+Apr-17,Canada,Health and personal care,124.2,1.6
+Apr-17,Canada,"Recreation, education and reading",113.9,3.3
+Apr-17,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",160.1,2.3
+Apr-17,Canada,Energy,157.2,9.6
+May-17,Canada,All-items,130.5,1.3
+May-17,Canada,Food,143.1,-0.1
+May-17,Canada,Shelter,137.7,1.9
+May-17,Canada,"Household operations, furnishings and equipment",122.4,0.2
+May-17,Canada,Clothing and footwear,94.6,-1.5
+May-17,Canada,Transportation,132.3,2.2
+May-17,Canada,Health and personal care,124.1,1.5
+May-17,Canada,"Recreation, education and reading",114.5,2.5
+May-17,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",160.7,2.5
+May-17,Canada,Energy,151.8,3.3
+Jun-17,Canada,All-items,130.4,1
+Jun-17,Canada,Food,143.6,0.6
+Jun-17,Canada,Shelter,137.8,1.6
+Jun-17,Canada,"Household operations, furnishings and equipment",122.7,0.2
+Jun-17,Canada,Clothing and footwear,92.5,-1.7
+Jun-17,Canada,Transportation,131.8,0.6
+Jun-17,Canada,Health and personal care,124.4,1.8
+Jun-17,Canada,"Recreation, education and reading",114.9,2.6
+Jun-17,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",161.2,2.9
+Jun-17,Canada,Energy,148.7,-1.3
+Jul-17,Canada,All-items,130.4,1.2
+Jul-17,Canada,Food,144.1,0.6
+Jul-17,Canada,Shelter,137.7,1.2
+Jul-17,Canada,"Household operations, furnishings and equipment",122.2,-0.1
+Jul-17,Canada,Clothing and footwear,92.5,-0.1
+Jul-17,Canada,Transportation,131.3,1.9
+Jul-17,Canada,Health and personal care,124.7,2.2
+Jul-17,Canada,"Recreation, education and reading",115.8,2.2
+Jul-17,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",161.7,2.9
+Jul-17,Canada,Energy,147.8,0.3
+Aug-17,Canada,All-items,130.5,1.4
+Aug-17,Canada,Food,143.6,0.9
+Aug-17,Canada,Shelter,138,1.3
+Aug-17,Canada,"Household operations, furnishings and equipment",121.9,-0.2
+Aug-17,Canada,Clothing and footwear,93.2,-0.4
+Aug-17,Canada,Transportation,131.8,2.8
+Aug-17,Canada,Health and personal care,125,1.9
+Aug-17,Canada,"Recreation, education and reading",115.3,2.1
+Aug-17,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",162,3
+Aug-17,Canada,Energy,150.4,2.3
+Sep-17,Canada,All-items,130.8,1.6
+Sep-17,Canada,Food,142.4,1.4
+Sep-17,Canada,Shelter,138.1,1.4
+Sep-17,Canada,"Household operations, furnishings and equipment",121.4,-0.4
+Sep-17,Canada,Clothing and footwear,94.6,-2.3
+Sep-17,Canada,Transportation,133.2,3.8
+Sep-17,Canada,Health and personal care,124.5,1.7
+Sep-17,Canada,"Recreation, education and reading",116.2,2.1
+Sep-17,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",162.5,3
+Sep-17,Canada,Energy,154.5,4.9
+Oct-17,Canada,All-items,130.9,1.4
+Oct-17,Canada,Food,141.7,1.3
+Oct-17,Canada,Shelter,138.6,1.2
+Oct-17,Canada,"Household operations, furnishings and equipment",122.3,0.2
+Oct-17,Canada,Clothing and footwear,96,-1.5
+Oct-17,Canada,Transportation,133.5,3
+Oct-17,Canada,Health and personal care,125.3,2
+Oct-17,Canada,"Recreation, education and reading",114.1,1.5
+Oct-17,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",162.4,2.7
+Oct-17,Canada,Energy,151.7,1
+Nov-17,Canada,All-items,131.3,2.1
+Nov-17,Canada,Food,142.9,1.6
+Nov-17,Canada,Shelter,138.9,1.2
+Nov-17,Canada,"Household operations, furnishings and equipment",122.7,0.9
+Nov-17,Canada,Clothing and footwear,95.3,-0.2
+Nov-17,Canada,Transportation,135.7,5.9
+Nov-17,Canada,Health and personal care,124.2,1.1
+Nov-17,Canada,"Recreation, education and reading",113,1.7
+Nov-17,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",162.5,2.8
+Nov-17,Canada,Energy,157.9,7.6
+Dec-17,Canada,All-items,130.8,1.9
+Dec-17,Canada,Food,143.4,2
+Dec-17,Canada,Shelter,139.2,1.4
+Dec-17,Canada,"Household operations, furnishings and equipment",120.9,-0.3
+Dec-17,Canada,Clothing and footwear,92.4,0.5
+Dec-17,Canada,Transportation,135.7,4.9
+Dec-17,Canada,Health and personal care,124.4,1.5
+Dec-17,Canada,"Recreation, education and reading",111.2,0.9
+Dec-17,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",162.2,2.8
+Dec-17,Canada,Energy,155.8,4.5
+Jan-18,Canada,All-items,131.7,1.7
+Jan-18,Canada,Food,144.7,2.3
+Jan-18,Canada,Shelter,139.7,1.4
+Jan-18,Canada,"Household operations, furnishings and equipment",122.4,0.8
+Jan-18,Canada,Clothing and footwear,91.7,0.7
+Jan-18,Canada,Transportation,137.2,3.2
+Jan-18,Canada,Health and personal care,125.1,1.4
+Jan-18,Canada,"Recreation, education and reading",111.8,0.4
+Jan-18,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",163.2,2.8
+Jan-18,Canada,Energy,159.5,2.4
+Feb-18,Canada,All-items,132.5,2.2
+Feb-18,Canada,Food,144.7,2.1
+Feb-18,Canada,Shelter,140,1.7
+Feb-18,Canada,"Household operations, furnishings and equipment",123.4,1.4
+Feb-18,Canada,Clothing and footwear,93.3,0.4
+Feb-18,Canada,Transportation,137.7,4.4
+Feb-18,Canada,Health and personal care,125.6,1.9
+Feb-18,Canada,"Recreation, education and reading",114.1,0.8
+Feb-18,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",164.1,3.1
+Feb-18,Canada,Energy,159.1,5.3
+Mar-18,Canada,All-items,132.9,2.3
+Mar-18,Canada,Food,144.2,1.7
+Mar-18,Canada,Shelter,140,1.7
+Mar-18,Canada,"Household operations, furnishings and equipment",122.9,1.2
+Mar-18,Canada,Clothing and footwear,95,-0.1
+Mar-18,Canada,Transportation,138,5.3
+Mar-18,Canada,Health and personal care,126.3,2.3
+Mar-18,Canada,"Recreation, education and reading",116.4,1.3
+Mar-18,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",166,3.9
+Mar-18,Canada,Energy,161,7.5
+Apr-18,Canada,All-items,133.3,2.2
+Apr-18,Canada,Food,144.8,1.8
+Apr-18,Canada,Shelter,140.3,1.7
+Apr-18,Canada,"Household operations, furnishings and equipment",123.9,1.4
+Apr-18,Canada,Clothing and footwear,96.2,2.2
+Apr-18,Canada,Transportation,139.5,4.7
+Apr-18,Canada,Health and personal care,126.2,1.6
+Apr-18,Canada,"Recreation, education and reading",113.7,-0.2
+Apr-18,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",167.9,4.9
+Apr-18,Canada,Energy,167.1,6.3
+May-18,Canada,All-items,133.4,2.2
+May-18,Canada,Food,144.6,1
+May-18,Canada,Shelter,140.4,2
+May-18,Canada,"Household operations, furnishings and equipment",122.8,0.3
+May-18,Canada,Clothing and footwear,95.4,0.8
+May-18,Canada,Transportation,139.7,5.6
+May-18,Canada,Health and personal care,125.9,1.5
+May-18,Canada,"Recreation, education and reading",116.5,1.7
+May-18,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",168.1,4.6
+May-18,Canada,Energy,169.4,11.6
+Jun-18,Canada,All-items,133.6,2.5
+Jun-18,Canada,Food,145.6,1.4
+Jun-18,Canada,Shelter,140.5,2
+Jun-18,Canada,"Household operations, furnishings and equipment",122.6,-0.1
+Jun-18,Canada,Clothing and footwear,94.2,1.8
+Jun-18,Canada,Transportation,140.5,6.6
+Jun-18,Canada,Health and personal care,126.3,1.5
+Jun-18,Canada,"Recreation, education and reading",115.6,0.6
+Jun-18,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",168.9,4.8
+Jun-18,Canada,Energy,167.2,12.4
+Jul-18,Canada,All-items,134.3,3
+Jul-18,Canada,Food,146.1,1.4
+Jul-18,Canada,Shelter,141,2.4
+Jul-18,Canada,"Household operations, furnishings and equipment",123.1,0.7
+Jul-18,Canada,Clothing and footwear,93,0.5
+Jul-18,Canada,Transportation,142,8.1
+Jul-18,Canada,Health and personal care,126.1,1.1
+Jul-18,Canada,"Recreation, education and reading",117.9,1.8
+Jul-18,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",169,4.5
+Jul-18,Canada,Energy,168.8,14.2
+Aug-18,Canada,All-items,134.2,2.8
+Aug-18,Canada,Food,145.9,1.6
+Aug-18,Canada,Shelter,141.2,2.3
+Aug-18,Canada,"Household operations, furnishings and equipment",122.9,0.8
+Aug-18,Canada,Clothing and footwear,93.7,0.5
+Aug-18,Canada,Transportation,141.3,7.2
+Aug-18,Canada,Health and personal care,126.7,1.4
+Aug-18,Canada,"Recreation, education and reading",117.5,1.9
+Aug-18,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",169.5,4.6
+Aug-18,Canada,Energy,167.2,11.2
+Sep-18,Canada,All-items,133.7,2.2
+Sep-18,Canada,Food,144.9,1.8
+Sep-18,Canada,Shelter,141.5,2.5
+Sep-18,Canada,"Household operations, furnishings and equipment",123,1.3
+Sep-18,Canada,Clothing and footwear,96,1.5
+Sep-18,Canada,Transportation,138.4,3.9
+Sep-18,Canada,Health and personal care,126.1,1.3
+Sep-18,Canada,"Recreation, education and reading",117,0.7
+Sep-18,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",169.7,4.4
+Sep-18,Canada,Energy,166.3,7.6
+Oct-18,Canada,All-items,134.1,2.4
+Oct-18,Canada,Food,144.6,2
+Oct-18,Canada,Shelter,142,2.5
+Oct-18,Canada,"Household operations, furnishings and equipment",124,1.4
+Oct-18,Canada,Clothing and footwear,97.2,1.3
+Oct-18,Canada,Transportation,139.3,4.3
+Oct-18,Canada,Health and personal care,126.3,0.8
+Oct-18,Canada,"Recreation, education and reading",116.1,1.8
+Oct-18,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",169.7,4.5
+Oct-18,Canada,Energy,163.7,7.9
+Nov-18,Canada,All-items,133.5,1.7
+Nov-18,Canada,Food,146.1,2.2
+Nov-18,Canada,Shelter,142.3,2.4
+Nov-18,Canada,"Household operations, furnishings and equipment",123.8,0.9
+Nov-18,Canada,Clothing and footwear,95.9,0.6
+Nov-18,Canada,Transportation,137.1,1
+Nov-18,Canada,Health and personal care,125.1,0.7
+Nov-18,Canada,"Recreation, education and reading",114.3,1.2
+Nov-18,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",169.9,4.6
+Nov-18,Canada,Energy,155.8,-1.3
+Dec-18,Canada,All-items,133.4,2
+Dec-18,Canada,Food,147.5,2.9
+Dec-18,Canada,Shelter,142.3,2.2
+Dec-18,Canada,"Household operations, furnishings and equipment",123.4,2.1
+Dec-18,Canada,Clothing and footwear,92.6,0.2
+Dec-18,Canada,Transportation,138,1.7
+Dec-18,Canada,Health and personal care,125.6,1
+Dec-18,Canada,"Recreation, education and reading",112.9,1.5
+Dec-18,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",169.3,4.4
+Dec-18,Canada,Energy,150.1,-3.7
+Jan-19,Canada,All-items,133.6,1.4
+Jan-19,Canada,Food,148.7,2.8
+Jan-19,Canada,Shelter,143,2.4
+Jan-19,Canada,"Household operations, furnishings and equipment",123.3,0.7
+Jan-19,Canada,Clothing and footwear,92.2,0.5
+Jan-19,Canada,Transportation,136.6,-0.4
+Jan-19,Canada,Health and personal care,125.9,0.6
+Jan-19,Canada,"Recreation, education and reading",113.3,1.3
+Jan-19,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",170.6,4.5
+Jan-19,Canada,Energy,148.5,-6.9
+Feb-19,Canada,All-items,134.5,1.5
+Feb-19,Canada,Food,149.3,3.2
+Feb-19,Canada,Shelter,143.4,2.4
+Feb-19,Canada,"Household operations, furnishings and equipment",123.6,0.2
+Feb-19,Canada,Clothing and footwear,94.8,1.6
+Feb-19,Canada,Transportation,137.9,0.1
+Feb-19,Canada,Health and personal care,126.4,0.6
+Feb-19,Canada,"Recreation, education and reading",115.2,1
+Feb-19,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",170.9,4.1
+Feb-19,Canada,Energy,150.1,-5.7
+Mar-19,Canada,All-items,135.4,1.9
+Mar-19,Canada,Food,149.4,3.6
+Mar-19,Canada,Shelter,143.8,2.7
+Mar-19,Canada,"Household operations, furnishings and equipment",123.5,0.5
+Mar-19,Canada,Clothing and footwear,96.4,1.5
+Mar-19,Canada,Transportation,140.6,1.9
+Mar-19,Canada,Health and personal care,126.6,0.2
+Mar-19,Canada,"Recreation, education and reading",116.6,0.2
+Mar-19,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",170.9,3
+Mar-19,Canada,Energy,159.1,-1.2
+Apr-19,Canada,All-items,136,2
+Apr-19,Canada,Food,149,2.9
+Apr-19,Canada,Shelter,144.1,2.7
+Apr-19,Canada,"Household operations, furnishings and equipment",123.8,-0.1
+Apr-19,Canada,Clothing and footwear,97.2,1
+Apr-19,Canada,Transportation,143,2.5
+Apr-19,Canada,Health and personal care,127.1,0.7
+Apr-19,Canada,"Recreation, education and reading",115.8,1.8
+Apr-19,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",171.3,2
+Apr-19,Canada,Energy,168.2,0.7
+May-19,Canada,All-items,136.6,2.4
+May-19,Canada,Food,149.7,3.5
+May-19,Canada,Shelter,144.2,2.7
+May-19,Canada,"Household operations, furnishings and equipment",123.9,0.9
+May-19,Canada,Clothing and footwear,96.7,1.4
+May-19,Canada,Transportation,144,3.1
+May-19,Canada,Health and personal care,127.3,1.1
+May-19,Canada,"Recreation, education and reading",118.6,1.8
+May-19,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",171.7,2.1
+May-19,Canada,Energy,169.2,-0.1
+Jun-19,Canada,All-items,136.3,2
+Jun-19,Canada,Food,150.7,3.5
+Jun-19,Canada,Shelter,144,2.5
+Jun-19,Canada,"Household operations, furnishings and equipment",124.1,1.2
+Jun-19,Canada,Clothing and footwear,94.9,0.7
+Jun-19,Canada,Transportation,142.7,1.6
+Jun-19,Canada,Health and personal care,127.7,1.1
+Jun-19,Canada,"Recreation, education and reading",117.9,2
+Jun-19,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",171.2,1.4
+Jun-19,Canada,Energy,160.3,-4.1
+Jul-19,Canada,All-items,137,2
+Jul-19,Canada,Food,151.6,3.8
+Jul-19,Canada,Shelter,144.3,2.3
+Jul-19,Canada,"Household operations, furnishings and equipment",123.5,0.3
+Jul-19,Canada,Clothing and footwear,94,1.1
+Jul-19,Canada,Transportation,144.2,1.5
+Jul-19,Canada,Health and personal care,128,1.5
+Jul-19,Canada,"Recreation, education and reading",121.1,2.7
+Jul-19,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",171,1.2
+Jul-19,Canada,Energy,163.4,-3.2
+Aug-19,Canada,All-items,136.8,1.9
+Aug-19,Canada,Food,151.1,3.6
+Aug-19,Canada,Shelter,144.6,2.4
+Aug-19,Canada,"Household operations, furnishings and equipment",123.5,0.5
+Aug-19,Canada,Clothing and footwear,94.7,1.1
+Aug-19,Canada,Transportation,143.3,1.4
+Aug-19,Canada,Health and personal care,127.8,0.9
+Aug-19,Canada,"Recreation, education and reading",119.8,2
+Aug-19,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",171.1,0.9
+Aug-19,Canada,Energy,159.3,-4.7
+Sep-19,Canada,All-items,136.2,1.9
+Sep-19,Canada,Food,150.2,3.7
+Sep-19,Canada,Shelter,144.8,2.3
+Sep-19,Canada,"Household operations, furnishings and equipment",123.6,0.5
+Sep-19,Canada,Clothing and footwear,98.5,2.6
+Sep-19,Canada,Transportation,140.3,1.4
+Sep-19,Canada,Health and personal care,127.8,1.3
+Sep-19,Canada,"Recreation, education and reading",118,0.9
+Sep-19,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",170.9,0.7
+Sep-19,Canada,Energy,158.7,-4.6
+Oct-19,Canada,All-items,136.6,1.9
+Oct-19,Canada,Food,149.9,3.7
+Oct-19,Canada,Shelter,145.7,2.6
+Oct-19,Canada,"Household operations, furnishings and equipment",123.8,-0.2
+Oct-19,Canada,Clothing and footwear,99.4,2.3
+Oct-19,Canada,Transportation,141.3,1.4
+Oct-19,Canada,Health and personal care,127.9,1.3
+Oct-19,Canada,"Recreation, education and reading",117.6,1.3
+Oct-19,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",171.3,0.9
+Oct-19,Canada,Energy,158.9,-2.9
+Nov-19,Canada,All-items,136.4,2.2
+Nov-19,Canada,Food,151.1,3.4
+Nov-19,Canada,Shelter,145.9,2.5
+Nov-19,Canada,"Household operations, furnishings and equipment",123.6,-0.2
+Nov-19,Canada,Clothing and footwear,98.5,2.7
+Nov-19,Canada,Transportation,141.5,3.2
+Nov-19,Canada,Health and personal care,128,2.3
+Nov-19,Canada,"Recreation, education and reading",114.5,0.2
+Nov-19,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",172,1.2
+Nov-19,Canada,Energy,158.1,1.5
+Dec-19,Canada,All-items,136.4,2.2
+Dec-19,Canada,Food,151.9,3
+Dec-19,Canada,Shelter,146.3,2.8
+Dec-19,Canada,"Household operations, furnishings and equipment",122.9,-0.4
+Dec-19,Canada,Clothing and footwear,95.3,2.9
+Dec-19,Canada,Transportation,143.1,3.7
+Dec-19,Canada,Health and personal care,127.9,1.8
+Dec-19,Canada,"Recreation, education and reading",113.2,0.3
+Dec-19,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",170,0.4
+Dec-19,Canada,Energy,158.3,5.5
+Jan-20,Canada,All-items,136.8,2.4
+Jan-20,Canada,Food,153.5,3.2
+Jan-20,Canada,Shelter,146.4,2.4
+Jan-20,Canada,"Household operations, furnishings and equipment",122.6,-0.6
+Jan-20,Canada,Clothing and footwear,95.8,3.9
+Jan-20,Canada,Transportation,143.4,5
+Jan-20,Canada,Health and personal care,128.6,2.1
+Jan-20,Canada,"Recreation, education and reading",113,-0.3
+Jan-20,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",171.4,0.5
+Jan-20,Canada,Energy,158.6,6.8
+Feb-20,Canada,All-items,137.4,2.2
+Feb-20,Canada,Food,152.9,2.4
+Feb-20,Canada,Shelter,146.7,2.3
+Feb-20,Canada,"Household operations, furnishings and equipment",123.3,-0.2
+Feb-20,Canada,Clothing and footwear,97.4,2.7
+Feb-20,Canada,Transportation,144,4.4
+Feb-20,Canada,Health and personal care,128.8,1.9
+Feb-20,Canada,"Recreation, education and reading",116,0.7
+Feb-20,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",171.4,0.3
+Feb-20,Canada,Energy,156.6,4.3
+Mar-20,Canada,All-items,136.6,0.9
+Mar-20,Canada,Food,152.8,2.3
+Mar-20,Canada,Shelter,146.5,1.9
+Mar-20,Canada,"Household operations, furnishings and equipment",123.7,0.2
+Mar-20,Canada,Clothing and footwear,99,2.7
+Mar-20,Canada,Transportation,138.9,-1.2
+Mar-20,Canada,Health and personal care,128.6,1.6
+Mar-20,Canada,"Recreation, education and reading",116,-0.5
+Mar-20,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",171.5,0.4
+Mar-20,Canada,Energy,140.6,-11.6
+Apr-20,Canada,All-items,135.7,-0.2
+Apr-20,Canada,Food,154,3.4
+Apr-20,Canada,Shelter,146,1.3
+Apr-20,Canada,"Household operations, furnishings and equipment",124.2,0.3
+Apr-20,Canada,Clothing and footwear,93.2,-4.1
+Apr-20,Canada,Transportation,136.7,-4.4
+Apr-20,Canada,Health and personal care,128.7,1.3
+Apr-20,Canada,"Recreation, education and reading",115,-0.7
+Apr-20,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",172.1,0.5
+Apr-20,Canada,Energy,128.3,-23.7
+May-20,Canada,All-items,136.1,-0.4
+May-20,Canada,Food,154.3,3.1
+May-20,Canada,Shelter,145.6,1
+May-20,Canada,"Household operations, furnishings and equipment",123.6,-0.2
+May-20,Canada,Clothing and footwear,91.5,-5.4
+May-20,Canada,Transportation,139.7,-3
+May-20,Canada,Health and personal care,128.4,0.9
+May-20,Canada,"Recreation, education and reading",115.5,-2.6
+May-20,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",172.1,0.2
+May-20,Canada,Energy,137,-19
+Jun-20,Canada,All-items,137.2,0.7
+Jun-20,Canada,Food,154.8,2.7
+Jun-20,Canada,Shelter,146.4,1.7
+Jun-20,Canada,"Household operations, furnishings and equipment",123.7,-0.3
+Jun-20,Canada,Clothing and footwear,92.4,-2.6
+Jun-20,Canada,Transportation,142.8,0.1
+Jun-20,Canada,Health and personal care,128.3,0.5
+Jun-20,Canada,"Recreation, education and reading",116.3,-1.4
+Jun-20,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",172.2,0.6
+Jun-20,Canada,Energy,146.2,-8.8
+Jul-20,Canada,All-items,137.2,0.1
+Jul-20,Canada,Food,155,2.2
+Jul-20,Canada,Shelter,146.4,1.5
+Jul-20,Canada,"Household operations, furnishings and equipment",124.2,0.6
+Jul-20,Canada,Clothing and footwear,92.1,-2
+Jul-20,Canada,Transportation,142.8,-1
+Jul-20,Canada,Health and personal care,128.8,0.6
+Jul-20,Canada,"Recreation, education and reading",116.3,-4
+Jul-20,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",172,0.6
+Jul-20,Canada,Energy,149.7,-8.4
+Aug-20,Canada,All-items,137,0.1
+Aug-20,Canada,Food,153.8,1.8
+Aug-20,Canada,Shelter,146.8,1.5
+Aug-20,Canada,"Household operations, furnishings and equipment",124,0.4
+Aug-20,Canada,Clothing and footwear,93.5,-1.3
+Aug-20,Canada,Transportation,141.5,-1.3
+Aug-20,Canada,Health and personal care,129.6,1.4
+Aug-20,Canada,"Recreation, education and reading",116.1,-3.1
+Aug-20,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",171.8,0.4
+Aug-20,Canada,Energy,149.3,-6.3
+Sep-20,Canada,All-items,136.9,0.5
+Sep-20,Canada,Food,152.6,1.6
+Sep-20,Canada,Shelter,147.3,1.7
+Sep-20,Canada,"Household operations, furnishings and equipment",124,0.3
+Sep-20,Canada,Clothing and footwear,94.5,-4.1
+Sep-20,Canada,Transportation,140.4,0.1
+Sep-20,Canada,Health and personal care,129.8,1.6
+Sep-20,Canada,"Recreation, education and reading",116.6,-1.2
+Sep-20,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",172.1,0.7
+Sep-20,Canada,Energy,149.8,-5.6
+Oct-20,Canada,All-items,137.5,0.7
+Oct-20,Canada,Food,153.3,2.3
+Oct-20,Canada,Shelter,148.3,1.8
+Oct-20,Canada,"Household operations, furnishings and equipment",124.3,0.4
+Oct-20,Canada,Clothing and footwear,95.4,-4
+Oct-20,Canada,Transportation,141.1,-0.1
+Oct-20,Canada,Health and personal care,130.2,1.8
+Oct-20,Canada,"Recreation, education and reading",116.1,-1.3
+Oct-20,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",172.5,0.7
+Oct-20,Canada,Energy,149.4,-6
+Nov-20,Canada,All-items,137.7,1
+Nov-20,Canada,Food,153.9,1.9
+Nov-20,Canada,Shelter,148.7,1.9
+Nov-20,Canada,"Household operations, furnishings and equipment",124.3,0.6
+Nov-20,Canada,Clothing and footwear,96.2,-2.3
+Nov-20,Canada,Transportation,141.3,-0.1
+Nov-20,Canada,Health and personal care,130.6,2
+Nov-20,Canada,"Recreation, education and reading",115.6,1
+Nov-20,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",172.1,0.1
+Nov-20,Canada,Energy,149.1,-5.7
+Dec-20,Canada,All-items,137.4,0.7
+Dec-20,Canada,Food,153.6,1.1
+Dec-20,Canada,Shelter,148.7,1.6
+Dec-20,Canada,"Household operations, furnishings and equipment",123.6,0.6
+Dec-20,Canada,Clothing and footwear,92.1,-3.4
+Dec-20,Canada,Transportation,142.3,-0.6
+Dec-20,Canada,Health and personal care,130,1.6
+Dec-20,Canada,"Recreation, education and reading",115.5,2
+Dec-20,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",171.4,0.8
+Dec-20,Canada,Energy,152,-4
+Jan-21,Canada,All-items,138.2,1
+Jan-21,Canada,Food,155,1
+Jan-21,Canada,Shelter,148.4,1.4
+Jan-21,Canada,"Household operations, furnishings and equipment",124.3,1.4
+Jan-21,Canada,Clothing and footwear,91.9,-4.1
+Jan-21,Canada,Transportation,144.9,1
+Jan-21,Canada,Health and personal care,130.3,1.3
+Jan-21,Canada,"Recreation, education and reading",116.3,2.9
+Jan-21,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",172.5,0.6
+Jan-21,Canada,Energy,154.3,-2.7
+Feb-21,Canada,All-items,138.9,1.1
+Feb-21,Canada,Food,155.6,1.8
+Feb-21,Canada,Shelter,148.8,1.4
+Feb-21,Canada,"Household operations, furnishings and equipment",124.3,0.8
+Feb-21,Canada,Clothing and footwear,92.7,-4.8
+Feb-21,Canada,Transportation,147.1,2.2
+Feb-21,Canada,Health and personal care,130.5,1.3
+Feb-21,Canada,"Recreation, education and reading",116.1,0.1
+Feb-21,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",173.2,1.1
+Feb-21,Canada,Energy,160.4,2.4
+Mar-21,Canada,All-items,139.6,2.2
+Mar-21,Canada,Food,155.5,1.8
+Mar-21,Canada,Shelter,150,2.4
+Mar-21,Canada,"Household operations, furnishings and equipment",123.5,-0.2
+Mar-21,Canada,Clothing and footwear,93.7,-5.4
+Mar-21,Canada,Transportation,148.8,7.1
+Mar-21,Canada,Health and personal care,130.5,1.5
+Mar-21,Canada,"Recreation, education and reading",116.4,0.3
+Mar-21,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",173.6,1.2
+Mar-21,Canada,Energy,167.4,19.1
+Apr-21,Canada,All-items,140.3,3.4
+Apr-21,Canada,Food,155.4,0.9
+Apr-21,Canada,Shelter,150.7,3.2
+Apr-21,Canada,"Household operations, furnishings and equipment",124.7,0.4
+Apr-21,Canada,Clothing and footwear,94.9,1.8
+Apr-21,Canada,Transportation,149.5,9.4
+Apr-21,Canada,Health and personal care,132.5,3
+Apr-21,Canada,"Recreation, education and reading",116.8,1.6
+Apr-21,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",174.4,1.3
+Apr-21,Canada,Energy,170.2,32.7
+May-21,Canada,All-items,141,3.6
+May-21,Canada,Food,156.6,1.5
+May-21,Canada,Shelter,151.7,4.2
+May-21,Canada,"Household operations, furnishings and equipment",124.7,0.9
+May-21,Canada,Clothing and footwear,95.1,3.9
+May-21,Canada,Transportation,150.3,7.6
+May-21,Canada,Health and personal care,132.4,3.1
+May-21,Canada,"Recreation, education and reading",117.6,1.8
+May-21,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",175.2,1.8
+May-21,Canada,Energy,173.2,26.4
+Jun-21,Canada,All-items,141.4,3.1
+Jun-21,Canada,Food,156.8,1.3
+Jun-21,Canada,Shelter,152.8,4.4
+Jun-21,Canada,"Household operations, furnishings and equipment",124.8,0.9
+Jun-21,Canada,Clothing and footwear,93.4,1.1
+Jun-21,Canada,Transportation,150.8,5.6
+Jun-21,Canada,Health and personal care,132.6,3.4
+Jun-21,Canada,"Recreation, education and reading",118,1.5
+Jun-21,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",175.5,1.9
+Jun-21,Canada,Energy,174.7,19.5
+Jul-21,Canada,All-items,142.3,3.7
+Jul-21,Canada,Food,157.6,1.7
+Jul-21,Canada,Shelter,153.5,4.8
+Jul-21,Canada,"Household operations, furnishings and equipment",125.6,1.1
+Jul-21,Canada,Clothing and footwear,93,1
+Jul-21,Canada,Transportation,152.2,6.6
+Jul-21,Canada,Health and personal care,133.4,3.6
+Jul-21,Canada,"Recreation, education and reading",119.7,2.9
+Jul-21,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",175,1.7
+Jul-21,Canada,Energy,179.2,19.7
+Aug-21,Canada,All-items,142.6,4.1
+Aug-21,Canada,Food,158,2.7
+Aug-21,Canada,Shelter,153.9,4.8
+Aug-21,Canada,"Household operations, furnishings and equipment",125.8,1.5
+Aug-21,Canada,Clothing and footwear,93.3,-0.2
+Aug-21,Canada,Transportation,153.8,8.7
+Aug-21,Canada,Health and personal care,133.3,2.9
+Aug-21,Canada,"Recreation, education and reading",118.6,2.2
+Aug-21,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",176.2,2.6
+Aug-21,Canada,Energy,180.2,20.7
+Sep-21,Canada,All-items,142.9,4.4
+Sep-21,Canada,Food,158.5,3.9
+Sep-21,Canada,Shelter,154.4,4.8
+Sep-21,Canada,"Household operations, furnishings and equipment",125.9,1.5
+Sep-21,Canada,Clothing and footwear,94.7,0.2
+Sep-21,Canada,Transportation,153.2,9.1
+Sep-21,Canada,Health and personal care,133.7,3
+Sep-21,Canada,"Recreation, education and reading",119,2.1
+Sep-21,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",175.8,2.1
+Sep-21,Canada,Energy,179.9,20.1
+Oct-21,Canada,All-items,143.9,4.7
+Oct-21,Canada,Food,159.2,3.8
+Oct-21,Canada,Shelter,155.4,4.8
+Oct-21,Canada,"Household operations, furnishings and equipment",126.5,1.8
+Oct-21,Canada,Clothing and footwear,96,0.6
+Oct-21,Canada,Transportation,155.4,10.1
+Oct-21,Canada,Health and personal care,133.9,2.8
+Oct-21,Canada,"Recreation, education and reading",120.1,3.4
+Oct-21,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",176.2,2.1
+Oct-21,Canada,Energy,187.5,25.5
+Nov-21,Canada,All-items,144.2,4.7
+Nov-21,Canada,Food,160.7,4.4
+Nov-21,Canada,Shelter,155.9,4.8
+Nov-21,Canada,"Household operations, furnishings and equipment",126.3,1.6
+Nov-21,Canada,Clothing and footwear,96.9,0.7
+Nov-21,Canada,Transportation,155.4,10
+Nov-21,Canada,Health and personal care,134.1,2.7
+Nov-21,Canada,"Recreation, education and reading",118.5,2.5
+Nov-21,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",176.6,2.6
+Nov-21,Canada,Energy,188.4,26.4
+Dec-21,Canada,All-items,144,4.8
+Dec-21,Canada,Food,161.6,5.2
+Dec-21,Canada,Shelter,156.8,5.4
+Dec-21,Canada,"Household operations, furnishings and equipment",126.1,2
+Dec-21,Canada,Clothing and footwear,93.1,1.1
+Dec-21,Canada,Transportation,154.9,8.9
+Dec-21,Canada,Health and personal care,133.4,2.6
+Dec-21,Canada,"Recreation, education and reading",117.7,1.9
+Dec-21,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",175.7,2.5
+Dec-21,Canada,Energy,184.2,21.2
+Jan-22,Canada,All-items,145.3,5.1
+Jan-22,Canada,Food,163.9,5.7
+Jan-22,Canada,Shelter,157.6,6.2
+Jan-22,Canada,"Household operations, furnishings and equipment",126.7,1.9
+Jan-22,Canada,Clothing and footwear,93.4,1.6
+Jan-22,Canada,Transportation,156.9,8.3
+Jan-22,Canada,Health and personal care,134.1,2.9
+Jan-22,Canada,"Recreation, education and reading",119.2,2.5
+Jan-22,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",178.2,3.3
+Jan-22,Canada,Energy,190,23.1
+Feb-22,Canada,All-items,146.8,5.7
+Feb-22,Canada,Food,166,6.7
+Feb-22,Canada,Shelter,158.6,6.6
+Feb-22,Canada,"Household operations, furnishings and equipment",127.6,2.7
+Feb-22,Canada,Clothing and footwear,93.8,1.2
+Feb-22,Canada,Transportation,159.9,8.7
+Feb-22,Canada,Health and personal care,134.6,3.1
+Feb-22,Canada,"Recreation, education and reading",120.9,4.1
+Feb-22,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",178.5,3.1
+Feb-22,Canada,Energy,199,24.1
