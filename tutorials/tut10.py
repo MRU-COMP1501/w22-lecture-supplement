@@ -43,6 +43,11 @@ def create_test_file():
 
 
 def decrypt_file(filename):
+    # Try to open filename. Read the first line into an integer
+    # representing the shift value, then decrypt the rest of the file
+    # using the Caesar cipher with the lowercase alphabet.
+    # Return the resulting text string.
+    # If something fails, return None
     try:
         f_obj = open(filename, 'r')
         shift = int(f_obj.readline())
@@ -64,26 +69,17 @@ def decrypt_file(filename):
             result += char
     return result
 
-    # Try to open filename. Read the first line into an integer
-    # representing the shift value, then decrypt the rest of the file
-    # using the Caesar cipher with the lowercase alphabet.
-    # Return the resulting text string.
-    # If something fails, return None
-    
-
 
 def main():
+    # call decrypt_file with the filename 'encrypted.txt'.
+    # If decrypt_file returns None, return from main. Otherwise,
+    # write the resulting message to a new file named 'decrypted.txt'
     message = decrypt_file('encrypted.txt')
     if message is None:
         return
     print(message)
     write_file('decrypted.txt', message)
-    # call decrypt_file with the filename 'encrypted.txt'.
-    # If decrypt_file returns None, return from main. Otherwise,
-    # write the resulting message to a new file named 'decrypted.txt'
     
-
-
 if __name__ == "__main__":
     main()
     # create_test_file()
