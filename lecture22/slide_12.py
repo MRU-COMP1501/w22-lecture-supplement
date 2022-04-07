@@ -1,11 +1,11 @@
 def swap_adjacent(some_nums):
     changing = False
     for i in range(1, len(some_nums)):
-            prev = some_nums[i - 1]
-            if prev < some_nums[i]:
-                some_nums[i - 1] = some_nums[i]
-                some_nums[i] = prev
-                changing = True
+        prev = some_nums[i - 1]
+        if prev < some_nums[i]:
+            some_nums[i - 1] = some_nums[i]
+            some_nums[i] = prev
+            changing = True
     return changing
 
 def sort(nums):
